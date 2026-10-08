@@ -1,0 +1,362 @@
+[
+ {
+  "id": "sau-01",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "77 anos",
+  "manchete": "Piauiense nascido em 2024 tem expectativa de vida de 77,0 anos",
+  "contexto": "Supera a média nacional (76,6 anos) e é a 3ª maior do Nordeste, atrás de RN e CE. Em 2000, a esperança de vida ao nascer no Piauí era de 70,8 anos.",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "76,6 anos"
+  },
+  "fonte": "IBGE, Projeções da População, Revisão 2024",
+  "fonte_url": "https://ftp.ibge.gov.br/Projecao_da_Populacao/Projecao_da_Populacao_2024/projecoes_2024_tab4_indicadores.xlsx",
+  "data_referencia": "2024-07",
+  "verificado_em": "2026-10-08",
+  "legenda": "Quem nasce no Piauí em 2024 tem esperança de vida ao nascer de 77,0 anos, segundo as Projeções da População do IBGE (Revisão 2024).\n\nO número supera a média brasileira (76,6 anos) e é o terceiro maior do Nordeste, atrás do Rio Grande do Norte (77,8) e do Ceará (77,3). Em 2000, o indicador piauiense era de 70,8 anos: ganho de mais de seis anos em duas décadas.\n\nEntre as mulheres piauienses, a expectativa chega a 80,8 anos; entre os homens, 73,3.\n\nFonte: IBGE, Projeções da População (Revisão 2024), tabela de indicadores implícitos.\n\nO que explica o Piauí viver mais que a média do país?\n\n#IPPI #DadoDoDia #Piauí #ExpectativaDeVida #IBGE #SaúdePública"
+ },
+ {
+  "id": "sau-02",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "14,6",
+  "manchete": "Mortalidade infantil no Piauí caiu de 40,4 para 14,6 por mil",
+  "contexto": "Taxa estimada para 2024, por mil nascidos vivos. Em 2000 era 40,4. A média do Brasil em 2024 é 12,2.",
+  "comparacao": {
+   "rotulo": "Piauí 2000",
+   "valor": "40,4"
+  },
+  "fonte": "IBGE, Projeções da População, Revisão 2024",
+  "fonte_url": "https://ftp.ibge.gov.br/Projecao_da_Populacao/Projecao_da_Populacao_2024/projecoes_2024_tab4_indicadores.xlsx",
+  "data_referencia": "2024-07",
+  "verificado_em": "2026-10-08",
+  "legenda": "A taxa de mortalidade infantil do Piauí é estimada em 14,6 óbitos de menores de 1 ano por mil nascidos vivos em 2024, segundo o IBGE.\n\nEm 2000, a taxa era de 40,4 por mil. A queda em 24 anos passa de 60%. Ainda assim, o estado segue acima da média nacional, que é de 12,2 por mil.\n\nA mortalidade infantil é um dos indicadores mais sensíveis à qualidade do pré-natal, do parto e da atenção básica.\n\nFonte: IBGE, Projeções da População (Revisão 2024).\n\nO que ainda falta para o Piauí alcançar a média do país?\n\n#IPPI #DadoDoDia #Piauí #MortalidadeInfantil #IBGE #SaúdePública"
+ },
+ {
+  "id": "sau-03",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "64,7%",
+  "manchete": "Quase 65% dos partos no Piauí foram cesáreas em 2024",
+  "contexto": "Foram 25.691 cesáreas entre 39.697 nascidos vivos de mães residentes no estado. No Brasil, a proporção foi de 60,6%.",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "60,6%"
+  },
+  "fonte": "MS/SINASC, nascidos vivos por tipo de parto, 2024",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvuf.def",
+  "data_referencia": "2024-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em 2024, 64,7% dos nascidos vivos de mães residentes no Piauí vieram ao mundo por cesariana: 25.691 de um total de 39.697 nascimentos, segundo o SINASC.\n\nA proporção piauiense supera a média brasileira (60,6%) e fica muito acima do patamar de 10% a 15% que a OMS considera justificável por razões médicas.\n\nOs dados são finais, extraídos pelo DATASUS em dezembro de 2025.\n\nFonte: Ministério da Saúde, SINASC/DATASUS (TabNet), 2024.\n\nPor que a cesárea virou regra, e não exceção?\n\n#IPPI #DadoDoDia #Piauí #Cesárea #SINASC #SaúdeMaterna"
+ },
+ {
+  "id": "sau-04",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "1.607",
+  "manchete": "Piauí tem 1.607 Unidades Básicas de Saúde cadastradas",
+  "contexto": "Levantamento do Censo Nacional das UBS (2024): 1.155 centros de saúde, 445 postos de saúde e 7 centros de apoio à saúde da família.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "49.738 UBS"
+  },
+  "fonte": "MS, Censo Nacional das UBS, 2024",
+  "fonte_url": "https://abrasco.org.br/wp-content/uploads/2025/07/SUMARIO-EXECUTIVO-CENSO-DAS-UBS.pdf",
+  "data_referencia": "2024-09",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí conta com 1.607 Unidades Básicas de Saúde, segundo o Censo Nacional das UBS realizado pelo Ministério da Saúde em 2024.\n\nSão 1.155 centros de saúde/unidades básicas, 445 postos de saúde e 7 centros de apoio à saúde da família. O Brasil soma 49.738 UBS elegíveis no mesmo levantamento.\n\nA UBS é a porta de entrada do SUS: é onde se faz pré-natal, vacinação, acompanhamento de crônicos e consultas de rotina.\n\nFonte: Ministério da Saúde, Censo Nacional das UBS (coleta jun-set/2024), sumário executivo.\n\nVocê sabe onde fica a UBS do seu bairro?\n\n#IPPI #DadoDoDia #Piauí #UBS #AtençãoPrimária #SUS"
+ },
+ {
+  "id": "sau-05",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "57,9%",
+  "manchete": "Piauí lidera o país na vacinação contra influenza em 2025",
+  "contexto": "Cobertura de 57,91% nos grupos prioritários (gestantes, crianças e idosos) na campanha 2025, a maior entre os estados. ES ficou em 2º, com 55,39%.",
+  "comparacao": {
+   "rotulo": "2º lugar (ES)",
+   "valor": "55,39%"
+  },
+  "fonte": "MS/Sesapi via Conass, Campanha Influenza 2025",
+  "fonte_url": "https://www.conass.org.br/?p=50777",
+  "data_referencia": "2025-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí alcançou 57,91% de cobertura vacinal contra a influenza nos grupos prioritários em 2025, o maior índice do país, segundo ranking do Ministério da Saúde divulgado pelo Conass.\n\nEspírito Santo (55,39%) e Paraná (54,08%) vieram em seguida. Até o fechamento do balanço, o estado havia aplicado 303 mil doses em idosos, 146 mil em crianças e 12 mil em gestantes.\n\nA gripe é uma das principais causas de internação de idosos e crianças pequenas no inverno.\n\nFonte: Ministério da Saúde e Sesapi, divulgado pelo Conass em 29/08/2025.\n\nVocê já se vacinou este ano?\n\n#IPPI #DadoDoDia #Piauí #Vacinação #Influenza #SUS"
+ },
+ {
+  "id": "sau-06",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "5.469",
+  "manchete": "Piauí registrou 5.469 casos prováveis de dengue até maio de 2025",
+  "contexto": "Dados do Ministério da Saúde até 31/05/2025 apontam 5.469 casos prováveis e 7 óbitos pela doença no estado.",
+  "comparacao": {
+   "rotulo": "Óbitos 2025",
+   "valor": "7"
+  },
+  "fonte": "MS, monitoramento das arboviroses, até 31/05/2025",
+  "fonte_url": "https://brasil61.com/n/piaui-estado-registra-5-4-mil-casos-provaveis-de-dengue-em-2025-aede253214",
+  "data_referencia": "2025-05",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí registrou 5.469 casos prováveis de dengue e 7 óbitos pela doença entre janeiro e maio de 2025, segundo o monitoramento de arboviroses do Ministério da Saúde.\n\nO número é pequeno diante do cenário nacional: no mesmo período, o Brasil somava mais de 1,4 milhão de casos prováveis.\n\nCaso provável é todo caso notificado que não foi descartado; inclui confirmados por laboratório e por critério clínico.\n\nFonte: Ministério da Saúde (dados até 31/05/2025), via Brasil 61.\n\nNa sua rua, ainda tem água parada?\n\n#IPPI #DadoDoDia #Piauí #Dengue #Arboviroses #Aedes"
+ },
+ {
+  "id": "sau-07",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "-8,2%",
+  "manchete": "Nascimentos no Piauí caíram 8,2% em 2024, segundo o IBGE",
+  "contexto": "Queda entre os nascidos em 2024 registrados até março de 2025 frente aos de 2023. No Brasil, a redução foi de 5,8%.",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "-5,8%"
+  },
+  "fonte": "IBGE, Estatísticas do Registro Civil 2024",
+  "fonte_url": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-registra-queda-no-numero-de-nascimentos-em-2024-diz-ibge/",
+  "data_referencia": "2024-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O número de nascimentos registrados no Piauí caiu 8,2% em 2024, uma das maiores quedas do país, segundo as Estatísticas do Registro Civil do IBGE.\n\nNo Brasil, a redução foi de 5,8%: foram 2,38 milhões de nascidos em 2024 e registrados até o 1º trimestre de 2025, contra 2,52 milhões em 2023.\n\nMenos nascimentos hoje significam menos crianças nas escolas amanhã e menos jovens no mercado de trabalho em 20 anos.\n\nFonte: IBGE, Estatísticas do Registro Civil 2024, via CNN Brasil.\n\nO Piauí está envelhecendo mais rápido do que o país?\n\n#IPPI #DadoDoDia #Piauí #Natalidade #IBGE #Demografia"
+ },
+ {
+  "id": "sau-08",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "6.016",
+  "manchete": "Piauí tem 6.016 leitos de internação disponíveis ao SUS",
+  "contexto": "Competência agosto/2026 do CNES. Equivale a cerca de 17,7 leitos SUS por 10 mil habitantes, acima da média nacional (14,8).",
+  "comparacao": {
+   "rotulo": "Brasil (por 10 mil hab.)",
+   "valor": "14,8"
+  },
+  "fonte": "MS/CNES, leitos de internação SUS, ago/2026",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def",
+  "data_referencia": "2026-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí tem 6.016 leitos de internação disponíveis ao SUS, de um total de 7.230 leitos existentes no estado, segundo o CNES (competência agosto/2026).\n\nIsso equivale a cerca de 17,7 leitos SUS por 10 mil habitantes, considerando a população projetada pelo IBGE para 2026. A média brasileira é de 14,8 por 10 mil.\n\nO número não diz onde estão os leitos: a distribuição entre capital e interior é outro capítulo.\n\nFonte: Ministério da Saúde, CNES/DATASUS (TabNet); população IBGE.\n\nQuantos desses leitos ficam fora de Teresina?\n\n#IPPI #DadoDoDia #Piauí #LeitosSUS #CNES #SaúdePública"
+ },
+ {
+  "id": "sau-09",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "8,7%",
+  "manchete": "Baixo peso ao nascer atingiu 8,7% dos bebês piauienses em 2024",
+  "contexto": "3.470 dos 39.697 nascidos vivos pesaram menos de 2.500 g. No Brasil, a proporção foi de 9,5%.",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "9,5%"
+  },
+  "fonte": "MS/SINASC, nascidos vivos por peso ao nascer, 2024",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvuf.def",
+  "data_referencia": "2024-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em 2024, 8,7% dos nascidos vivos de mães residentes no Piauí nasceram com baixo peso (menos de 2.500 gramas): 3.470 bebês entre 39.697 nascimentos, segundo o SINASC.\n\nA proporção piauiense ficou abaixo da média brasileira, de 9,5%.\n\nO baixo peso ao nascer está associado à prematuridade, ao pré-natal insuficiente e às condições de saúde da mãe, e é um dos principais preditores de mortalidade no primeiro ano de vida.\n\nFonte: Ministério da Saúde, SINASC/DATASUS (TabNet), dados finais de 2024.\n\nO pré-natal chega a todas as gestantes do seu município?\n\n#IPPI #DadoDoDia #Piauí #BaixoPeso #SINASC #SaúdeMaterna"
+ },
+ {
+  "id": "sau-10",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "1,27",
+  "manchete": "Maranhão tem 1,27 médico por mil habitantes, menor razão do país",
+  "contexto": "Demografia Médica 2025 (MS/FMUSP/AMB). A média nacional projetada para 2025 é de 2,98 médicos por mil habitantes.",
+  "comparacao": {
+   "rotulo": "Brasil 2025",
+   "valor": "2,98"
+  },
+  "fonte": "Demografia Médica no Brasil 2025 (MS/FMUSP/AMB)",
+  "fonte_url": "https://www.poder360.com.br/poder-saude/brasil-deve-chegar-a-635-706-medicos-em-2025/",
+  "data_referencia": "2025-04",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão tem 1,27 médico por mil habitantes, a menor proporção entre os 27 estados, segundo a Demografia Médica no Brasil 2025, estudo do Ministério da Saúde com a FMUSP e a AMB.\n\nA média nacional deve chegar a 2,98 médicos por mil habitantes em 2025, com 635.706 profissionais em atividade no país.\n\nA razão maranhense é menos da metade da brasileira, e a concentração nas capitais torna o quadro ainda mais desigual no interior.\n\nFonte: Demografia Médica no Brasil 2025, via Poder360.\n\nQuantos médicos atendem no seu município?\n\n#IPPI #DadoDoDia #Maranhão #DemografiaMédica #SUS #SaúdePública"
+ },
+ {
+  "id": "sau-11",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "14,6",
+  "manchete": "Mortalidade infantil no Maranhão: de 41,8 para 14,6 por mil",
+  "contexto": "Taxa estimada para 2024, por mil nascidos vivos. No fim do século XX era 41,8. A média brasileira em 2024 é 12,2.",
+  "comparacao": {
+   "rotulo": "Maranhão 2000",
+   "valor": "41,8"
+  },
+  "fonte": "IBGE, Projeções da População, Revisão 2024",
+  "fonte_url": "https://ftp.ibge.gov.br/Projecao_da_Populacao/Projecao_da_Populacao_2024/projecoes_2024_tab4_indicadores.xlsx",
+  "data_referencia": "2024-07",
+  "verificado_em": "2026-10-08",
+  "legenda": "A taxa de mortalidade infantil do Maranhão é estimada em 14,6 óbitos de menores de 1 ano por mil nascidos vivos em 2024, segundo as Projeções da População do IBGE.\n\nEm 2000, o estado registrava 41,8 por mil. A redução supera 65% em pouco mais de duas décadas, mas o Maranhão ainda está acima da média nacional (12,2).\n\nA projeção do IBGE aponta 6,0 por mil para 2070.\n\nFonte: IBGE, Projeções da População (Revisão 2024).\n\nO que mudou na saúde materno-infantil maranhense nesses 24 anos?\n\n#IPPI #DadoDoDia #Maranhão #MortalidadeInfantil #IBGE #SaúdePública"
+ },
+ {
+  "id": "sau-12",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "75,6 a.",
+  "manchete": "Maranhense nascido em 2024 tem expectativa de vida de 75,6 anos",
+  "contexto": "Um ano abaixo da média nacional (76,6). Em 2000, a esperança de vida ao nascer no Maranhão era de 69,8 anos.",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "76,6 anos"
+  },
+  "fonte": "IBGE, Projeções da População, Revisão 2024",
+  "fonte_url": "https://ftp.ibge.gov.br/Projecao_da_Populacao/Projecao_da_Populacao_2024/projecoes_2024_tab4_indicadores.xlsx",
+  "data_referencia": "2024-07",
+  "verificado_em": "2026-10-08",
+  "legenda": "Quem nasce no Maranhão em 2024 tem esperança de vida ao nascer de 75,6 anos, segundo as Projeções da População do IBGE (Revisão 2024).\n\nO estado fica um ano abaixo da média brasileira (76,6 anos). Em 2000, a expectativa maranhense era de 69,8 anos: ganho de quase seis anos no período.\n\nEntre as mulheres, o indicador chega a 78,8 anos; entre os homens, 72,5.\n\nFonte: IBGE, Projeções da População (Revisão 2024), tabela de indicadores implícitos.\n\nO que explica a diferença de seis anos entre homens e mulheres?\n\n#IPPI #DadoDoDia #Maranhão #ExpectativaDeVida #IBGE #SaúdePública"
+ },
+ {
+  "id": "sau-13",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "99,7%",
+  "manchete": "Maranhão vacinou 99,66% dos bebês contra pneumococo em 2025",
+  "contexto": "Cobertura da Pneumo 10 em menores de 1 ano, dados da RNDS/MS até abril de 2025. A meta nacional é 95%.",
+  "comparacao": {
+   "rotulo": "Meta nacional",
+   "valor": "95%"
+  },
+  "fonte": "MS/RNDS via Conass e SES-MA, dados até abr/2025",
+  "fonte_url": "https://www.conass.org.br/?p=49205",
+  "data_referencia": "2025-04",
+  "verificado_em": "2026-10-08",
+  "legenda": "A cobertura da vacina Pneumo 10 em menores de 1 ano chegou a 99,66% no Maranhão, segundo dados da Rede Nacional de Dados em Saúde (RNDS) do Ministério da Saúde atualizados até abril de 2025.\n\nOutras vacinas de 1 a 4 anos também superaram a meta de 95%: DTP 1º reforço (96,69%), Pneumo 10 reforço (96,98%), Meningo C reforço (97,62%) e tríplice viral 1ª dose (97,43%).\n\nO desafio segue nas segundas doses: tríplice viral 2ª dose em 78,73% e varicela em 76,65%.\n\nFonte: Ministério da Saúde/RNDS, divulgado pelo Conass e SES-MA em junho de 2025.\n\nA caderneta do seu filho está em dia?\n\n#IPPI #DadoDoDia #Maranhão #Vacinação #PNI #SUS"
+ },
+ {
+  "id": "sau-14",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "2.529",
+  "manchete": "Maranhão tem 2.529 Unidades Básicas de Saúde cadastradas",
+  "contexto": "Censo Nacional das UBS (2024): 2.111 centros de saúde, 383 postos de saúde, 26 centros de apoio à saúde da família e 8 unidades mistas.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "49.738 UBS"
+  },
+  "fonte": "MS, Censo Nacional das UBS, 2024",
+  "fonte_url": "https://abrasco.org.br/wp-content/uploads/2025/07/SUMARIO-EXECUTIVO-CENSO-DAS-UBS.pdf",
+  "data_referencia": "2024-09",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão conta com 2.529 Unidades Básicas de Saúde, segundo o Censo Nacional das UBS realizado pelo Ministério da Saúde em 2024.\n\nSão 2.111 centros de saúde/unidades básicas, 383 postos de saúde, 26 centros de apoio à saúde da família, 8 unidades mistas e 1 unidade móvel. O Brasil soma 49.738 UBS elegíveis no levantamento.\n\nEm média, há uma UBS para cada grupo de cerca de 2.800 maranhenses, considerando a população projetada pelo IBGE para 2024.\n\nFonte: Ministério da Saúde, Censo Nacional das UBS (coleta jun-set/2024), sumário executivo.\n\nSua UBS funciona em horário estendido?\n\n#IPPI #DadoDoDia #Maranhão #UBS #AtençãoPrimária #SUS"
+ },
+ {
+  "id": "sau-15",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "92.173",
+  "manchete": "Maranhão registrou 92.173 nascidos vivos em 2024",
+  "contexto": "Nascimentos de mães residentes no estado (dados finais do SINASC). É quase 4% de todos os nascimentos do Brasil (2.389.325).",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "2.389.325"
+  },
+  "fonte": "MS/SINASC, nascidos vivos por residência da mãe, 2024",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvuf.def",
+  "data_referencia": "2024-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão registrou 92.173 nascidos vivos de mães residentes no estado em 2024, segundo os dados finais do SINASC, extraídos pelo DATASUS em dezembro de 2025.\n\nÉ o quarto maior volume de nascimentos do Nordeste, atrás de Bahia, Pernambuco e Ceará, e representa 3,9% dos 2.389.325 nascimentos do país no ano.\n\nOs dados preliminares de 2025 apontam 92.115 nascimentos, praticamente o mesmo patamar.\n\nFonte: Ministério da Saúde, SINASC/DATASUS (TabNet), 2024.\n\nO Maranhão ainda é um dos estados mais jovens do Brasil. Por quanto tempo?\n\n#IPPI #DadoDoDia #Maranhão #NascidosVivos #SINASC #Demografia"
+ },
+ {
+  "id": "sau-16",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "-60%",
+  "manchete": "Casos de chikungunya no Maranhão caíram 60% no 1º semestre de 2025",
+  "contexto": "Foram 259 casos confirmados entre janeiro e junho de 2025, contra 651 no mesmo período de 2024, segundo a SES-MA.",
+  "comparacao": {
+   "rotulo": "1º sem. 2024",
+   "valor": "651 casos"
+  },
+  "fonte": "SES-MA, casos confirmados de chikungunya, jan-jun/2025",
+  "fonte_url": "https://oimparcial.com.br/noticias/2025/07/casos-de-chikungunya-caem-60-no-maranhao-no-1o-semestre-de-2025/",
+  "data_referencia": "2025-06",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão confirmou 259 casos de chikungunya no primeiro semestre de 2025, contra 651 no mesmo período de 2024: queda de 60%, segundo a Secretaria de Estado da Saúde.\n\nA chikungunya é transmitida pelo mesmo mosquito da dengue, o Aedes aegypti, e tem como marca as dores articulares intensas, que podem durar meses.\n\nA redução acompanha a queda dos casos de dengue observada no estado no mesmo período.\n\nFonte: Secretaria de Estado da Saúde do Maranhão (SES-MA), via O Imparcial, 28/07/2025.\n\nO que explica a queda: clima, vigilância ou os dois?\n\n#IPPI #DadoDoDia #Maranhão #Chikungunya #Arboviroses #Aedes"
+ },
+ {
+  "id": "sau-17",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "59,1%",
+  "manchete": "Cesáreas foram 59,1% dos partos no Maranhão em 2024",
+  "contexto": "Foram 54.434 cesáreas entre 92.173 nascidos vivos de mães residentes no estado. A proporção fica abaixo da média nacional (60,6%).",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "60,6%"
+  },
+  "fonte": "MS/SINASC, nascidos vivos por tipo de parto, 2024",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvuf.def",
+  "data_referencia": "2024-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em 2024, 59,1% dos nascidos vivos de mães residentes no Maranhão nasceram por cesariana: 54.434 de um total de 92.173, segundo o SINASC.\n\nO estado fica abaixo da média brasileira (60,6%) e bem abaixo do Piauí (64,7%), mas ainda muito acima do patamar de 10% a 15% que a OMS considera justificável por razões médicas.\n\nOs dados são finais, extraídos pelo DATASUS em dezembro de 2025.\n\nFonte: Ministério da Saúde, SINASC/DATASUS (TabNet), 2024.\n\nParto normal ou cesárea: quem decide?\n\n#IPPI #DadoDoDia #Maranhão #Cesárea #SINASC #SaúdeMaterna"
+ },
+ {
+  "id": "sau-18",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "13.267",
+  "manchete": "Maranhão tem 13.267 leitos de internação disponíveis ao SUS",
+  "contexto": "Competência agosto/2026 do CNES. Equivale a cerca de 18,9 leitos SUS por 10 mil habitantes, acima da média nacional (14,8).",
+  "comparacao": {
+   "rotulo": "Brasil (por 10 mil hab.)",
+   "valor": "14,8"
+  },
+  "fonte": "MS/CNES, leitos de internação SUS, ago/2026",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def",
+  "data_referencia": "2026-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão tem 13.267 leitos de internação disponíveis ao SUS, de um total de 15.203 leitos existentes no estado, segundo o CNES (competência agosto/2026).\n\nIsso equivale a cerca de 18,9 leitos SUS por 10 mil habitantes, considerando a população projetada pelo IBGE para 2026. A média brasileira é de 14,8 por 10 mil.\n\nNo Maranhão, 87% dos leitos existentes são SUS, uma das maiores proporções do país.\n\nFonte: Ministério da Saúde, CNES/DATASUS (TabNet); população IBGE.\n\nLeito disponível é leito ocupado? Nem sempre: a distribuição regional pesa.\n\n#IPPI #DadoDoDia #Maranhão #LeitosSUS #CNES #SaúdePública"
+ },
+ {
+  "id": "sau-19",
+  "pilar": "saude",
+  "uf": "PI+MA",
+  "selo": "SAÚDE · PIAUÍ E MARANHÃO",
+  "numero": "713",
+  "manchete": "Dengue: Brasil teve 713 casos por 100 mil; Piauí, 160; Maranhão, 69",
+  "contexto": "Incidência de casos prováveis por 100 mil hab. nas 22 primeiras semanas de 2025 (até 31/05). Piauí: 5.235 casos; Maranhão: 4.675; Brasil: 1,45 milhão.",
+  "comparacao": {
+   "rotulo": "Piauí / Maranhão",
+   "valor": "160,1 / 69,0"
+  },
+  "fonte": "MS, Informe Semanal Arboviroses nº 16/2025 (SE 1-22)",
+  "fonte_url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/arboviroses/informe-semanal/2025/informe-semanal-no-16",
+  "data_referencia": "2025-05",
+  "verificado_em": "2026-10-08",
+  "legenda": "Nas 22 primeiras semanas de 2025, o Brasil registrou 713,1 casos prováveis de dengue por 100 mil habitantes. No Piauí, a incidência foi de 160,1; no Maranhão, de 69,0.\n\nEm números absolutos: 1.447.993 casos no país, 5.235 no Piauí e 4.675 no Maranhão, segundo o Sinan.\n\nOs dois estados ficaram muito abaixo da média nacional no período. Mas a dengue é cíclica, e anos de baixa costumam preceder anos de alta.\n\nFonte: Ministério da Saúde, Informe Semanal de Arboviroses nº 16/2025 (SE 1 a 22, dados de 02/06/2025).\n\nPor que o Nordeste ocidental teve menos dengue que o Sudeste em 2025?\n\n#IPPI #DadoDoDia #Piauí #Maranhão #Dengue #Arboviroses"
+ },
+ {
+  "id": "sau-20",
+  "pilar": "saude",
+  "uf": "PI+MA",
+  "selo": "SAÚDE · PIAUÍ E MARANHÃO",
+  "numero": "11,5%",
+  "manchete": "Um em cada nove bebês no Piauí e no Maranhão nasce prematuro",
+  "contexto": "Em 2022, 11,46% dos nascidos vivos no Piauí e 11,56% no Maranhão tinham menos de 37 semanas. Brasil: 11,85%; Nordeste: 11,84%.",
+  "comparacao": {
+   "rotulo": "Brasil 2022",
+   "valor": "11,85%"
+  },
+  "fonte": "MS, Boletim Epidemiológico v.55 n.13 (SINASC 2012-2022)",
+  "fonte_url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/edicoes/2024/boletim-epidemiologico-volume-55-no-13.pdf",
+  "data_referencia": "2022-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em 2022, 11,46% dos bebês nascidos no Piauí e 11,56% dos nascidos no Maranhão eram prematuros (menos de 37 semanas de gestação), segundo boletim do Ministério da Saúde com dados do SINASC.\n\nOs dois estados ficaram ligeiramente abaixo da média do Brasil (11,85%) e do Nordeste (11,84%).\n\nA prevalência de prematuridade oscila pouco na série 2012-2022: entre 10% e 12% nos dois estados em todos os anos.\n\nFonte: Ministério da Saúde, Boletim Epidemiológico vol. 55, nº 13 (2024), Tabela 1.\n\nO que o pré-natal pode fazer para reduzir esse número?\n\n#IPPI #DadoDoDia #Piauí #Maranhão #Prematuridade #SINASC"
+ }
+]

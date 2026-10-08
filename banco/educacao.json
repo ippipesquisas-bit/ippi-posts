@@ -1,0 +1,362 @@
+[
+ {
+  "id": "edu-01",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "5,0",
+  "manchete": "Ideb do ensino médio do Piauí chega a 5,0 em 2025",
+  "contexto": "O índice subiu de 4,5 (2023) para 5,0 (2025), maior valor da série iniciada em 2005. A média do Brasil na etapa é 4,5.",
+  "comparacao": {
+   "rotulo": "Brasil (ensino médio)",
+   "valor": "4,5"
+  },
+  "fonte": "Inep/MEC, Ideb 2025 (divulgado em 05/08/2026)",
+  "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-piaui",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Ideb do ensino médio do Piauí alcançou 5,0 em 2025. Em 2023, era 4,5.\n\nÉ o maior valor da série histórica do estado, iniciada em 2005, e fica acima da média nacional da etapa, que é 4,5.\n\nO Ideb combina o desempenho dos estudantes no Saeb com as taxas de aprovação do Censo Escolar.\n\nFonte: Inep/MEC, Ideb 2025.\n\nO que explica o avanço do ensino médio piauiense? Comente.\n\n#IPPI #DadoDoDia #Ideb #Piauí #EnsinoMédio #Educação"
+ },
+ {
+  "id": "edu-02",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · TERESINA",
+  "numero": "6,9",
+  "manchete": "Teresina tem o maior Ideb dos anos iniciais entre as capitais",
+  "contexto": "A rede municipal de Teresina marcou 6,9 nos anos iniciais (empatada com Curitiba) e 5,9 nos anos finais, 1º lugar entre as 26 capitais no Ideb 2025.",
+  "comparacao": {
+   "rotulo": "Anos finais (1º entre capitais)",
+   "valor": "5,9"
+  },
+  "fonte": "MEC/Inep, Ideb 2025, via Portal de Prefeitura",
+  "fonte_url": "https://portaldeprefeitura.com.br/pernambuco/ideb-2025-recife-fica-atras-de-teresina-fortaleza-sao-luis-e/629015/",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Teresina lidera o Ideb 2025 entre as capitais brasileiras: 6,9 nos anos iniciais do ensino fundamental (empatada com Curitiba) e 5,9 nos anos finais, 1º lugar isolado.\n\nEntre as capitais do Nordeste, a segunda colocada nos anos iniciais é Fortaleza, com 6,1.\n\nO resultado se refere à rede municipal, responsável pela maior parte das matrículas do fundamental na capital.\n\nFonte: MEC/Inep, Ideb 2025 (via Portal de Prefeitura).\n\nVocê conhece o trabalho das escolas municipais de Teresina? Conta pra gente.\n\n#IPPI #DadoDoDia #Ideb #Teresina #EducaçãoMunicipal #Piauí"
+ },
+ {
+  "id": "edu-03",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "4,9",
+  "manchete": "Rede pública do Piauí tem Ideb 4,9 no ensino médio",
+  "contexto": "O Ideb da rede pública piauiense no ensino médio subiu de 4,3 (2023) para 4,9 (2025). A rede pública brasileira ficou em 4,3.",
+  "comparacao": {
+   "rotulo": "Rede pública do Brasil",
+   "valor": "4,3"
+  },
+  "fonte": "Inep/MEC, Ideb 2025, rede pública",
+  "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-piaui",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "No ensino médio da rede pública, o Piauí alcançou Ideb 4,9 em 2025. Dois anos antes, o índice era 4,3.\n\nA rede pública do Brasil, no mesmo recorte, chegou a 4,3. O Piauí está entre os três melhores resultados estaduais do país nessa etapa.\n\nNos anos iniciais, a rede pública piauiense marcou 6,1; nos anos finais, 5,2.\n\nFonte: Inep/MEC, Ideb 2025.\n\nQual indicador você acompanha para avaliar a escola pública? Comente.\n\n#IPPI #DadoDoDia #Ideb #Piauí #EscolaPública #EnsinoMédio"
+ },
+ {
+  "id": "edu-04",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "75,1%",
+  "manchete": "Piauí lidera o país em ensino médio público em tempo integral",
+  "contexto": "No Censo Escolar 2025, 85.780 das 114.193 matrículas do ensino médio público do Piauí (75,12%) eram em tempo integral, maior proporção do Brasil.",
+  "comparacao": {
+   "rotulo": "2º lugar: Pernambuco",
+   "valor": "60,35%"
+  },
+  "fonte": "Inep/MEC, Censo Escolar 2025, via Diário do Nordeste",
+  "fonte_url": "https://diariodonordeste.verdesmares.com.br/ceara/estados-do-nordeste-lideram-oferta-de-ensino-medio-integral-na-rede-publica-ce-e-3-em-matriculas-1.3745970",
+  "data_referencia": "2025-05",
+  "verificado_em": "2026-10-08",
+  "legenda": "Três em cada quatro estudantes do ensino médio público do Piauí estudam em tempo integral: 85.780 das 114.193 matrículas, ou 75,12%.\n\nÉ a maior proporção do Brasil. Em seguida vêm Pernambuco (60,35%) e Ceará (57,89%).\n\nO tempo integral amplia a jornada diária na escola e é um dos fatores associados à melhora de aprendizagem e permanência.\n\nFonte: Inep/MEC, Censo Escolar 2025 (via Diário do Nordeste).\n\nVocê estudou ou estuda em escola de tempo integral? Como foi?\n\n#IPPI #DadoDoDia #CensoEscolar #Piauí #TempoIntegral #EnsinoMédio"
+ },
+ {
+  "id": "edu-05",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "0,4%",
+  "manchete": "Piauí tem 2ª menor taxa de abandono no ensino médio: 0,4%",
+  "contexto": "Pelo Censo Escolar 2025, só Mato Grosso (0,1%) teve taxa de abandono menor no ensino médio. A média nacional é 2,2% e a do Nordeste, 1,9%.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "2,2%"
+  },
+  "fonte": "Inep/MEC, Censo Escolar 2025, via Diário do Nordeste",
+  "fonte_url": "https://diariodonordeste.verdesmares.com.br/ceara/abandono-escolar-no-ensino-medio-do-ce-chega-ao-menor-indice-dos-ultimos-10-anos-1.3772998",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "A taxa de abandono no ensino médio do Piauí foi de 0,4% em 2025, a segunda menor do Brasil. Apenas Mato Grosso (0,1%) registrou índice inferior.\n\nNo país, o abandono na etapa ficou em 2,2%; no Nordeste, em 1,9%.\n\nA taxa mede os estudantes que deixaram a escola ao longo do ano letivo sem concluir a série.\n\nFonte: Inep/MEC, Censo Escolar 2025 (via Diário do Nordeste).\n\nO que mais pesa para um jovem continuar na escola? Comente.\n\n#IPPI #DadoDoDia #CensoEscolar #Piauí #EnsinoMédio #Permanência"
+ },
+ {
+  "id": "edu-06",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "114",
+  "manchete": "Escolas públicas do Piauí conquistaram 114 medalhas na OBMEP 2025",
+  "contexto": "Na 20ª OBMEP, estudantes de escolas públicas piauienses receberam 11 medalhas de ouro, 27 de prata e 76 de bronze. Em 2024, foram 124 (12 ouros).",
+  "comparacao": {
+   "rotulo": "Ouros em 2025",
+   "valor": "11"
+  },
+  "fonte": "OBMEP/IMPA, premiação da 20ª OBMEP (2025)",
+  "fonte_url": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosOuro.do.htm",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Estudantes de escolas públicas do Piauí conquistaram 114 medalhas na 20ª Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP 2025): 11 de ouro, 27 de prata e 76 de bronze.\n\nNa edição anterior (2024), foram 124 medalhas, sendo 12 de ouro.\n\nSomando as escolas privadas, o estado chegou a 147 medalhas em 2025.\n\nFonte: OBMEP/IMPA, listas oficiais de premiados da 20ª OBMEP (contagem por UF).\n\nVocê conhece algum medalhista da OBMEP? Marque aqui.\n\n#IPPI #DadoDoDia #OBMEP #Piauí #Matemática #EscolaPública"
+ },
+ {
+  "id": "edu-07",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "120 mil",
+  "manchete": "Piauí teve 120.040 inscrições confirmadas no Enem 2025",
+  "contexto": "Entre os inscritos piauienses, 59,3% são mulheres (71.179) e 31.417 são concluintes do ensino médio da rede pública. O Brasil somou 4.811.338.",
+  "comparacao": {
+   "rotulo": "Mulheres",
+   "valor": "59,3%"
+  },
+  "fonte": "Inep/MEC, Painel do Enem 2025, via MEC/Notícia Marajó",
+  "fonte_url": "https://noticiamarajo.com.br/educacao/enem-2025-mais-de-31-mil-inscritos-do-piaui-sao-concluintes-do-ensino-medio-publico/",
+  "data_referencia": "2025-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí registrou 120.040 inscrições confirmadas no Enem 2025.\n\nAs mulheres são maioria: 71.179 inscritas (59,3%). Entre os candidatos, 31.417 eram concluintes do ensino médio da rede pública, público prioritário do exame.\n\nA faixa mais numerosa é a de 17 anos (24.480), seguida pelos jovens de 18 anos (24.158).\n\nFonte: Inep/MEC, Painel do Enem 2025.\n\nVocê fez o Enem este ano? Qual foi o maior desafio?\n\n#IPPI #DadoDoDia #Enem2025 #Piauí #Vestibular #Juventude"
+ },
+ {
+  "id": "edu-08",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "17,2%",
+  "manchete": "Piauí tem 17,2% de analfabetos entre pessoas de 15 anos ou mais",
+  "contexto": "No Censo 2022, a taxa de alfabetização do Piauí foi 82,77%, a segunda menor do país (atrás só de Alagoas). A taxa de analfabetismo do Brasil é 7,0%.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "7,0%"
+  },
+  "fonte": "IBGE, Censo Demográfico 2022, alfabetização",
+  "fonte_url": "https://servicodados.ibge.gov.br/api/v1/pesquisas/10101/indicadores/126661/resultados/21|22|0",
+  "data_referencia": "2022-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "No Censo 2022, 82,77% dos piauienses de 15 anos ou mais eram alfabetizados. Isso significa uma taxa de analfabetismo de 17,2%, a segunda maior do Brasil, atrás apenas de Alagoas.\n\nA média nacional de analfabetismo é 7,0%; no Nordeste, 14,2%.\n\nO analfabetismo se concentra nas faixas etárias mais velhas e na zona rural, o que torna a redução um processo lento.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nVocê conhece iniciativas de alfabetização de adultos na sua cidade?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #Alfabetização #IBGE"
+ },
+ {
+  "id": "edu-09",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "+16,6",
+  "manchete": "Matemática no 3º ano do EM piauiense sobe 16,6 pontos no Saeb",
+  "contexto": "No Saeb, a média de matemática do 3º ano do ensino médio piauiense passou de 275,37 (2023) para 291,97 (2025). Em português, foi de 274,57 para 284,98.",
+  "comparacao": {
+   "rotulo": "Português (2023 → 2025)",
+   "valor": "274,57 → 284,98"
+  },
+  "fonte": "Inep/MEC, Saeb 2025 (escala 0 a 500)",
+  "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-piaui",
+  "data_referencia": "2025-11",
+  "verificado_em": "2026-10-08",
+  "legenda": "Os estudantes do 3º ano do ensino médio do Piauí avançaram 16,6 pontos em matemática no Saeb: de 275,37 (2023) para 291,97 (2025), na escala de 0 a 500.\n\nEm língua portuguesa, a média subiu de 274,57 para 284,98 (+10,4 pontos).\n\nO Saeb é a avaliação nacional que, junto com as taxas de aprovação, compõe o Ideb.\n\nFonte: Inep/MEC, Saeb 2025.\n\nNa sua opinião, o que mais ajuda a aprender matemática no ensino médio?\n\n#IPPI #DadoDoDia #Saeb #Piauí #Matemática #EnsinoMédio"
+ },
+ {
+  "id": "edu-10",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "5,7",
+  "manchete": "Ideb dos anos iniciais do Maranhão sobe para 5,7, recorde do estado",
+  "contexto": "O índice dos anos iniciais do fundamental passou de 5,4 (2023) para 5,7 (2025). A rede pública maranhense foi de 5,1 para 5,5. Média do Brasil: 6,3.",
+  "comparacao": {
+   "rotulo": "Brasil (anos iniciais)",
+   "valor": "6,3"
+  },
+  "fonte": "Inep/MEC, Ideb 2025 (divulgado em 05/08/2026)",
+  "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-maranhao",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Ideb dos anos iniciais do ensino fundamental no Maranhão chegou a 5,7 em 2025, contra 5,4 em 2023. É o maior valor da série histórica do estado.\n\nNa rede pública, o índice passou de 5,1 para 5,5.\n\nA média nacional da etapa é 6,3, então a distância para o Brasil segue em 0,6 ponto.\n\nFonte: Inep/MEC, Ideb 2025.\n\nO que você acha que mais contribui para o avanço nos anos iniciais?\n\n#IPPI #DadoDoDia #Ideb #Maranhão #EnsinoFundamental #Educação"
+ },
+ {
+  "id": "edu-11",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "3,9",
+  "manchete": "Ensino médio do Maranhão atinge Ideb 3,9, melhor marca da série",
+  "contexto": "O Ideb do ensino médio maranhense foi de 3,8 (2023) para 3,9 (2025), o maior desde 2005. Ainda fica 0,6 ponto abaixo da média do Brasil (4,5).",
+  "comparacao": {
+   "rotulo": "Brasil (ensino médio)",
+   "valor": "4,5"
+  },
+  "fonte": "Inep/MEC, Ideb 2025",
+  "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-maranhao",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Ideb do ensino médio do Maranhão alcançou 3,9 em 2025, ante 3,8 em 2023. É o maior valor da série histórica do estado, iniciada em 2005.\n\nA média do Brasil na etapa é 4,5. Na rede pública maranhense, o índice foi de 3,7 para 3,8.\n\nNos anos finais do fundamental, o Maranhão marcou 4,7 (Brasil: 5,3).\n\nFonte: Inep/MEC, Ideb 2025.\n\nQual etapa da educação básica merece mais atenção hoje? Comente.\n\n#IPPI #DadoDoDia #Ideb #Maranhão #EnsinoMédio #Educação"
+ },
+ {
+  "id": "edu-12",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · SÃO LUÍS",
+  "numero": "6,0",
+  "manchete": "São Luís marca 6,0 nos anos iniciais no Ideb 2025",
+  "contexto": "A capital maranhense ficou em 14º entre as 26 capitais nos anos iniciais (6,0) e em 4,4 nos anos finais. No Nordeste, só Teresina (6,9) e Fortaleza (6,1) estão à frente.",
+  "comparacao": {
+   "rotulo": "Anos finais",
+   "valor": "4,4"
+  },
+  "fonte": "MEC/Inep, Ideb 2025, via Portal de Prefeitura",
+  "fonte_url": "https://portaldeprefeitura.com.br/pernambuco/ideb-2025-recife-fica-atras-de-teresina-fortaleza-sao-luis-e/629015/",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "No Ideb 2025, São Luís marcou 6,0 nos anos iniciais do ensino fundamental, a 14ª nota entre as 26 capitais do país.\n\nEntre as capitais do Nordeste, São Luís é a terceira: atrás de Teresina (6,9) e Fortaleza (6,1), e à frente de Aracaju e Recife (5,8).\n\nNos anos finais, a capital maranhense ficou com 4,4.\n\nFonte: MEC/Inep, Ideb 2025 (via Portal de Prefeitura).\n\nO que você espera da escola pública de São Luís nos próximos anos?\n\n#IPPI #DadoDoDia #Ideb #SãoLuís #Maranhão #EducaçãoMunicipal"
+ },
+ {
+  "id": "edu-13",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "69%",
+  "manchete": "69% das crianças do Maranhão estão alfabetizadas ao fim do 2º ano",
+  "contexto": "Pelo Indicador Criança Alfabetizada 2025, o Maranhão passou de 60% (2024) para 69%, acima da média do Brasil (66%) e 10º entre os estados.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "66%"
+  },
+  "fonte": "MEC/Inep, Criança Alfabetizada 2025, via O Imparcial",
+  "fonte_url": "https://oimparcial.com.br/noticias/2026/03/maranhao-supera-meta-de-alfabetizacao-e-ja-ultrapassa-indice-previsto-para-2026/",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "No Maranhão, 69% das crianças chegaram ao fim do 2º ano do ensino fundamental alfabetizadas em 2025, segundo o Indicador Criança Alfabetizada.\n\nEm 2024, o percentual era 60%. A média nacional em 2025 ficou em 66%.\n\nCom o resultado, o estado ocupa a 10ª posição no ranking nacional e a 4ª no Nordeste.\n\nFonte: MEC/Inep, Indicador Criança Alfabetizada 2025 (via O Imparcial).\n\nAlfabetizar até os 7 anos: qual o papel da família nesse processo?\n\n#IPPI #DadoDoDia #Alfabetização #Maranhão #CriançaAlfabetizada #Educação"
+ },
+ {
+  "id": "edu-14",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "84,8%",
+  "manchete": "84,8% das escolas públicas do Maranhão têm internet",
+  "contexto": "Em 2015, só 21,6% das escolas públicas maranhenses tinham acesso à internet. Em 2025, 84,8% (97,5% na zona urbana e 78,9% na rural). Média nacional: 93,1%.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "93,1%"
+  },
+  "fonte": "Inep/MEC, Censo Escolar 2025, via O Imparcial",
+  "fonte_url": "https://oimparcial.com.br/brasil/2026/03/maranhao-amplia-acesso-a-internet-em-escolas-publicas-e-alcanca-848-de-conectividade/",
+  "data_referencia": "2025-05",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em dez anos, a parcela de escolas públicas do Maranhão com acesso à internet saltou de 21,6% (2015) para 84,8% (2025).\n\nNa zona urbana, a cobertura chega a 97,5%; na zona rural, a 78,9%. A média nacional é 93,1%.\n\nO uso pedagógico ainda é menor: 47,9% das escolas públicas maranhenses declararam internet para fins de ensino.\n\nFonte: Inep/MEC, Censo Escolar 2025 (via O Imparcial).\n\nInternet na escola muda o aprendizado? O que você observa?\n\n#IPPI #DadoDoDia #CensoEscolar #Maranhão #Conectividade #EscolaPública"
+ },
+ {
+  "id": "edu-15",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "R$ 6 bi",
+  "manchete": "Maranhão recebe R$ 6,04 bilhões da União no Fundeb 2026",
+  "contexto": "A complementação VAAF prevista para o Maranhão em 2026 é a 2ª maior do país, atrás da Bahia (R$ 6,29 bi). Ela se soma aos R$ 8,59 bi arrecadados pelo estado e municípios.",
+  "comparacao": {
+   "rotulo": "Receita total do fundo (VAAF)",
+   "valor": "R$ 14,62 bi"
+  },
+  "fonte": "FNDE, Portaria Interm. MEC/MF nº 14/2025, Fundeb 2026",
+  "fonte_url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/financiamento/fundeb/Valoralunoanoereceitaanualprevista2026.pdf",
+  "data_referencia": "2026-01",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Fundeb do Maranhão em 2026 deve somar R$ 14,62 bilhões: R$ 8,59 bilhões de contribuição do estado e dos municípios mais R$ 6,04 bilhões de complementação da União (modalidade VAAF).\n\nÉ a segunda maior complementação VAAF do país, atrás apenas da Bahia (R$ 6,29 bi).\n\nO Fundeb financia a educação básica pública e destina ao menos 70% dos recursos à remuneração dos profissionais da educação.\n\nFonte: FNDE, Portaria Interministerial MEC/MF nº 14/2025.\n\nVocê sabia que o Fundeb é a principal fonte de recursos da escola pública?\n\n#IPPI #DadoDoDia #Fundeb #Maranhão #FinanciamentoEducação #FNDE"
+ },
+ {
+  "id": "edu-16",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "93",
+  "manchete": "Escolas públicas do Maranhão somaram 93 medalhas na OBMEP 2025",
+  "contexto": "Na 20ª OBMEP, estudantes de escolas públicas maranhenses receberam 6 ouros, 23 pratas e 64 bronzes. Em 2024, foram 103 medalhas (5 ouros).",
+  "comparacao": {
+   "rotulo": "Ouros em 2025",
+   "valor": "6"
+  },
+  "fonte": "OBMEP/IMPA, premiação da 20ª OBMEP (2025)",
+  "fonte_url": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosOuro.do.htm",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Estudantes de escolas públicas do Maranhão conquistaram 93 medalhas na 20ª OBMEP (2025): 6 de ouro, 23 de prata e 64 de bronze.\n\nO número de ouros cresceu em relação a 2024 (5), embora o total de medalhas tenha sido menor (103 na edição anterior).\n\nCom as escolas privadas, o estado chegou a 108 medalhas em 2025.\n\nFonte: OBMEP/IMPA, listas oficiais de premiados da 20ª OBMEP (contagem por UF).\n\nSua escola já teve medalhista da OBMEP? Conta pra gente.\n\n#IPPI #DadoDoDia #OBMEP #Maranhão #Matemática #EscolaPública"
+ },
+ {
+  "id": "edu-17",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "15,05%",
+  "manchete": "Maranhão tem 15,05% de analfabetos entre pessoas de 15 anos ou mais",
+  "contexto": "No Censo 2022, 84,95% dos maranhenses de 15 anos ou mais eram alfabetizados. A taxa de analfabetismo (15,05%) é a 4ª maior do país; a do Brasil é 7,0%.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "7,0%"
+  },
+  "fonte": "IBGE, Censo Demográfico 2022, alfabetização",
+  "fonte_url": "https://servicodados.ibge.gov.br/api/v1/pesquisas/10101/indicadores/126661/resultados/21|22|0",
+  "data_referencia": "2022-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "No Censo 2022, a taxa de alfabetização do Maranhão entre pessoas de 15 anos ou mais foi 84,95%. Ou seja, 15,05% não sabiam ler e escrever.\n\nÉ a quarta maior taxa de analfabetismo do Brasil, atrás de Alagoas, Piauí e Paraíba. A média nacional é 7,0%.\n\nEm 2010, a taxa maranhense era 20,8%: uma queda de mais de 5 pontos em 12 anos.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nComo acelerar a alfabetização de jovens e adultos? Deixe sua opinião.\n\n#IPPI #DadoDoDia #Censo2022 #Maranhão #Alfabetização #IBGE"
+ },
+ {
+  "id": "edu-18",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "19.357",
+  "manchete": "UFMA tem 19.357 estudantes matriculados na graduação",
+  "contexto": "No 1º semestre de 2025, a UFMA somava 19.357 alunos de graduação em 9 cidades, além de 1.295 mestrandos e 767 doutorandos. São 1.874 docentes.",
+  "comparacao": {
+   "rotulo": "Docentes",
+   "valor": "1.874"
+  },
+  "fonte": "UFMA, Memória de Cálculo dos Indicadores de Gestão 2025",
+  "fonte_url": "https://portalpadrao.ufma.br/transparencia/institucional/indicadores-de-gestao-ufma/memoria-de-calculo-indicadores-de-gestao-2025.pdf",
+  "data_referencia": "2025-06",
+  "verificado_em": "2026-10-08",
+  "legenda": "A Universidade Federal do Maranhão tinha 19.357 estudantes matriculados na graduação no primeiro semestre de 2025.\n\nOs cursos estão distribuídos por São Luís, Imperatriz, Pinheiro, Bacabal, Balsas, São Bernardo, Chapadinha, Codó e Grajaú.\n\nNa pós-graduação stricto sensu, eram 1.295 alunos de mestrado e 767 de doutorado. O corpo docente soma 1.874 professores.\n\nFonte: UFMA, Indicadores de Gestão 2025.\n\nVocê estudou em universidade pública? Qual curso?\n\n#IPPI #DadoDoDia #UFMA #Maranhão #EnsinoSuperior #UniversidadePública"
+ },
+ {
+  "id": "edu-19",
+  "pilar": "educacao",
+  "uf": "PI+MA",
+  "selo": "EDUCAÇÃO · PIAUÍ E MARANHÃO",
+  "numero": "331 mil",
+  "manchete": "Piauí e Maranhão somam 331.423 inscritos no Enem 2025",
+  "contexto": "O Maranhão teve 211.383 inscrições confirmadas (8º maior número do país) e o Piauí, 120.040. Juntos, os dois estados respondem por 6,9% dos 4.811.338 inscritos.",
+  "comparacao": {
+   "rotulo": "Maranhão / Piauí",
+   "valor": "211.383 / 120.040"
+  },
+  "fonte": "Inep/MEC, Painel do Enem 2025, via Agência Brasil",
+  "fonte_url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2025-08/nordeste-e-regiao-com-maior-numero-de-inscritos-no-enem-2025",
+  "data_referencia": "2025-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "Piauí e Maranhão somaram 331.423 inscrições confirmadas no Enem 2025.\n\nO Maranhão registrou 211.383 inscritos, o 8º maior número entre os estados. O Piauí teve 120.040.\n\nO Brasil chegou a 4.811.338 inscrições, e o Nordeste é a região com mais candidatos: 1.737.789.\n\nFonte: Inep/MEC, Painel do Enem 2025 (via Agência Brasil).\n\nNa sua cidade, o Enem é a principal porta de entrada para a faculdade?\n\n#IPPI #DadoDoDia #Enem2025 #Piauí #Maranhão #Nordeste"
+ },
+ {
+  "id": "edu-20",
+  "pilar": "educacao",
+  "uf": "PI+MA",
+  "selo": "EDUCAÇÃO · PIAUÍ E MARANHÃO",
+  "numero": "R$ 21,9b",
+  "manchete": "Fundeb 2026 soma R$ 21,9 bilhões para Maranhão e Piauí",
+  "contexto": "Nos dois estados, a União complementa com VAAF: R$ 6,04 bi no Maranhão e R$ 2,16 bi no Piauí. Essa complementação equivale a 70% (MA) e 43% (PI) do que os entes arrecadam.",
+  "comparacao": {
+   "rotulo": "Complementação VAAF (MA / PI)",
+   "valor": "R$ 6,04 bi / R$ 2,16 bi"
+  },
+  "fonte": "FNDE, Portaria Interm. MEC/MF nº 14/2025, Fundeb 2026",
+  "fonte_url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/financiamento/fundeb/Valoralunoanoereceitaanualprevista2026.pdf",
+  "data_referencia": "2026-01",
+  "verificado_em": "2026-10-08",
+  "legenda": "A estimativa do Fundeb 2026 prevê R$ 14,62 bilhões para o fundo do Maranhão e R$ 7,24 bilhões para o do Piauí (receita com complementação VAAF).\n\nA União complementa R$ 6,04 bilhões no Maranhão e R$ 2,16 bilhões no Piauí. Isso corresponde a cerca de 70% e 43%, respectivamente, do que estado e municípios arrecadam para o fundo.\n\nSó 10 estados recebem a complementação VAAF, destinada aos fundos com menor valor por aluno.\n\nFonte: FNDE, Portaria Interministerial MEC/MF nº 14/2025.\n\nO dinheiro da educação chega à sua escola? O que você observa?\n\n#IPPI #DadoDoDia #Fundeb #Piauí #Maranhão #FinanciamentoEducação"
+ }
+]

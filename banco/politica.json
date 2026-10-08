@@ -1,0 +1,416 @@
+[
+  {
+    "id": "pol-01",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "2,70 mi",
+    "manchete": "Piauí teve 2.704.758 eleitores aptos a votar no 1º turno de 2026",
+    "contexto": "Foram 2.240.883 comparecimentos (82,85%) em 10.225 urnas. O eleitorado piauiense equivale a 1,7% dos 158,7 milhões de aptos no Brasil.",
+    "comparacao": {
+      "rotulo": "Brasil (aptos)",
+      "valor": "158,7 mi"
+    },
+    "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+    "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/pi/pi-c0001-e006257-u.json",
+    "data_referencia": "2026-10",
+    "verificado_em": "2026-10-08",
+    "legenda": "O Piauí chegou ao 1º turno de 2026 com 2.704.758 eleitores aptos a votar. Desses, 2.240.883 compareceram às urnas, o equivalente a 82,85%.\n\nA votação foi distribuída em 10.225 urnas eletrônicas e 11.261 seções, segundo o balanço do TRE-PI.\n\nO estado representa cerca de 1,7% do eleitorado nacional, de 158,7 milhões de pessoas aptas.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nVocê já conferiu o resultado da sua seção eleitoral?\n\n#IPPI #DadoDoDia #Eleições2026 #Piauí #TSE #Eleitorado"
+  },
+  {
+    "id": "pol-02",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "17,15%",
+    "manchete": "Abstenção no Piauí foi de 17,15%, a terceira menor do país",
+    "contexto": "No 1º turno de 2026, 463.875 piauienses aptos não votaram. A média nacional de abstenção foi de 21,08%, quase 4 pontos acima da piauiense.",
+    "comparacao": {
+      "rotulo": "Brasil",
+      "valor": "21,08%"
+    },
+    "fonte": "TRE-PI, balanço do 1º turno das Eleições 2026",
+    "fonte_url": "https://www.tre-pi.jus.br/comunicacao/noticias/2026/Outubro/tre-pi-conclui-apuracao-em-tempo-recorde-e-apresenta-balanco-do-1o-turno-das-eleicoes-2026",
+    "data_referencia": "2026-10",
+    "verificado_em": "2026-10-08",
+    "legenda": "A abstenção no Piauí no 1º turno de 2026 ficou em 17,15%, a terceira menor do Brasil, segundo o TRE-PI. Em números absolutos, 463.875 eleitores aptos não compareceram.\n\nNo país, a abstenção foi de 21,08%, com 33.469.244 eleitores ausentes.\n\nO comparecimento piauiense (82,85%) seguiu acima da média nacional, repetindo o padrão de eleições anteriores no Nordeste.\n\nFonte: TRE-PI e TSE, Resultados das Eleições 2026.\n\nO que explica o piauiense faltar menos às urnas que o brasileiro médio?\n\n#IPPI #DadoDoDia #Abstenção #Eleições2026 #Piauí #TREPI"
+  },
+  {
+    "id": "pol-03",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "97,56%",
+    "manchete": "Piauí tem 97,56% do eleitorado com biometria cadastrada",
+    "contexto": "São 2.642.571 eleitores com digitais coletadas em um cadastro de 2.708.756 (posição de 01/10/2026). No Brasil, a cobertura biométrica é de 89,01%.",
+    "comparacao": {
+      "rotulo": "Brasil",
+      "valor": "89,01%"
+    },
+    "fonte": "TSE, Dados Abertos – Eleitorado Atual (01/10/2026)",
+    "fonte_url": "https://dadosabertos.tse.jus.br/dataset/eleitorado-atual",
+    "data_referencia": "2026-10",
+    "verificado_em": "2026-10-08",
+    "legenda": "O Piauí é um dos estados com maior cobertura biométrica do país: 97,56% dos eleitores têm as digitais cadastradas na Justiça Eleitoral.\n\nSão 2.642.571 pessoas com biometria em um cadastro de 2.708.756 eleitores, na posição de 1º de outubro de 2026.\n\nNo Brasil, o índice é de 89,01%, segundo o TSE. Em 2022, era de 75,51%.\n\nFonte: TSE, Portal de Dados Abertos (Eleitorado Atual) e balanço nacional do TSE.\n\nA biometria já é regra na sua seção eleitoral?\n\n#IPPI #DadoDoDia #Biometria #Piauí #TSE #JustiçaEleitoral"
+  },
+  {
+    "id": "pol-04",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "51,72%",
+    "manchete": "Mulheres são 51,72% do eleitorado do Piauí",
+    "contexto": "O cadastro eleitoral do estado tem 1.401.097 mulheres e 1.307.658 homens. No Brasil, as mulheres são 52,84% dos aptos a votar em 2026.",
+    "comparacao": {
+      "rotulo": "Brasil (mulheres)",
+      "valor": "52,84%"
+    },
+    "fonte": "TSE, Dados Abertos – Eleitorado Atual (01/10/2026)",
+    "fonte_url": "https://dadosabertos.tse.jus.br/dataset/eleitorado-atual",
+    "data_referencia": "2026-10",
+    "verificado_em": "2026-10-08",
+    "legenda": "As mulheres são maioria entre os eleitores do Piauí: 51,72% do cadastro, ou 1.401.097 eleitoras, contra 1.307.658 homens.\n\nA proporção é um pouco menor que a nacional. No Brasil, 52,84% dos 158,7 milhões de aptos a votar em 2026 são mulheres.\n\nEm Teresina, a diferença é maior: 54,93% do eleitorado da capital é feminino (325.295 mulheres e 266.915 homens).\n\nFonte: TSE, Portal de Dados Abertos (Eleitorado Atual, posição 01/10/2026).\n\nA maioria feminina nas urnas se reflete na representação política?\n\n#IPPI #DadoDoDia #Eleitorado #Mulheres #Piauí #TSE"
+  },
+  {
+    "id": "pol-05",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "21,86%",
+    "manchete": "Teresina concentra 21,86% dos eleitores do Piauí",
+    "contexto": "A capital tem 592.210 eleitores. Parnaíba (118.066), Picos (54.457), Piripiri (53.258) e Floriano (45.077) completam as cinco maiores cidades eleitorais.",
+    "comparacao": {
+      "rotulo": "Parnaíba (2ª)",
+      "valor": "118.066"
+    },
+    "fonte": "TSE, Dados Abertos – Eleitorado Atual (01/10/2026)",
+    "fonte_url": "https://dadosabertos.tse.jus.br/dataset/eleitorado-atual",
+    "data_referencia": "2026-10",
+    "verificado_em": "2026-10-08",
+    "legenda": "Um em cada cinco eleitores do Piauí vota em Teresina. A capital tem 592.210 eleitores, 21,86% dos 2.708.756 do estado.\n\nNa sequência vêm Parnaíba (118.066), Picos (54.457), Piripiri (53.258) e Floriano (45.077). Os cinco maiores colégios somam cerca de 32% do eleitorado estadual.\n\nOs outros 219 municípios dividem os 68% restantes.\n\nFonte: TSE, Portal de Dados Abertos (Eleitorado Atual, posição 01/10/2026).\n\nSeu município está entre os maiores colégios eleitorais do Piauí?\n\n#IPPI #DadoDoDia #Teresina #Piauí #Eleitorado #TSE"
+  },
+  {
+    "id": "pol-06",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "12",
+    "manchete": "Piauí registrou 12 candidatos a governador, o maior número do país",
+    "contexto": "Em 17/08/2026, o estado liderava os pedidos de registro para o governo entre as 27 unidades da federação. No Brasil, foram 195 pedidos para o cargo.",
+    "comparacao": {
+      "rotulo": "Brasil (governador)",
+      "valor": "195"
+    },
+    "fonte": "Agência Senado com dados do TSE (DivulgaCand), 17/08/2026",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2026/08/17/eleicoes-2026-veja-os-numeros-das-candidaturas-oficializadas",
+    "data_referencia": "2026-08",
+    "verificado_em": "2026-10-08",
+    "legenda": "O Piauí teve o maior número de candidaturas a governador do Brasil em 2026: 12 pedidos de registro, segundo levantamento da Agência Senado com dados do TSE.\n\nNo país inteiro, foram 195 pedidos para o cargo de governador e 20.506 registros no total, considerando todos os cargos.\n\nApós a análise da Justiça Eleitoral, 10 nomes apareceram na urna piauiense no 1º turno.\n\nFonte: Agência Senado / TSE (DivulgaCand), 17/08/2026; TSE, Resultados 2026.\n\nMais candidatos significam mais debate ou mais dispersão?\n\n#IPPI #DadoDoDia #Eleições2026 #Piauí #Candidaturas #TSE"
+  },
+  {
+    "id": "pol-07",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "15,4",
+    "manchete": "Piauí teve 15,4 candidatos por vaga de deputado federal em 2026",
+    "contexto": "154 candidatos disputaram as 10 cadeiras do estado na Câmara. Para a Assembleia, foram 143 nomes para 30 vagas, ou 4,8 por vaga.",
+    "comparacao": {
+      "rotulo": "Dep. estadual (cand./vaga)",
+      "valor": "4,8"
+    },
+    "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+    "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0006-e006259-u.json",
+    "data_referencia": "2026-10",
+    "verificado_em": "2026-10-08",
+    "legenda": "A disputa por uma cadeira na Câmara dos Deputados pelo Piauí teve 154 candidatos para 10 vagas em 2026: 15,4 concorrentes por cadeira.\n\nPara a Assembleia Legislativa, foram 143 candidatos para 30 vagas, ou 4,8 por cadeira.\n\nO quociente eleitoral para deputado federal no estado ficou em 210.906 votos.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nMais candidatos por vaga significam disputa mais aberta ou votos mais pulverizados?\n\n#IPPI #DadoDoDia #Eleições2026 #Piauí #Câmara #Alepi"
+  },
+  {
+    "id": "pol-08",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "9,52%",
+    "manchete": "Para governador, 9,52% dos votos no Piauí foram brancos ou nulos",
+    "contexto": "No 1º turno de 2026, foram 76.589 votos em branco (3,42%) e 136.522 nulos (6,10%) entre 2.239.386 eleitores que compareceram.",
+    "comparacao": {
+      "rotulo": "Votos válidos",
+      "valor": "2.026.275"
+    },
+    "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+    "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0003-e006259-u.json",
+    "data_referencia": "2026-10",
+    "verificado_em": "2026-10-08",
+    "legenda": "Na eleição para governador do Piauí, 213.111 eleitores votaram em branco ou anularam o voto no 1º turno de 2026. É o equivalente a 9,52% dos que compareceram.\n\nForam 76.589 votos em branco (3,42%) e 136.522 nulos (6,10%). Os votos válidos somaram 2.026.275.\n\nNa eleição presidencial, no mesmo estado, brancos e nulos somaram 4,21%.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nVoto nulo é protesto ou desinteresse? O que você acha?\n\n#IPPI #DadoDoDia #Eleições2026 #Piauí #VotoNulo #TSE"
+  },
+  {
+    "id": "pol-09",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "R$ 24,7k",
+    "manchete": "PIB per capita do Piauí: R$ 24.736 em 2023, 25º do país",
+    "contexto": "O valor é menos da metade da média brasileira (R$ 53.887) e fica abaixo da nordestina (R$ 27.682). O PIB estadual somou R$ 80,9 bilhões.",
+    "comparacao": {
+      "rotulo": "Brasil",
+      "valor": "R$ 53.887"
+    },
+    "fonte": "IBGE, Contas Regionais 2023 (Agência de Notícias, nov/2025)",
+    "fonte_url": "https://agenciadenoticias.ibge.gov.br/pt/agencia-noticias/45142-pib-cresce-em-todos-os-27-estados-do-pais-em-2023.html?lang=pt-BR",
+    "data_referencia": "2023-12",
+    "verificado_em": "2026-10-08",
+    "legenda": "O PIB per capita do Piauí foi de R$ 24.736,15 em 2023, o 25º entre as 27 unidades da federação, segundo as Contas Regionais do IBGE.\n\nA média brasileira foi de R$ 53.886,67 e a do Nordeste, R$ 27.681,97. O PIB total do estado somou R$ 80,9 bilhões, 0,7% do PIB nacional.\n\nEntre 2002 e 2023, a economia piauiense cresceu 111,8% em volume, média de 3,6% ao ano.\n\nFonte: IBGE, Contas Regionais 2023.\n\nComo transformar crescimento em renda por habitante?\n\n#IPPI #DadoDoDia #PIB #Piauí #IBGE #Economia"
+  },
+  {
+    "id": "pol-10",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "3,27 mi",
+    "manchete": "Piauí tem 3.271.199 habitantes em 224 municípios, segundo o Censo 2022",
+    "contexto": "A população cresceu 4,9% em relação a 2010 (3.118.360). Com 251.755 km², o estado tem densidade de cerca de 13 habitantes por km².",
+    "comparacao": {
+      "rotulo": "Censo 2010",
+      "valor": "3.118.360"
+    },
+    "fonte": "IBGE, Censo Demográfico 2022 (SIDRA, tabela 4714)",
+    "fonte_url": "https://apisidra.ibge.gov.br/values/t/4714/n3/22,21/n1/all/v/93,6318/p/2022",
+    "data_referencia": "2022-08",
+    "verificado_em": "2026-10-08",
+    "legenda": "O Censo 2022 contou 3.271.199 moradores no Piauí, distribuídos em 224 municípios.\n\nO crescimento foi de 4,9% em relação a 2010, quando o estado tinha 3.118.360 habitantes. No Brasil, a população chegou a 203.080.756 pessoas.\n\nCom 251.755 km² de área, o Piauí tem cerca de 13 habitantes por quilômetro quadrado.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nQuanto a sua cidade cresceu entre os dois Censos?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #IBGE #População"
+  },
+  {
+    "id": "pol-11",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "69,4%",
+    "manchete": "Apenas 69,4% da população do Piauí vive em áreas urbanas",
+    "contexto": "O Censo 2022 contou 2.271.384 moradores urbanos e 999.815 rurais no estado. No Brasil, 87,4% da população é urbana.",
+    "comparacao": {
+      "rotulo": "Brasil (urbana)",
+      "valor": "87,4%"
+    },
+    "fonte": "IBGE, Censo Demográfico 2022 (SIDRA, tabela 10211)",
+    "fonte_url": "https://apisidra.ibge.gov.br/values/t/10211/n3/22,21/n1/all/v/allxp/p/2022/c1/all",
+    "data_referencia": "2022-08",
+    "verificado_em": "2026-10-08",
+    "legenda": "O Piauí segue entre os estados mais rurais do Brasil. Pelo Censo 2022, 2.271.384 pessoas vivem em áreas urbanas (69,4%) e 999.815 em áreas rurais (30,6%).\n\nNo país, a taxa de urbanização é de 87,4%. No Maranhão, vizinho, 70,9%.\n\nUm em cada três piauienses mora no campo, o que pesa no desenho de políticas públicas e na logística eleitoral.\n\nFonte: IBGE, Censo Demográfico 2022 (percentuais calculados pela IPPI).\n\nO Piauí rural está representado nos debates públicos?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #Urbanização #IBGE"
+  },
+  {
+    "id": "pol-12",
+    "pilar": "politica",
+    "uf": "PI",
+    "selo": "POLÍTICA · PIAUÍ",
+    "numero": "R$534 mi",
+    "manchete": "Municípios piauienses receberam R$ 533,9 milhões de FPM em fevereiro",
+    "contexto": "Valor já descontado o Fundeb. No mesmo mês, o estado recebeu R$ 835,2 milhões de FPE. Os municípios maranhenses receberam R$ 841,9 milhões de FPM.",
+    "comparacao": {
+      "rotulo": "FPM Maranhão (fev/26)",
+      "valor": "R$ 842 mi"
+    },
+    "fonte": "Tesouro Nacional, Boletim FPM/FPE, fevereiro/2026",
+    "fonte_url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/54083_1703464/Boletim%20FPM%20FPE%202026_02.pdf",
+    "data_referencia": "2026-02",
+    "verificado_em": "2026-10-08",
+    "legenda": "Os 224 municípios do Piauí receberam R$ 533,9 milhões do Fundo de Participação dos Municípios (FPM) em fevereiro de 2026, já descontada a parcela do Fundeb.\n\nO governo estadual recebeu, no mesmo mês, R$ 835,2 milhões do Fundo de Participação dos Estados (FPE).\n\nNo Brasil, o FPM de fevereiro somou R$ 20,2 bilhões, alta de 5,5% sobre fevereiro de 2025.\n\nFonte: Tesouro Nacional, Boletim Mensal FPM/FPE (fev/2026).\n\nSabe quanto do orçamento da sua cidade depende do FPM?\n\n#IPPI #DadoDoDia #FPM #Piauí #Tesouro #Municípios"
+  },
+  {
+    "id": "pol-13",
+    "pilar": "politica",
+    "uf": "MA",
+    "selo": "POLÍTICA · MARANHÃO",
+    "numero": "5,19 mi",
+    "manchete": "Maranhão tem 5.186.562 eleitores aptos a votar nas Eleições 2026",
+    "contexto": "São 2.692.850 mulheres (52%) e 2.493.707 homens, em 18.093 seções de 217 municípios.",
+    "comparacao": {
+      "rotulo": "Mulheres",
+      "valor": "52%"
+    },
+    "fonte": "TRE-MA, balanço das Eleições 2026 (30/09/2026)",
+    "fonte_url": "https://www.tre-ma.jus.br/comunicacao/noticias/2026/Setembro/numeros-estrutura-e-orientacoes-para-o-dia-da-votacao",
+    "data_referencia": "2026-09",
+    "verificado_em": "2026-10-08",
+    "legenda": "O Maranhão chegou às Eleições 2026 com 5.186.562 pessoas aptas a votar, segundo o TRE-MA.\n\nAs mulheres são maioria: 2.692.850 eleitoras (52%), contra 2.493.707 homens. A votação foi organizada em 18.093 seções e 5.910 locais, em 217 municípios e 105 zonas eleitorais.\n\nMais de 70 mil mesários trabalharam no 1º turno.\n\nFonte: TRE-MA, balanço de 30/09/2026; TSE, estatísticas do eleitorado.\n\nVocê sabia que o eleitorado maranhense é quase o dobro do piauiense?\n\n#IPPI #DadoDoDia #Eleições2026 #Maranhão #TREMA #Eleitorado"
+  },
+  {
+    "id": "pol-14",
+    "pilar": "politica",
+    "uf": "MA",
+    "selo": "POLÍTICA · MARANHÃO",
+    "numero": "95,22%",
+    "manchete": "Maranhão tem 95,22% dos eleitores com biometria cadastrada",
+    "contexto": "São 4.938.634 eleitores com digitais coletadas e 247.928 (4,78%) sem. A cobertura supera a média nacional, de 89,01%.",
+    "comparacao": {
+      "rotulo": "Brasil",
+      "valor": "89,01%"
+    },
+    "fonte": "TRE-MA, balanço das Eleições 2026 (30/09/2026)",
+    "fonte_url": "https://www.tre-ma.jus.br/comunicacao/noticias/2026/Setembro/numeros-estrutura-e-orientacoes-para-o-dia-da-votacao",
+    "data_referencia": "2026-09",
+    "verificado_em": "2026-10-08",
+    "legenda": "No Maranhão, 4.938.634 eleitores (95,22%) já têm biometria cadastrada na Justiça Eleitoral. Outros 247.928 (4,78%) ainda não passaram pela coleta.\n\nA cobertura maranhense supera a média brasileira, de 89,01%, segundo o TSE.\n\nA biometria é usada para identificar o eleitor na seção e evitar duplicidade de títulos.\n\nFonte: TRE-MA, balanço de 30/09/2026; TSE.\n\nVocê já votou com a digital na urna?\n\n#IPPI #DadoDoDia #Biometria #Maranhão #TREMA #JustiçaEleitoral"
+  },
+  {
+    "id": "pol-15",
+    "pilar": "politica",
+    "uf": "MA",
+    "selo": "POLÍTICA · MARANHÃO",
+    "numero": "756 mil",
+    "manchete": "São Luís tem 756.232 eleitores, 14,6% do eleitorado do Maranhão",
+    "contexto": "A capital vota em 2.273 seções de 267 locais. Imperatriz (194.926), São José de Ribamar (131.211), Timon (124.673) e Caxias (113.428) vêm em seguida.",
+    "comparacao": {
+      "rotulo": "Imperatriz (2ª)",
+      "valor": "194.926"
+    },
+    "fonte": "TRE-MA (30/09/2026) e TSE, Dados Abertos – Eleitorado Atual",
+    "fonte_url": "https://www.tre-ma.jus.br/comunicacao/noticias/2026/Setembro/numeros-estrutura-e-orientacoes-para-o-dia-da-votacao",
+    "data_referencia": "2026-09",
+    "verificado_em": "2026-10-08",
+    "legenda": "São Luís é o maior colégio eleitoral do Maranhão, com 756.232 eleitores aptos, cerca de 14,6% do total do estado. A capital vota em 2.273 seções distribuídas em 267 locais.\n\nNa sequência aparecem Imperatriz (194.926), São José de Ribamar (131.211), Timon (124.673) e Caxias (113.428).\n\nJuntas, as cinco maiores cidades reúnem cerca de 25% dos eleitores maranhenses.\n\nFonte: TRE-MA; TSE, Portal de Dados Abertos (Eleitorado Atual, 01/10/2026).\n\nO interior decide a eleição no Maranhão?\n\n#IPPI #DadoDoDia #SãoLuís #Maranhão #Eleitorado #TSE"
+  },
+  {
+    "id": "pol-16",
+    "pilar": "politica",
+    "uf": "MA",
+    "selo": "POLÍTICA · MARANHÃO",
+    "numero": "19,73%",
+    "manchete": "Abstenção no Maranhão ficou em 19,73% no 1º turno de 2026",
+    "contexto": "Dos 5.183.115 aptos, 1.022.772 não votaram. O índice ficou abaixo da média nacional (21,08%), mas acima do Piauí (17,15%).",
+    "comparacao": {
+      "rotulo": "Brasil",
+      "valor": "21,08%"
+    },
+    "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+    "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/ma/ma-c0001-e006257-u.json",
+    "data_referencia": "2026-10",
+    "verificado_em": "2026-10-08",
+    "legenda": "No 1º turno das Eleições 2026, 1.022.772 eleitores maranhenses não compareceram às urnas: abstenção de 19,73%.\n\nO comparecimento foi de 4.160.343 pessoas (80,27%) entre 5.183.115 aptos. A abstenção nacional foi de 21,08%; no Piauí, 17,15%.\n\nNa eleição presidencial, os votos brancos no estado somaram 1,11% e os nulos, 2,49%.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nMais de 1 milhão de ausentes: o que faria essas pessoas voltarem às urnas?\n\n#IPPI #DadoDoDia #Abstenção #Maranhão #Eleições2026 #TSE"
+  },
+  {
+    "id": "pol-17",
+    "pilar": "politica",
+    "uf": "MA",
+    "selo": "POLÍTICA · MARANHÃO",
+    "numero": "572",
+    "manchete": "Maranhão registrou 572 candidaturas para as Eleições 2026",
+    "contexto": "Foram 282 para deputado estadual, 271 para federal, 11 para o Senado e 8 para governador, segundo o DivulgaCand do TSE em 16/08/2026.",
+    "comparacao": {
+      "rotulo": "Dep. estadual",
+      "valor": "282"
+    },
+    "fonte": "Imirante com dados do TSE (DivulgaCand), 16/08/2026",
+    "fonte_url": "https://m.imirante.com/noticias/maranhao/2026/08/16/ipolitica-maranhao-soma-572-candidaturas-registradas-para-as-eleicoes-de-2026",
+    "data_referencia": "2026-08",
+    "verificado_em": "2026-10-08",
+    "legenda": "O Maranhão somou 572 pedidos de registro de candidatura para as Eleições 2026, segundo o sistema DivulgaCand, do TSE.\n\nForam 282 candidaturas a deputado estadual, 271 a deputado federal, 11 ao Senado e 8 ao governo do estado.\n\nNa urna, após a análise da Justiça Eleitoral, 266 nomes disputaram as 18 vagas federais e 271 as 42 estaduais.\n\nFonte: Imirante / TSE (DivulgaCand), 16/08/2026; TSE, Resultados 2026.\n\nQuantos desses nomes você conhecia antes da campanha?\n\n#IPPI #DadoDoDia #Eleições2026 #Maranhão #Candidaturas #TSE"
+  },
+  {
+    "id": "pol-18",
+    "pilar": "politica",
+    "uf": "MA",
+    "selo": "POLÍTICA · MARANHÃO",
+    "numero": "220.609",
+    "manchete": "Quociente eleitoral para deputado federal no Maranhão foi de 220.609 votos",
+    "contexto": "É o número de votos válidos necessários para um partido ou federação garantir uma das 18 cadeiras. 266 candidatos disputaram 14,8 por vaga.",
+    "comparacao": {
+      "rotulo": "Piauí (QE federal)",
+      "valor": "210.906"
+    },
+    "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+    "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0006-e006259-u.json",
+    "data_referencia": "2026-10",
+    "verificado_em": "2026-10-08",
+    "legenda": "Para eleger um deputado federal pelo Maranhão em 2026, um partido ou federação precisou atingir o quociente eleitoral de 220.609 votos válidos.\n\nForam 266 candidatos para 18 cadeiras, ou 14,8 por vaga. Para a Assembleia Legislativa, o quociente foi de 93.381 votos, com 271 candidatos para 42 vagas.\n\nNo Piauí, o quociente federal ficou em 210.906 votos.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nVocê sabe como funciona o cálculo do quociente eleitoral?\n\n#IPPI #DadoDoDia #QuocienteEleitoral #Maranhão #Câmara #TSE"
+  },
+  {
+    "id": "pol-19",
+    "pilar": "politica",
+    "uf": "MA",
+    "selo": "POLÍTICA · MARANHÃO",
+    "numero": "R$ 22,0k",
+    "manchete": "Maranhão tem o menor PIB per capita do Brasil: R$ 22.021",
+    "contexto": "O valor é 27º entre 27 unidades da federação e equivale a 41% da média nacional (R$ 53.887). O PIB estadual somou R$ 149,2 bilhões.",
+    "comparacao": {
+      "rotulo": "Brasil",
+      "valor": "R$ 53.887"
+    },
+    "fonte": "IBGE, Contas Regionais 2023 (Agência de Notícias, nov/2025)",
+    "fonte_url": "https://agenciadenoticias.ibge.gov.br/pt/agencia-noticias/45142-pib-cresce-em-todos-os-27-estados-do-pais-em-2023.html?lang=pt-BR",
+    "data_referencia": "2023-12",
+    "verificado_em": "2026-10-08",
+    "legenda": "O Maranhão registrou o menor PIB per capita do país em 2023: R$ 22.020,63, na 27ª posição entre as unidades da federação, segundo o IBGE.\n\nA média brasileira foi de R$ 53.886,67 e a nordestina, R$ 27.681,97. O PIB total do estado somou R$ 149,2 bilhões, 1,4% do PIB nacional.\n\nEntre 2002 e 2023, a economia maranhense cresceu 102,8% em volume.\n\nFonte: IBGE, Contas Regionais 2023.\n\nPIB grande, renda por habitante baixa: o que explica essa distância?\n\n#IPPI #DadoDoDia #PIB #Maranhão #IBGE #Economia"
+  },
+  {
+    "id": "pol-20",
+    "pilar": "politica",
+    "uf": "MA",
+    "selo": "POLÍTICA · MARANHÃO",
+    "numero": "6,78 mi",
+    "manchete": "Maranhão tem 6.776.699 habitantes, 3,1% a mais que em 2010",
+    "contexto": "Em 2010, eram 6.574.789 moradores. A população urbana é de 70,9%. A idade mediana é de 30 anos, contra 35 no país.",
+    "comparacao": {
+      "rotulo": "Idade mediana Brasil",
+      "valor": "35 anos"
+    },
+    "fonte": "IBGE, Censo Demográfico 2022 (SIDRA, tabelas 4714 e 10097)",
+    "fonte_url": "https://apisidra.ibge.gov.br/values/t/10097/n3/22,21/n1/all/v/allxp/p/2022/c1/6795",
+    "data_referencia": "2022-08",
+    "verificado_em": "2026-10-08",
+    "legenda": "O Censo 2022 contou 6.776.699 pessoas no Maranhão, crescimento de 3,1% em relação a 2010 (6.574.789).\n\nO estado tem uma das populações mais jovens do país: idade mediana de 30 anos, contra 34 no Piauí e 35 no Brasil. O índice de envelhecimento (idosos por 100 jovens) é de 49,95, bem abaixo dos 80,03 nacionais.\n\nSão 217 municípios em 329.651 km².\n\nFonte: IBGE, Censo Demográfico 2022.\n\nUma população jovem é oportunidade ou desafio para a gestão pública?\n\n#IPPI #DadoDoDia #Censo2022 #Maranhão #IBGE #População"
+  },
+  {
+    "id": "pol-21",
+    "pilar": "politica",
+    "uf": "MA",
+    "selo": "POLÍTICA · MARANHÃO",
+    "numero": "1,16 mi",
+    "manchete": "Bolsa Família atendeu 1,16 milhão de famílias maranhenses em maio",
+    "contexto": "O repasse ao estado foi de R$ 810,2 milhões, com benefício médio de R$ 696,50 por família, acima da média nacional (R$ 678,01).",
+    "comparacao": {
+      "rotulo": "Benefício médio Brasil",
+      "valor": "R$ 678,01"
+    },
+    "fonte": "O Imparcial com dados do Governo Federal (MDS), maio/2026",
+    "fonte_url": "https://oimparcial.com.br/brasil/2026/05/bolsa-familia-contempla-mais-de-11-milhao-de-familias-no-maranhao-em-maio/",
+    "data_referencia": "2026-05",
+    "verificado_em": "2026-10-08",
+    "legenda": "Em maio de 2026, mais de 1,16 milhão de famílias maranhenses receberam o Bolsa Família. O repasse ao estado somou R$ 810,2 milhões.\n\nO benefício médio no Maranhão foi de R$ 696,50 por família, acima da média nacional de R$ 678,01.\n\nNo Brasil, o programa atendeu 19,08 milhões de famílias no mês, com investimento de R$ 12,9 bilhões.\n\nFonte: O Imparcial, com dados do Governo Federal (MDS), 19/05/2026.\n\nQual o peso do Bolsa Família na economia da sua cidade?\n\n#IPPI #DadoDoDia #BolsaFamília #Maranhão #MDS #PolíticasPúblicas"
+  },
+  {
+    "id": "pol-22",
+    "pilar": "politica",
+    "uf": "PI+MA",
+    "selo": "POLÍTICA · PIAUÍ E MARANHÃO",
+    "numero": "7,89 mi",
+    "manchete": "Piauí e Maranhão somam 7,89 milhões de eleitores, 5% do Brasil",
+    "contexto": "No 1º turno de 2026, foram 2.704.758 aptos no Piauí e 5.183.115 no Maranhão, 4,97% dos 158.745.502 eleitores do país.",
+    "comparacao": {
+      "rotulo": "Brasil",
+      "valor": "158,7 mi"
+    },
+    "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+    "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.json",
+    "data_referencia": "2026-10",
+    "verificado_em": "2026-10-08",
+    "legenda": "Juntos, Piauí e Maranhão reúnem 7.887.873 eleitores aptos, o equivalente a 4,97% do eleitorado brasileiro de 158.745.502 pessoas no 1º turno de 2026.\n\nO Maranhão tem 5.183.115 aptos e o Piauí, 2.704.758. Os dois estados somam 441 municípios: 217 maranhenses e 224 piauienses.\n\nA abstenção foi de 19,73% no Maranhão e 17,15% no Piauí, ambas abaixo da média nacional de 21,08%.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nQuase 8 milhões de votos: qual o peso dos dois estados no mapa eleitoral nacional?\n\n#IPPI #DadoDoDia #Eleições2026 #Piauí #Maranhão #TSE"
+  },
+  {
+    "id": "pol-23",
+    "pilar": "politica",
+    "uf": "PI+MA",
+    "selo": "POLÍTICA · PIAUÍ E MARANHÃO",
+    "numero": "34 x 30",
+    "manchete": "Idade mediana é de 34 anos no Piauí e 30 no Maranhão",
+    "contexto": "No Brasil, a idade mediana chegou a 35 anos no Censo 2022. O índice de envelhecimento é de 72,43 no Piauí e 49,95 no Maranhão (Brasil: 80,03).",
+    "comparacao": {
+      "rotulo": "Brasil (idade mediana)",
+      "valor": "35 anos"
+    },
+    "fonte": "IBGE, Censo Demográfico 2022 (SIDRA, tabela 10097)",
+    "fonte_url": "https://apisidra.ibge.gov.br/values/t/10097/n3/22,21/n1/all/v/allxp/p/2022/c1/6795",
+    "data_referencia": "2022-08",
+    "verificado_em": "2026-10-08",
+    "legenda": "O Piauí envelhece mais rápido que o Maranhão. A idade mediana piauiense é de 34 anos, quase igual à brasileira (35). No Maranhão, metade da população tem menos de 30 anos.\n\nO índice de envelhecimento, que mede quantos idosos (60+) existem para cada 100 jovens (0 a 14), é de 72,43 no Piauí e 49,95 no Maranhão. No Brasil, 80,03.\n\nSão perfis demográficos distintos, com impactos diferentes em saúde, educação e previdência.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nComo o perfil etário muda as prioridades de um governo?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #Maranhão #IBGE"
+  }
+]

@@ -1,0 +1,1262 @@
+[
+ {
+  "id": "pol-01",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "2,70 mi",
+  "manchete": "Piauí teve 2.704.758 eleitores aptos a votar no 1º turno de 2026",
+  "contexto": "Foram 2.240.883 comparecimentos (82,85%) em 10.225 urnas. O eleitorado piauiense equivale a 1,7% dos 158,7 milhões de aptos no Brasil.",
+  "comparacao": {
+   "rotulo": "Brasil (aptos)",
+   "valor": "158,7 mi"
+  },
+  "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+  "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/pi/pi-c0001-e006257-u.json",
+  "data_referencia": "2026-10",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí chegou ao 1º turno de 2026 com 2.704.758 eleitores aptos a votar. Desses, 2.240.883 compareceram às urnas, o equivalente a 82,85%.\n\nA votação foi distribuída em 10.225 urnas eletrônicas e 11.261 seções, segundo o balanço do TRE-PI.\n\nO estado representa cerca de 1,7% do eleitorado nacional, de 158,7 milhões de pessoas aptas.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nVocê já conferiu o resultado da sua seção eleitoral?\n\n#IPPI #DadoDoDia #Eleições2026 #Piauí #TSE #Eleitorado",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-02",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "17,15%",
+  "manchete": "Abstenção no Piauí foi de 17,15%, a terceira menor do país",
+  "contexto": "No 1º turno de 2026, 463.875 piauienses aptos não votaram. A média nacional de abstenção foi de 21,08%, quase 4 pontos acima da piauiense.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "21,08%"
+  },
+  "fonte": "TRE-PI, balanço do 1º turno das Eleições 2026",
+  "fonte_url": "https://www.tre-pi.jus.br/comunicacao/noticias/2026/Outubro/tre-pi-conclui-apuracao-em-tempo-recorde-e-apresenta-balanco-do-1o-turno-das-eleicoes-2026",
+  "data_referencia": "2026-10",
+  "verificado_em": "2026-10-08",
+  "legenda": "A abstenção no Piauí no 1º turno de 2026 ficou em 17,15%, a terceira menor do Brasil, segundo o TRE-PI. Em números absolutos, 463.875 eleitores aptos não compareceram.\n\nNo país, a abstenção foi de 21,08%, com 33.469.244 eleitores ausentes.\n\nO comparecimento piauiense (82,85%) seguiu acima da média nacional, repetindo o padrão de eleições anteriores no Nordeste.\n\nFonte: TRE-PI e TSE, Resultados das Eleições 2026.\n\nO que explica o piauiense faltar menos às urnas que o brasileiro médio?\n\n#IPPI #DadoDoDia #Abstenção #Eleições2026 #Piauí #TREPI",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-03",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "97,56%",
+  "manchete": "Piauí tem 97,56% do eleitorado com biometria cadastrada",
+  "contexto": "São 2.642.571 eleitores com digitais coletadas em um cadastro de 2.708.756 (posição de 01/10/2026). No Brasil, a cobertura biométrica é de 89,01%.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "89,01%"
+  },
+  "fonte": "TSE, Dados Abertos – Eleitorado Atual (01/10/2026)",
+  "fonte_url": "https://dadosabertos.tse.jus.br/dataset/eleitorado-atual",
+  "data_referencia": "2026-10",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí é um dos estados com maior cobertura biométrica do país: 97,56% dos eleitores têm as digitais cadastradas na Justiça Eleitoral.\n\nSão 2.642.571 pessoas com biometria em um cadastro de 2.708.756 eleitores, na posição de 1º de outubro de 2026.\n\nNo Brasil, o índice é de 89,01%, segundo o TSE. Em 2022, era de 75,51%.\n\nFonte: TSE, Portal de Dados Abertos (Eleitorado Atual) e balanço nacional do TSE.\n\nA biometria já é regra na sua seção eleitoral?\n\n#IPPI #DadoDoDia #Biometria #Piauí #TSE #JustiçaEleitoral",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-04",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "51,72%",
+  "manchete": "Mulheres são 51,72% do eleitorado do Piauí",
+  "contexto": "O cadastro eleitoral do estado tem 1.401.097 mulheres e 1.307.658 homens. No Brasil, as mulheres são 52,84% dos aptos a votar em 2026.",
+  "comparacao": {
+   "rotulo": "Brasil (mulheres)",
+   "valor": "52,84%"
+  },
+  "fonte": "TSE, Dados Abertos – Eleitorado Atual (01/10/2026)",
+  "fonte_url": "https://dadosabertos.tse.jus.br/dataset/eleitorado-atual",
+  "data_referencia": "2026-10",
+  "verificado_em": "2026-10-08",
+  "legenda": "As mulheres são maioria entre os eleitores do Piauí: 51,72% do cadastro, ou 1.401.097 eleitoras, contra 1.307.658 homens.\n\nA proporção é um pouco menor que a nacional. No Brasil, 52,84% dos 158,7 milhões de aptos a votar em 2026 são mulheres.\n\nEm Teresina, a diferença é maior: 54,93% do eleitorado da capital é feminino (325.295 mulheres e 266.915 homens).\n\nFonte: TSE, Portal de Dados Abertos (Eleitorado Atual, posição 01/10/2026).\n\nA maioria feminina nas urnas se reflete na representação política?\n\n#IPPI #DadoDoDia #Eleitorado #Mulheres #Piauí #TSE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-05",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "21,86%",
+  "manchete": "Teresina concentra 21,86% dos eleitores do Piauí",
+  "contexto": "A capital tem 592.210 eleitores. Parnaíba (118.066), Picos (54.457), Piripiri (53.258) e Floriano (45.077) completam as cinco maiores cidades eleitorais.",
+  "comparacao": {
+   "rotulo": "Parnaíba (2ª)",
+   "valor": "118.066"
+  },
+  "fonte": "TSE, Dados Abertos – Eleitorado Atual (01/10/2026)",
+  "fonte_url": "https://dadosabertos.tse.jus.br/dataset/eleitorado-atual",
+  "data_referencia": "2026-10",
+  "verificado_em": "2026-10-08",
+  "legenda": "Um em cada cinco eleitores do Piauí vota em Teresina. A capital tem 592.210 eleitores, 21,86% dos 2.708.756 do estado.\n\nNa sequência vêm Parnaíba (118.066), Picos (54.457), Piripiri (53.258) e Floriano (45.077). Os cinco maiores colégios somam cerca de 32% do eleitorado estadual.\n\nOs outros 219 municípios dividem os 68% restantes.\n\nFonte: TSE, Portal de Dados Abertos (Eleitorado Atual, posição 01/10/2026).\n\nSeu município está entre os maiores colégios eleitorais do Piauí?\n\n#IPPI #DadoDoDia #Teresina #Piauí #Eleitorado #TSE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-06",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "12",
+  "manchete": "Piauí registrou 12 candidatos a governador, o maior número do país",
+  "contexto": "Em 17/08/2026, o estado liderava os pedidos de registro para o governo entre as 27 unidades da federação. No Brasil, foram 195 pedidos para o cargo.",
+  "comparacao": {
+   "rotulo": "Brasil (governador)",
+   "valor": "195"
+  },
+  "fonte": "Agência Senado com dados do TSE (DivulgaCand), 17/08/2026",
+  "fonte_url": "https://www12.senado.leg.br/noticias/materias/2026/08/17/eleicoes-2026-veja-os-numeros-das-candidaturas-oficializadas",
+  "data_referencia": "2026-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí teve o maior número de candidaturas a governador do Brasil em 2026: 12 pedidos de registro, segundo levantamento da Agência Senado com dados do TSE.\n\nNo país inteiro, foram 195 pedidos para o cargo de governador e 20.506 registros no total, considerando todos os cargos.\n\nApós a análise da Justiça Eleitoral, 10 nomes apareceram na urna piauiense no 1º turno.\n\nFonte: Agência Senado / TSE (DivulgaCand), 17/08/2026; TSE, Resultados 2026.\n\nMais candidatos significam mais debate ou mais dispersão?\n\n#IPPI #DadoDoDia #Eleições2026 #Piauí #Candidaturas #TSE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-07",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "15,4",
+  "manchete": "Piauí teve 15,4 candidatos por vaga de deputado federal em 2026",
+  "contexto": "154 candidatos disputaram as 10 cadeiras do estado na Câmara. Para a Assembleia, foram 143 nomes para 30 vagas, ou 4,8 por vaga.",
+  "comparacao": {
+   "rotulo": "Dep. estadual (cand./vaga)",
+   "valor": "4,8"
+  },
+  "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+  "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0006-e006259-u.json",
+  "data_referencia": "2026-10",
+  "verificado_em": "2026-10-08",
+  "legenda": "A disputa por uma cadeira na Câmara dos Deputados pelo Piauí teve 154 candidatos para 10 vagas em 2026: 15,4 concorrentes por cadeira.\n\nPara a Assembleia Legislativa, foram 143 candidatos para 30 vagas, ou 4,8 por cadeira.\n\nO quociente eleitoral para deputado federal no estado ficou em 210.906 votos.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nMais candidatos por vaga significam disputa mais aberta ou votos mais pulverizados?\n\n#IPPI #DadoDoDia #Eleições2026 #Piauí #Câmara #Alepi",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-08",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "9,52%",
+  "manchete": "Para governador, 9,52% dos votos no Piauí foram brancos ou nulos",
+  "contexto": "No 1º turno de 2026, foram 76.589 votos em branco (3,42%) e 136.522 nulos (6,10%) entre 2.239.386 eleitores que compareceram.",
+  "comparacao": {
+   "rotulo": "Votos válidos",
+   "valor": "2.026.275"
+  },
+  "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+  "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0003-e006259-u.json",
+  "data_referencia": "2026-10",
+  "verificado_em": "2026-10-08",
+  "legenda": "Na eleição para governador do Piauí, 213.111 eleitores votaram em branco ou anularam o voto no 1º turno de 2026. É o equivalente a 9,52% dos que compareceram.\n\nForam 76.589 votos em branco (3,42%) e 136.522 nulos (6,10%). Os votos válidos somaram 2.026.275.\n\nNa eleição presidencial, no mesmo estado, brancos e nulos somaram 4,21%.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nVoto nulo é protesto ou desinteresse? O que você acha?\n\n#IPPI #DadoDoDia #Eleições2026 #Piauí #VotoNulo #TSE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-09",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "R$ 24,7k",
+  "manchete": "PIB per capita do Piauí: R$ 24.736 em 2023, 25º do país",
+  "contexto": "O valor é menos da metade da média brasileira (R$ 53.887) e fica abaixo da nordestina (R$ 27.682). O PIB estadual somou R$ 80,9 bilhões.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "R$ 53.887"
+  },
+  "fonte": "IBGE, Contas Regionais 2023 (Agência de Notícias, nov/2025)",
+  "fonte_url": "https://agenciadenoticias.ibge.gov.br/pt/agencia-noticias/45142-pib-cresce-em-todos-os-27-estados-do-pais-em-2023.html?lang=pt-BR",
+  "data_referencia": "2023-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O PIB per capita do Piauí foi de R$ 24.736,15 em 2023, o 25º entre as 27 unidades da federação, segundo as Contas Regionais do IBGE.\n\nA média brasileira foi de R$ 53.886,67 e a do Nordeste, R$ 27.681,97. O PIB total do estado somou R$ 80,9 bilhões, 0,7% do PIB nacional.\n\nEntre 2002 e 2023, a economia piauiense cresceu 111,8% em volume, média de 3,6% ao ano.\n\nFonte: IBGE, Contas Regionais 2023.\n\nComo transformar crescimento em renda por habitante?\n\n#IPPI #DadoDoDia #PIB #Piauí #IBGE #Economia",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-10",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "3,27 mi",
+  "manchete": "Piauí tem 3.271.199 habitantes em 224 municípios, segundo o Censo 2022",
+  "contexto": "A população cresceu 4,9% em relação a 2010 (3.118.360). Com 251.755 km², o estado tem densidade de cerca de 13 habitantes por km².",
+  "comparacao": {
+   "rotulo": "Censo 2010",
+   "valor": "3.118.360"
+  },
+  "fonte": "IBGE, Censo Demográfico 2022 (SIDRA, tabela 4714)",
+  "fonte_url": "https://apisidra.ibge.gov.br/values/t/4714/n3/22,21/n1/all/v/93,6318/p/2022",
+  "data_referencia": "2022-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Censo 2022 contou 3.271.199 moradores no Piauí, distribuídos em 224 municípios.\n\nO crescimento foi de 4,9% em relação a 2010, quando o estado tinha 3.118.360 habitantes. No Brasil, a população chegou a 203.080.756 pessoas.\n\nCom 251.755 km² de área, o Piauí tem cerca de 13 habitantes por quilômetro quadrado.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nQuanto a sua cidade cresceu entre os dois Censos?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #IBGE #População",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-11",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "69,4%",
+  "manchete": "Apenas 69,4% da população do Piauí vive em áreas urbanas",
+  "contexto": "O Censo 2022 contou 2.271.384 moradores urbanos e 999.815 rurais no estado. No Brasil, 87,4% da população é urbana.",
+  "comparacao": {
+   "rotulo": "Brasil (urbana)",
+   "valor": "87,4%"
+  },
+  "fonte": "IBGE, Censo Demográfico 2022 (SIDRA, tabela 10211)",
+  "fonte_url": "https://apisidra.ibge.gov.br/values/t/10211/n3/22,21/n1/all/v/allxp/p/2022/c1/all",
+  "data_referencia": "2022-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí segue entre os estados mais rurais do Brasil. Pelo Censo 2022, 2.271.384 pessoas vivem em áreas urbanas (69,4%) e 999.815 em áreas rurais (30,6%).\n\nNo país, a taxa de urbanização é de 87,4%. No Maranhão, vizinho, 70,9%.\n\nUm em cada três piauienses mora no campo, o que pesa no desenho de políticas públicas e na logística eleitoral.\n\nFonte: IBGE, Censo Demográfico 2022 (percentuais calculados pela IPPI).\n\nO Piauí rural está representado nos debates públicos?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #Urbanização #IBGE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-12",
+  "pilar": "politica",
+  "uf": "PI",
+  "selo": "POLÍTICA · PIAUÍ",
+  "numero": "R$534 mi",
+  "manchete": "Municípios piauienses receberam R$ 533,9 milhões de FPM em fevereiro",
+  "contexto": "Valor já descontado o Fundeb. No mesmo mês, o estado recebeu R$ 835,2 milhões de FPE. Os municípios maranhenses receberam R$ 841,9 milhões de FPM.",
+  "comparacao": {
+   "rotulo": "FPM Maranhão (fev/26)",
+   "valor": "R$ 842 mi"
+  },
+  "fonte": "Tesouro Nacional, Boletim FPM/FPE, fevereiro/2026",
+  "fonte_url": "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/54083_1703464/Boletim%20FPM%20FPE%202026_02.pdf",
+  "data_referencia": "2026-02",
+  "verificado_em": "2026-10-08",
+  "legenda": "Os 224 municípios do Piauí receberam R$ 533,9 milhões do Fundo de Participação dos Municípios (FPM) em fevereiro de 2026, já descontada a parcela do Fundeb.\n\nO governo estadual recebeu, no mesmo mês, R$ 835,2 milhões do Fundo de Participação dos Estados (FPE).\n\nNo Brasil, o FPM de fevereiro somou R$ 20,2 bilhões, alta de 5,5% sobre fevereiro de 2025.\n\nFonte: Tesouro Nacional, Boletim Mensal FPM/FPE (fev/2026).\n\nSabe quanto do orçamento da sua cidade depende do FPM?\n\n#IPPI #DadoDoDia #FPM #Piauí #Tesouro #Municípios",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-13",
+  "pilar": "politica",
+  "uf": "MA",
+  "selo": "POLÍTICA · MARANHÃO",
+  "numero": "5,19 mi",
+  "manchete": "Maranhão tem 5.186.562 eleitores aptos a votar nas Eleições 2026",
+  "contexto": "São 2.692.850 mulheres (52%) e 2.493.707 homens, em 18.093 seções de 217 municípios.",
+  "comparacao": {
+   "rotulo": "Mulheres",
+   "valor": "52%"
+  },
+  "fonte": "TRE-MA, balanço das Eleições 2026 (30/09/2026)",
+  "fonte_url": "https://www.tre-ma.jus.br/comunicacao/noticias/2026/Setembro/numeros-estrutura-e-orientacoes-para-o-dia-da-votacao",
+  "data_referencia": "2026-09",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão chegou às Eleições 2026 com 5.186.562 pessoas aptas a votar, segundo o TRE-MA.\n\nAs mulheres são maioria: 2.692.850 eleitoras (52%), contra 2.493.707 homens. A votação foi organizada em 18.093 seções e 5.910 locais, em 217 municípios e 105 zonas eleitorais.\n\nMais de 70 mil mesários trabalharam no 1º turno.\n\nFonte: TRE-MA, balanço de 30/09/2026; TSE, estatísticas do eleitorado.\n\nVocê sabia que o eleitorado maranhense é quase o dobro do piauiense?\n\n#IPPI #DadoDoDia #Eleições2026 #Maranhão #TREMA #Eleitorado",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-14",
+  "pilar": "politica",
+  "uf": "MA",
+  "selo": "POLÍTICA · MARANHÃO",
+  "numero": "95,22%",
+  "manchete": "Maranhão tem 95,22% dos eleitores com biometria cadastrada",
+  "contexto": "São 4.938.634 eleitores com digitais coletadas e 247.928 (4,78%) sem. A cobertura supera a média nacional, de 89,01%.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "89,01%"
+  },
+  "fonte": "TRE-MA, balanço das Eleições 2026 (30/09/2026)",
+  "fonte_url": "https://www.tre-ma.jus.br/comunicacao/noticias/2026/Setembro/numeros-estrutura-e-orientacoes-para-o-dia-da-votacao",
+  "data_referencia": "2026-09",
+  "verificado_em": "2026-10-08",
+  "legenda": "No Maranhão, 4.938.634 eleitores (95,22%) já têm biometria cadastrada na Justiça Eleitoral. Outros 247.928 (4,78%) ainda não passaram pela coleta.\n\nA cobertura maranhense supera a média brasileira, de 89,01%, segundo o TSE.\n\nA biometria é usada para identificar o eleitor na seção e evitar duplicidade de títulos.\n\nFonte: TRE-MA, balanço de 30/09/2026; TSE.\n\nVocê já votou com a digital na urna?\n\n#IPPI #DadoDoDia #Biometria #Maranhão #TREMA #JustiçaEleitoral",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-15",
+  "pilar": "politica",
+  "uf": "MA",
+  "selo": "POLÍTICA · MARANHÃO",
+  "numero": "756 mil",
+  "manchete": "São Luís tem 756.232 eleitores, 14,6% do eleitorado do Maranhão",
+  "contexto": "A capital vota em 2.273 seções de 267 locais. Imperatriz (194.926), São José de Ribamar (131.211), Timon (124.673) e Caxias (113.428) vêm em seguida.",
+  "comparacao": {
+   "rotulo": "Imperatriz (2ª)",
+   "valor": "194.926"
+  },
+  "fonte": "TRE-MA (30/09/2026) e TSE, Dados Abertos – Eleitorado Atual",
+  "fonte_url": "https://www.tre-ma.jus.br/comunicacao/noticias/2026/Setembro/numeros-estrutura-e-orientacoes-para-o-dia-da-votacao",
+  "data_referencia": "2026-09",
+  "verificado_em": "2026-10-08",
+  "legenda": "São Luís é o maior colégio eleitoral do Maranhão, com 756.232 eleitores aptos, cerca de 14,6% do total do estado. A capital vota em 2.273 seções distribuídas em 267 locais.\n\nNa sequência aparecem Imperatriz (194.926), São José de Ribamar (131.211), Timon (124.673) e Caxias (113.428).\n\nJuntas, as cinco maiores cidades reúnem cerca de 25% dos eleitores maranhenses.\n\nFonte: TRE-MA; TSE, Portal de Dados Abertos (Eleitorado Atual, 01/10/2026).\n\nO interior decide a eleição no Maranhão?\n\n#IPPI #DadoDoDia #SãoLuís #Maranhão #Eleitorado #TSE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-16",
+  "pilar": "politica",
+  "uf": "MA",
+  "selo": "POLÍTICA · MARANHÃO",
+  "numero": "19,73%",
+  "manchete": "Abstenção no Maranhão ficou em 19,73% no 1º turno de 2026",
+  "contexto": "Dos 5.183.115 aptos, 1.022.772 não votaram. O índice ficou abaixo da média nacional (21,08%), mas acima do Piauí (17,15%).",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "21,08%"
+  },
+  "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+  "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/ma/ma-c0001-e006257-u.json",
+  "data_referencia": "2026-10",
+  "verificado_em": "2026-10-08",
+  "legenda": "No 1º turno das Eleições 2026, 1.022.772 eleitores maranhenses não compareceram às urnas: abstenção de 19,73%.\n\nO comparecimento foi de 4.160.343 pessoas (80,27%) entre 5.183.115 aptos. A abstenção nacional foi de 21,08%; no Piauí, 17,15%.\n\nNa eleição presidencial, os votos brancos no estado somaram 1,11% e os nulos, 2,49%.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nMais de 1 milhão de ausentes: o que faria essas pessoas voltarem às urnas?\n\n#IPPI #DadoDoDia #Abstenção #Maranhão #Eleições2026 #TSE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-17",
+  "pilar": "politica",
+  "uf": "MA",
+  "selo": "POLÍTICA · MARANHÃO",
+  "numero": "572",
+  "manchete": "Maranhão registrou 572 candidaturas para as Eleições 2026",
+  "contexto": "Foram 282 para deputado estadual, 271 para federal, 11 para o Senado e 8 para governador, segundo o DivulgaCand do TSE em 16/08/2026.",
+  "comparacao": {
+   "rotulo": "Dep. estadual",
+   "valor": "282"
+  },
+  "fonte": "Imirante com dados do TSE (DivulgaCand), 16/08/2026",
+  "fonte_url": "https://m.imirante.com/noticias/maranhao/2026/08/16/ipolitica-maranhao-soma-572-candidaturas-registradas-para-as-eleicoes-de-2026",
+  "data_referencia": "2026-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão somou 572 pedidos de registro de candidatura para as Eleições 2026, segundo o sistema DivulgaCand, do TSE.\n\nForam 282 candidaturas a deputado estadual, 271 a deputado federal, 11 ao Senado e 8 ao governo do estado.\n\nNa urna, após a análise da Justiça Eleitoral, 266 nomes disputaram as 18 vagas federais e 271 as 42 estaduais.\n\nFonte: Imirante / TSE (DivulgaCand), 16/08/2026; TSE, Resultados 2026.\n\nQuantos desses nomes você conhecia antes da campanha?\n\n#IPPI #DadoDoDia #Eleições2026 #Maranhão #Candidaturas #TSE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-18",
+  "pilar": "politica",
+  "uf": "MA",
+  "selo": "POLÍTICA · MARANHÃO",
+  "numero": "220.609",
+  "manchete": "Quociente eleitoral para deputado federal no Maranhão foi de 220.609 votos",
+  "contexto": "É o número de votos válidos necessários para um partido ou federação garantir uma das 18 cadeiras. 266 candidatos disputaram 14,8 por vaga.",
+  "comparacao": {
+   "rotulo": "Piauí (QE federal)",
+   "valor": "210.906"
+  },
+  "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+  "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0006-e006259-u.json",
+  "data_referencia": "2026-10",
+  "verificado_em": "2026-10-08",
+  "legenda": "Para eleger um deputado federal pelo Maranhão em 2026, um partido ou federação precisou atingir o quociente eleitoral de 220.609 votos válidos.\n\nForam 266 candidatos para 18 cadeiras, ou 14,8 por vaga. Para a Assembleia Legislativa, o quociente foi de 93.381 votos, com 271 candidatos para 42 vagas.\n\nNo Piauí, o quociente federal ficou em 210.906 votos.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nVocê sabe como funciona o cálculo do quociente eleitoral?\n\n#IPPI #DadoDoDia #QuocienteEleitoral #Maranhão #Câmara #TSE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-19",
+  "pilar": "politica",
+  "uf": "MA",
+  "selo": "POLÍTICA · MARANHÃO",
+  "numero": "R$ 22,0k",
+  "manchete": "Maranhão tem o menor PIB per capita do Brasil: R$ 22.021",
+  "contexto": "O valor é 27º entre 27 unidades da federação e equivale a 41% da média nacional (R$ 53.887). O PIB estadual somou R$ 149,2 bilhões.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "R$ 53.887"
+  },
+  "fonte": "IBGE, Contas Regionais 2023 (Agência de Notícias, nov/2025)",
+  "fonte_url": "https://agenciadenoticias.ibge.gov.br/pt/agencia-noticias/45142-pib-cresce-em-todos-os-27-estados-do-pais-em-2023.html?lang=pt-BR",
+  "data_referencia": "2023-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão registrou o menor PIB per capita do país em 2023: R$ 22.020,63, na 27ª posição entre as unidades da federação, segundo o IBGE.\n\nA média brasileira foi de R$ 53.886,67 e a nordestina, R$ 27.681,97. O PIB total do estado somou R$ 149,2 bilhões, 1,4% do PIB nacional.\n\nEntre 2002 e 2023, a economia maranhense cresceu 102,8% em volume.\n\nFonte: IBGE, Contas Regionais 2023.\n\nPIB grande, renda por habitante baixa: o que explica essa distância?\n\n#IPPI #DadoDoDia #PIB #Maranhão #IBGE #Economia",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-20",
+  "pilar": "politica",
+  "uf": "MA",
+  "selo": "POLÍTICA · MARANHÃO",
+  "numero": "6,78 mi",
+  "manchete": "Maranhão tem 6.776.699 habitantes, 3,1% a mais que em 2010",
+  "contexto": "Em 2010, eram 6.574.789 moradores. A população urbana é de 70,9%. A idade mediana é de 30 anos, contra 35 no país.",
+  "comparacao": {
+   "rotulo": "Idade mediana Brasil",
+   "valor": "35 anos"
+  },
+  "fonte": "IBGE, Censo Demográfico 2022 (SIDRA, tabelas 4714 e 10097)",
+  "fonte_url": "https://apisidra.ibge.gov.br/values/t/10097/n3/22,21/n1/all/v/allxp/p/2022/c1/6795",
+  "data_referencia": "2022-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Censo 2022 contou 6.776.699 pessoas no Maranhão, crescimento de 3,1% em relação a 2010 (6.574.789).\n\nO estado tem uma das populações mais jovens do país: idade mediana de 30 anos, contra 34 no Piauí e 35 no Brasil. O índice de envelhecimento (idosos por 100 jovens) é de 49,95, bem abaixo dos 80,03 nacionais.\n\nSão 217 municípios em 329.651 km².\n\nFonte: IBGE, Censo Demográfico 2022.\n\nUma população jovem é oportunidade ou desafio para a gestão pública?\n\n#IPPI #DadoDoDia #Censo2022 #Maranhão #IBGE #População",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-21",
+  "pilar": "politica",
+  "uf": "MA",
+  "selo": "POLÍTICA · MARANHÃO",
+  "numero": "1,16 mi",
+  "manchete": "Bolsa Família atendeu 1,16 milhão de famílias maranhenses em maio",
+  "contexto": "O repasse ao estado foi de R$ 810,2 milhões, com benefício médio de R$ 696,50 por família, acima da média nacional (R$ 678,01).",
+  "comparacao": {
+   "rotulo": "Benefício médio Brasil",
+   "valor": "R$ 678,01"
+  },
+  "fonte": "O Imparcial com dados do Governo Federal (MDS), maio/2026",
+  "fonte_url": "https://oimparcial.com.br/brasil/2026/05/bolsa-familia-contempla-mais-de-11-milhao-de-familias-no-maranhao-em-maio/",
+  "data_referencia": "2026-05",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em maio de 2026, mais de 1,16 milhão de famílias maranhenses receberam o Bolsa Família. O repasse ao estado somou R$ 810,2 milhões.\n\nO benefício médio no Maranhão foi de R$ 696,50 por família, acima da média nacional de R$ 678,01.\n\nNo Brasil, o programa atendeu 19,08 milhões de famílias no mês, com investimento de R$ 12,9 bilhões.\n\nFonte: O Imparcial, com dados do Governo Federal (MDS), 19/05/2026.\n\nQual o peso do Bolsa Família na economia da sua cidade?\n\n#IPPI #DadoDoDia #BolsaFamília #Maranhão #MDS #PolíticasPúblicas",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-22",
+  "pilar": "politica",
+  "uf": "PI+MA",
+  "selo": "POLÍTICA · PIAUÍ E MARANHÃO",
+  "numero": "7,89 mi",
+  "manchete": "Piauí e Maranhão somam 7,89 milhões de eleitores, 5% do Brasil",
+  "contexto": "No 1º turno de 2026, foram 2.704.758 aptos no Piauí e 5.183.115 no Maranhão, 4,97% dos 158.745.502 eleitores do país.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "158,7 mi"
+  },
+  "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+  "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.json",
+  "data_referencia": "2026-10",
+  "verificado_em": "2026-10-08",
+  "legenda": "Juntos, Piauí e Maranhão reúnem 7.887.873 eleitores aptos, o equivalente a 4,97% do eleitorado brasileiro de 158.745.502 pessoas no 1º turno de 2026.\n\nO Maranhão tem 5.183.115 aptos e o Piauí, 2.704.758. Os dois estados somam 441 municípios: 217 maranhenses e 224 piauienses.\n\nA abstenção foi de 19,73% no Maranhão e 17,15% no Piauí, ambas abaixo da média nacional de 21,08%.\n\nFonte: TSE, Resultados das Eleições 2026 (1º turno).\n\nQuase 8 milhões de votos: qual o peso dos dois estados no mapa eleitoral nacional?\n\n#IPPI #DadoDoDia #Eleições2026 #Piauí #Maranhão #TSE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "pol-23",
+  "pilar": "politica",
+  "uf": "PI+MA",
+  "selo": "POLÍTICA · PIAUÍ E MARANHÃO",
+  "numero": "34 x 30",
+  "manchete": "Idade mediana é de 34 anos no Piauí e 30 no Maranhão",
+  "contexto": "No Brasil, a idade mediana chegou a 35 anos no Censo 2022. O índice de envelhecimento é de 72,43 no Piauí e 49,95 no Maranhão (Brasil: 80,03).",
+  "comparacao": {
+   "rotulo": "Brasil (idade mediana)",
+   "valor": "35 anos"
+  },
+  "fonte": "IBGE, Censo Demográfico 2022 (SIDRA, tabela 10097)",
+  "fonte_url": "https://apisidra.ibge.gov.br/values/t/10097/n3/22,21/n1/all/v/allxp/p/2022/c1/6795",
+  "data_referencia": "2022-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí envelhece mais rápido que o Maranhão. A idade mediana piauiense é de 34 anos, quase igual à brasileira (35). No Maranhão, metade da população tem menos de 30 anos.\n\nO índice de envelhecimento, que mede quantos idosos (60+) existem para cada 100 jovens (0 a 14), é de 72,43 no Piauí e 49,95 no Maranhão. No Brasil, 80,03.\n\nSão perfis demográficos distintos, com impactos diferentes em saúde, educação e previdência.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nComo o perfil etário muda as prioridades de um governo?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #Maranhão #IBGE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-01",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "77 anos",
+  "manchete": "Piauiense nascido em 2024 tem expectativa de vida de 77,0 anos",
+  "contexto": "Supera a média nacional (76,6 anos) e é a 3ª maior do Nordeste, atrás de RN e CE. Em 2000, a esperança de vida ao nascer no Piauí era de 70,8 anos.",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "76,6 anos"
+  },
+  "fonte": "IBGE, Projeções da População, Revisão 2024",
+  "fonte_url": "https://ftp.ibge.gov.br/Projecao_da_Populacao/Projecao_da_Populacao_2024/projecoes_2024_tab4_indicadores.xlsx",
+  "data_referencia": "2024-07",
+  "verificado_em": "2026-10-08",
+  "legenda": "Quem nasce no Piauí em 2024 tem esperança de vida ao nascer de 77,0 anos, segundo as Projeções da População do IBGE (Revisão 2024).\n\nO número supera a média brasileira (76,6 anos) e é o terceiro maior do Nordeste, atrás do Rio Grande do Norte (77,8) e do Ceará (77,3). Em 2000, o indicador piauiense era de 70,8 anos: ganho de mais de seis anos em duas décadas.\n\nEntre as mulheres piauienses, a expectativa chega a 80,8 anos; entre os homens, 73,3.\n\nFonte: IBGE, Projeções da População (Revisão 2024), tabela de indicadores implícitos.\n\nO que explica o Piauí viver mais que a média do país?\n\n#IPPI #DadoDoDia #Piauí #ExpectativaDeVida #IBGE #SaúdePública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-02",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "14,6",
+  "manchete": "Mortalidade infantil no Piauí caiu de 40,4 para 14,6 por mil",
+  "contexto": "Taxa estimada para 2024, por mil nascidos vivos. Em 2000 era 40,4. A média do Brasil em 2024 é 12,2.",
+  "comparacao": {
+   "rotulo": "Piauí 2000",
+   "valor": "40,4"
+  },
+  "fonte": "IBGE, Projeções da População, Revisão 2024",
+  "fonte_url": "https://ftp.ibge.gov.br/Projecao_da_Populacao/Projecao_da_Populacao_2024/projecoes_2024_tab4_indicadores.xlsx",
+  "data_referencia": "2024-07",
+  "verificado_em": "2026-10-08",
+  "legenda": "A taxa de mortalidade infantil do Piauí é estimada em 14,6 óbitos de menores de 1 ano por mil nascidos vivos em 2024, segundo o IBGE.\n\nEm 2000, a taxa era de 40,4 por mil. A queda em 24 anos passa de 60%. Ainda assim, o estado segue acima da média nacional, que é de 12,2 por mil.\n\nA mortalidade infantil é um dos indicadores mais sensíveis à qualidade do pré-natal, do parto e da atenção básica.\n\nFonte: IBGE, Projeções da População (Revisão 2024).\n\nO que ainda falta para o Piauí alcançar a média do país?\n\n#IPPI #DadoDoDia #Piauí #MortalidadeInfantil #IBGE #SaúdePública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-03",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "64,7%",
+  "manchete": "Quase 65% dos partos no Piauí foram cesáreas em 2024",
+  "contexto": "Foram 25.691 cesáreas entre 39.697 nascidos vivos de mães residentes no estado. No Brasil, a proporção foi de 60,6%.",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "60,6%"
+  },
+  "fonte": "MS/SINASC, nascidos vivos por tipo de parto, 2024",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvuf.def",
+  "data_referencia": "2024-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em 2024, 64,7% dos nascidos vivos de mães residentes no Piauí vieram ao mundo por cesariana: 25.691 de um total de 39.697 nascimentos, segundo o SINASC.\n\nA proporção piauiense supera a média brasileira (60,6%) e fica muito acima do patamar de 10% a 15% que a OMS considera justificável por razões médicas.\n\nOs dados são finais, extraídos pelo DATASUS em dezembro de 2025.\n\nFonte: Ministério da Saúde, SINASC/DATASUS (TabNet), 2024.\n\nPor que a cesárea virou regra, e não exceção?\n\n#IPPI #DadoDoDia #Piauí #Cesárea #SINASC #SaúdeMaterna",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-04",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "1.607",
+  "manchete": "Piauí tem 1.607 Unidades Básicas de Saúde cadastradas",
+  "contexto": "Levantamento do Censo Nacional das UBS (2024): 1.155 centros de saúde, 445 postos de saúde e 7 centros de apoio à saúde da família.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "49.738 UBS"
+  },
+  "fonte": "MS, Censo Nacional das UBS, 2024",
+  "fonte_url": "https://abrasco.org.br/wp-content/uploads/2025/07/SUMARIO-EXECUTIVO-CENSO-DAS-UBS.pdf",
+  "data_referencia": "2024-09",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí conta com 1.607 Unidades Básicas de Saúde, segundo o Censo Nacional das UBS realizado pelo Ministério da Saúde em 2024.\n\nSão 1.155 centros de saúde/unidades básicas, 445 postos de saúde e 7 centros de apoio à saúde da família. O Brasil soma 49.738 UBS elegíveis no mesmo levantamento.\n\nA UBS é a porta de entrada do SUS: é onde se faz pré-natal, vacinação, acompanhamento de crônicos e consultas de rotina.\n\nFonte: Ministério da Saúde, Censo Nacional das UBS (coleta jun-set/2024), sumário executivo.\n\nVocê sabe onde fica a UBS do seu bairro?\n\n#IPPI #DadoDoDia #Piauí #UBS #AtençãoPrimária #SUS",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-05",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "57,9%",
+  "manchete": "Piauí lidera o país na vacinação contra influenza em 2025",
+  "contexto": "Cobertura de 57,91% nos grupos prioritários (gestantes, crianças e idosos) na campanha 2025, a maior entre os estados. ES ficou em 2º, com 55,39%.",
+  "comparacao": {
+   "rotulo": "2º lugar (ES)",
+   "valor": "55,39%"
+  },
+  "fonte": "MS/Sesapi via Conass, Campanha Influenza 2025",
+  "fonte_url": "https://www.conass.org.br/?p=50777",
+  "data_referencia": "2025-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí alcançou 57,91% de cobertura vacinal contra a influenza nos grupos prioritários em 2025, o maior índice do país, segundo ranking do Ministério da Saúde divulgado pelo Conass.\n\nEspírito Santo (55,39%) e Paraná (54,08%) vieram em seguida. Até o fechamento do balanço, o estado havia aplicado 303 mil doses em idosos, 146 mil em crianças e 12 mil em gestantes.\n\nA gripe é uma das principais causas de internação de idosos e crianças pequenas no inverno.\n\nFonte: Ministério da Saúde e Sesapi, divulgado pelo Conass em 29/08/2025.\n\nVocê já se vacinou este ano?\n\n#IPPI #DadoDoDia #Piauí #Vacinação #Influenza #SUS",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-06",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "5.469",
+  "manchete": "Piauí registrou 5.469 casos prováveis de dengue até maio de 2025",
+  "contexto": "Dados do Ministério da Saúde até 31/05/2025 apontam 5.469 casos prováveis e 7 óbitos pela doença no estado.",
+  "comparacao": {
+   "rotulo": "Óbitos 2025",
+   "valor": "7"
+  },
+  "fonte": "MS, monitoramento das arboviroses, até 31/05/2025",
+  "fonte_url": "https://brasil61.com/n/piaui-estado-registra-5-4-mil-casos-provaveis-de-dengue-em-2025-aede253214",
+  "data_referencia": "2025-05",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí registrou 5.469 casos prováveis de dengue e 7 óbitos pela doença entre janeiro e maio de 2025, segundo o monitoramento de arboviroses do Ministério da Saúde.\n\nO número é pequeno diante do cenário nacional: no mesmo período, o Brasil somava mais de 1,4 milhão de casos prováveis.\n\nCaso provável é todo caso notificado que não foi descartado; inclui confirmados por laboratório e por critério clínico.\n\nFonte: Ministério da Saúde (dados até 31/05/2025), via Brasil 61.\n\nNa sua rua, ainda tem água parada?\n\n#IPPI #DadoDoDia #Piauí #Dengue #Arboviroses #Aedes",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-07",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "-8,2%",
+  "manchete": "Nascimentos no Piauí caíram 8,2% em 2024, segundo o IBGE",
+  "contexto": "Queda entre os nascidos em 2024 registrados até março de 2025 frente aos de 2023. No Brasil, a redução foi de 5,8%.",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "-5,8%"
+  },
+  "fonte": "IBGE, Estatísticas do Registro Civil 2024",
+  "fonte_url": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-registra-queda-no-numero-de-nascimentos-em-2024-diz-ibge/",
+  "data_referencia": "2024-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O número de nascimentos registrados no Piauí caiu 8,2% em 2024, uma das maiores quedas do país, segundo as Estatísticas do Registro Civil do IBGE.\n\nNo Brasil, a redução foi de 5,8%: foram 2,38 milhões de nascidos em 2024 e registrados até o 1º trimestre de 2025, contra 2,52 milhões em 2023.\n\nMenos nascimentos hoje significam menos crianças nas escolas amanhã e menos jovens no mercado de trabalho em 20 anos.\n\nFonte: IBGE, Estatísticas do Registro Civil 2024, via CNN Brasil.\n\nO Piauí está envelhecendo mais rápido do que o país?\n\n#IPPI #DadoDoDia #Piauí #Natalidade #IBGE #Demografia",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-08",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "6.016",
+  "manchete": "Piauí tem 6.016 leitos de internação disponíveis ao SUS",
+  "contexto": "Competência agosto/2026 do CNES. Equivale a cerca de 17,7 leitos SUS por 10 mil habitantes, acima da média nacional (14,8).",
+  "comparacao": {
+   "rotulo": "Brasil (por 10 mil hab.)",
+   "valor": "14,8"
+  },
+  "fonte": "MS/CNES, leitos de internação SUS, ago/2026",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def",
+  "data_referencia": "2026-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí tem 6.016 leitos de internação disponíveis ao SUS, de um total de 7.230 leitos existentes no estado, segundo o CNES (competência agosto/2026).\n\nIsso equivale a cerca de 17,7 leitos SUS por 10 mil habitantes, considerando a população projetada pelo IBGE para 2026. A média brasileira é de 14,8 por 10 mil.\n\nO número não diz onde estão os leitos: a distribuição entre capital e interior é outro capítulo.\n\nFonte: Ministério da Saúde, CNES/DATASUS (TabNet); população IBGE.\n\nQuantos desses leitos ficam fora de Teresina?\n\n#IPPI #DadoDoDia #Piauí #LeitosSUS #CNES #SaúdePública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-09",
+  "pilar": "saude",
+  "uf": "PI",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "8,7%",
+  "manchete": "Baixo peso ao nascer atingiu 8,7% dos bebês piauienses em 2024",
+  "contexto": "3.470 dos 39.697 nascidos vivos pesaram menos de 2.500 g. No Brasil, a proporção foi de 9,5%.",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "9,5%"
+  },
+  "fonte": "MS/SINASC, nascidos vivos por peso ao nascer, 2024",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvuf.def",
+  "data_referencia": "2024-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em 2024, 8,7% dos nascidos vivos de mães residentes no Piauí nasceram com baixo peso (menos de 2.500 gramas): 3.470 bebês entre 39.697 nascimentos, segundo o SINASC.\n\nA proporção piauiense ficou abaixo da média brasileira, de 9,5%.\n\nO baixo peso ao nascer está associado à prematuridade, ao pré-natal insuficiente e às condições de saúde da mãe, e é um dos principais preditores de mortalidade no primeiro ano de vida.\n\nFonte: Ministério da Saúde, SINASC/DATASUS (TabNet), dados finais de 2024.\n\nO pré-natal chega a todas as gestantes do seu município?\n\n#IPPI #DadoDoDia #Piauí #BaixoPeso #SINASC #SaúdeMaterna",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-10",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "1,27",
+  "manchete": "Maranhão tem 1,27 médico por mil habitantes, menor razão do país",
+  "contexto": "Demografia Médica 2025 (MS/FMUSP/AMB). A média nacional projetada para 2025 é de 2,98 médicos por mil habitantes.",
+  "comparacao": {
+   "rotulo": "Brasil 2025",
+   "valor": "2,98"
+  },
+  "fonte": "Demografia Médica no Brasil 2025 (MS/FMUSP/AMB)",
+  "fonte_url": "https://www.poder360.com.br/poder-saude/brasil-deve-chegar-a-635-706-medicos-em-2025/",
+  "data_referencia": "2025-04",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão tem 1,27 médico por mil habitantes, a menor proporção entre os 27 estados, segundo a Demografia Médica no Brasil 2025, estudo do Ministério da Saúde com a FMUSP e a AMB.\n\nA média nacional deve chegar a 2,98 médicos por mil habitantes em 2025, com 635.706 profissionais em atividade no país.\n\nA razão maranhense é menos da metade da brasileira, e a concentração nas capitais torna o quadro ainda mais desigual no interior.\n\nFonte: Demografia Médica no Brasil 2025, via Poder360.\n\nQuantos médicos atendem no seu município?\n\n#IPPI #DadoDoDia #Maranhão #DemografiaMédica #SUS #SaúdePública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-11",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "14,6",
+  "manchete": "Mortalidade infantil no Maranhão: de 41,8 para 14,6 por mil",
+  "contexto": "Taxa estimada para 2024, por mil nascidos vivos. No fim do século XX era 41,8. A média brasileira em 2024 é 12,2.",
+  "comparacao": {
+   "rotulo": "Maranhão 2000",
+   "valor": "41,8"
+  },
+  "fonte": "IBGE, Projeções da População, Revisão 2024",
+  "fonte_url": "https://ftp.ibge.gov.br/Projecao_da_Populacao/Projecao_da_Populacao_2024/projecoes_2024_tab4_indicadores.xlsx",
+  "data_referencia": "2024-07",
+  "verificado_em": "2026-10-08",
+  "legenda": "A taxa de mortalidade infantil do Maranhão é estimada em 14,6 óbitos de menores de 1 ano por mil nascidos vivos em 2024, segundo as Projeções da População do IBGE.\n\nEm 2000, o estado registrava 41,8 por mil. A redução supera 65% em pouco mais de duas décadas, mas o Maranhão ainda está acima da média nacional (12,2).\n\nA projeção do IBGE aponta 6,0 por mil para 2070.\n\nFonte: IBGE, Projeções da População (Revisão 2024).\n\nO que mudou na saúde materno-infantil maranhense nesses 24 anos?\n\n#IPPI #DadoDoDia #Maranhão #MortalidadeInfantil #IBGE #SaúdePública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-12",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "75,6 a.",
+  "manchete": "Maranhense nascido em 2024 tem expectativa de vida de 75,6 anos",
+  "contexto": "Um ano abaixo da média nacional (76,6). Em 2000, a esperança de vida ao nascer no Maranhão era de 69,8 anos.",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "76,6 anos"
+  },
+  "fonte": "IBGE, Projeções da População, Revisão 2024",
+  "fonte_url": "https://ftp.ibge.gov.br/Projecao_da_Populacao/Projecao_da_Populacao_2024/projecoes_2024_tab4_indicadores.xlsx",
+  "data_referencia": "2024-07",
+  "verificado_em": "2026-10-08",
+  "legenda": "Quem nasce no Maranhão em 2024 tem esperança de vida ao nascer de 75,6 anos, segundo as Projeções da População do IBGE (Revisão 2024).\n\nO estado fica um ano abaixo da média brasileira (76,6 anos). Em 2000, a expectativa maranhense era de 69,8 anos: ganho de quase seis anos no período.\n\nEntre as mulheres, o indicador chega a 78,8 anos; entre os homens, 72,5.\n\nFonte: IBGE, Projeções da População (Revisão 2024), tabela de indicadores implícitos.\n\nO que explica a diferença de seis anos entre homens e mulheres?\n\n#IPPI #DadoDoDia #Maranhão #ExpectativaDeVida #IBGE #SaúdePública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-13",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "99,7%",
+  "manchete": "Maranhão vacinou 99,66% dos bebês contra pneumococo em 2025",
+  "contexto": "Cobertura da Pneumo 10 em menores de 1 ano, dados da RNDS/MS até abril de 2025. A meta nacional é 95%.",
+  "comparacao": {
+   "rotulo": "Meta nacional",
+   "valor": "95%"
+  },
+  "fonte": "MS/RNDS via Conass e SES-MA, dados até abr/2025",
+  "fonte_url": "https://www.conass.org.br/?p=49205",
+  "data_referencia": "2025-04",
+  "verificado_em": "2026-10-08",
+  "legenda": "A cobertura da vacina Pneumo 10 em menores de 1 ano chegou a 99,66% no Maranhão, segundo dados da Rede Nacional de Dados em Saúde (RNDS) do Ministério da Saúde atualizados até abril de 2025.\n\nOutras vacinas de 1 a 4 anos também superaram a meta de 95%: DTP 1º reforço (96,69%), Pneumo 10 reforço (96,98%), Meningo C reforço (97,62%) e tríplice viral 1ª dose (97,43%).\n\nO desafio segue nas segundas doses: tríplice viral 2ª dose em 78,73% e varicela em 76,65%.\n\nFonte: Ministério da Saúde/RNDS, divulgado pelo Conass e SES-MA em junho de 2025.\n\nA caderneta do seu filho está em dia?\n\n#IPPI #DadoDoDia #Maranhão #Vacinação #PNI #SUS",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-14",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "2.529",
+  "manchete": "Maranhão tem 2.529 Unidades Básicas de Saúde cadastradas",
+  "contexto": "Censo Nacional das UBS (2024): 2.111 centros de saúde, 383 postos de saúde, 26 centros de apoio à saúde da família e 8 unidades mistas.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "49.738 UBS"
+  },
+  "fonte": "MS, Censo Nacional das UBS, 2024",
+  "fonte_url": "https://abrasco.org.br/wp-content/uploads/2025/07/SUMARIO-EXECUTIVO-CENSO-DAS-UBS.pdf",
+  "data_referencia": "2024-09",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão conta com 2.529 Unidades Básicas de Saúde, segundo o Censo Nacional das UBS realizado pelo Ministério da Saúde em 2024.\n\nSão 2.111 centros de saúde/unidades básicas, 383 postos de saúde, 26 centros de apoio à saúde da família, 8 unidades mistas e 1 unidade móvel. O Brasil soma 49.738 UBS elegíveis no levantamento.\n\nEm média, há uma UBS para cada grupo de cerca de 2.800 maranhenses, considerando a população projetada pelo IBGE para 2024.\n\nFonte: Ministério da Saúde, Censo Nacional das UBS (coleta jun-set/2024), sumário executivo.\n\nSua UBS funciona em horário estendido?\n\n#IPPI #DadoDoDia #Maranhão #UBS #AtençãoPrimária #SUS",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-15",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "92.173",
+  "manchete": "Maranhão registrou 92.173 nascidos vivos em 2024",
+  "contexto": "Nascimentos de mães residentes no estado (dados finais do SINASC). É quase 4% de todos os nascimentos do Brasil (2.389.325).",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "2.389.325"
+  },
+  "fonte": "MS/SINASC, nascidos vivos por residência da mãe, 2024",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvuf.def",
+  "data_referencia": "2024-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão registrou 92.173 nascidos vivos de mães residentes no estado em 2024, segundo os dados finais do SINASC, extraídos pelo DATASUS em dezembro de 2025.\n\nÉ o quarto maior volume de nascimentos do Nordeste, atrás de Bahia, Pernambuco e Ceará, e representa 3,9% dos 2.389.325 nascimentos do país no ano.\n\nOs dados preliminares de 2025 apontam 92.115 nascimentos, praticamente o mesmo patamar.\n\nFonte: Ministério da Saúde, SINASC/DATASUS (TabNet), 2024.\n\nO Maranhão ainda é um dos estados mais jovens do Brasil. Por quanto tempo?\n\n#IPPI #DadoDoDia #Maranhão #NascidosVivos #SINASC #Demografia",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-16",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "-60%",
+  "manchete": "Casos de chikungunya no Maranhão caíram 60% no 1º semestre de 2025",
+  "contexto": "Foram 259 casos confirmados entre janeiro e junho de 2025, contra 651 no mesmo período de 2024, segundo a SES-MA.",
+  "comparacao": {
+   "rotulo": "1º sem. 2024",
+   "valor": "651 casos"
+  },
+  "fonte": "SES-MA, casos confirmados de chikungunya, jan-jun/2025",
+  "fonte_url": "https://oimparcial.com.br/noticias/2025/07/casos-de-chikungunya-caem-60-no-maranhao-no-1o-semestre-de-2025/",
+  "data_referencia": "2025-06",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão confirmou 259 casos de chikungunya no primeiro semestre de 2025, contra 651 no mesmo período de 2024: queda de 60%, segundo a Secretaria de Estado da Saúde.\n\nA chikungunya é transmitida pelo mesmo mosquito da dengue, o Aedes aegypti, e tem como marca as dores articulares intensas, que podem durar meses.\n\nA redução acompanha a queda dos casos de dengue observada no estado no mesmo período.\n\nFonte: Secretaria de Estado da Saúde do Maranhão (SES-MA), via O Imparcial, 28/07/2025.\n\nO que explica a queda: clima, vigilância ou os dois?\n\n#IPPI #DadoDoDia #Maranhão #Chikungunya #Arboviroses #Aedes",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-17",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "59,1%",
+  "manchete": "Cesáreas foram 59,1% dos partos no Maranhão em 2024",
+  "contexto": "Foram 54.434 cesáreas entre 92.173 nascidos vivos de mães residentes no estado. A proporção fica abaixo da média nacional (60,6%).",
+  "comparacao": {
+   "rotulo": "Brasil 2024",
+   "valor": "60,6%"
+  },
+  "fonte": "MS/SINASC, nascidos vivos por tipo de parto, 2024",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvuf.def",
+  "data_referencia": "2024-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em 2024, 59,1% dos nascidos vivos de mães residentes no Maranhão nasceram por cesariana: 54.434 de um total de 92.173, segundo o SINASC.\n\nO estado fica abaixo da média brasileira (60,6%) e bem abaixo do Piauí (64,7%), mas ainda muito acima do patamar de 10% a 15% que a OMS considera justificável por razões médicas.\n\nOs dados são finais, extraídos pelo DATASUS em dezembro de 2025.\n\nFonte: Ministério da Saúde, SINASC/DATASUS (TabNet), 2024.\n\nParto normal ou cesárea: quem decide?\n\n#IPPI #DadoDoDia #Maranhão #Cesárea #SINASC #SaúdeMaterna",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-18",
+  "pilar": "saude",
+  "uf": "MA",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "13.267",
+  "manchete": "Maranhão tem 13.267 leitos de internação disponíveis ao SUS",
+  "contexto": "Competência agosto/2026 do CNES. Equivale a cerca de 18,9 leitos SUS por 10 mil habitantes, acima da média nacional (14,8).",
+  "comparacao": {
+   "rotulo": "Brasil (por 10 mil hab.)",
+   "valor": "14,8"
+  },
+  "fonte": "MS/CNES, leitos de internação SUS, ago/2026",
+  "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def",
+  "data_referencia": "2026-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Maranhão tem 13.267 leitos de internação disponíveis ao SUS, de um total de 15.203 leitos existentes no estado, segundo o CNES (competência agosto/2026).\n\nIsso equivale a cerca de 18,9 leitos SUS por 10 mil habitantes, considerando a população projetada pelo IBGE para 2026. A média brasileira é de 14,8 por 10 mil.\n\nNo Maranhão, 87% dos leitos existentes são SUS, uma das maiores proporções do país.\n\nFonte: Ministério da Saúde, CNES/DATASUS (TabNet); população IBGE.\n\nLeito disponível é leito ocupado? Nem sempre: a distribuição regional pesa.\n\n#IPPI #DadoDoDia #Maranhão #LeitosSUS #CNES #SaúdePública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-19",
+  "pilar": "saude",
+  "uf": "PI+MA",
+  "selo": "SAÚDE · PIAUÍ E MARANHÃO",
+  "numero": "713",
+  "manchete": "Dengue: Brasil teve 713 casos por 100 mil; Piauí, 160; Maranhão, 69",
+  "contexto": "Incidência de casos prováveis por 100 mil hab. nas 22 primeiras semanas de 2025 (até 31/05). Piauí: 5.235 casos; Maranhão: 4.675; Brasil: 1,45 milhão.",
+  "comparacao": {
+   "rotulo": "Piauí / Maranhão",
+   "valor": "160,1 / 69,0"
+  },
+  "fonte": "MS, Informe Semanal Arboviroses nº 16/2025 (SE 1-22)",
+  "fonte_url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/arboviroses/informe-semanal/2025/informe-semanal-no-16",
+  "data_referencia": "2025-05",
+  "verificado_em": "2026-10-08",
+  "legenda": "Nas 22 primeiras semanas de 2025, o Brasil registrou 713,1 casos prováveis de dengue por 100 mil habitantes. No Piauí, a incidência foi de 160,1; no Maranhão, de 69,0.\n\nEm números absolutos: 1.447.993 casos no país, 5.235 no Piauí e 4.675 no Maranhão, segundo o Sinan.\n\nOs dois estados ficaram muito abaixo da média nacional no período. Mas a dengue é cíclica, e anos de baixa costumam preceder anos de alta.\n\nFonte: Ministério da Saúde, Informe Semanal de Arboviroses nº 16/2025 (SE 1 a 22, dados de 02/06/2025).\n\nPor que o Nordeste ocidental teve menos dengue que o Sudeste em 2025?\n\n#IPPI #DadoDoDia #Piauí #Maranhão #Dengue #Arboviroses",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "sau-20",
+  "pilar": "saude",
+  "uf": "PI+MA",
+  "selo": "SAÚDE · PIAUÍ E MARANHÃO",
+  "numero": "11,5%",
+  "manchete": "Um em cada nove bebês no Piauí e no Maranhão nasce prematuro",
+  "contexto": "Em 2022, 11,46% dos nascidos vivos no Piauí e 11,56% no Maranhão tinham menos de 37 semanas. Brasil: 11,85%; Nordeste: 11,84%.",
+  "comparacao": {
+   "rotulo": "Brasil 2022",
+   "valor": "11,85%"
+  },
+  "fonte": "MS, Boletim Epidemiológico v.55 n.13 (SINASC 2012-2022)",
+  "fonte_url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/edicoes/2024/boletim-epidemiologico-volume-55-no-13.pdf",
+  "data_referencia": "2022-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em 2022, 11,46% dos bebês nascidos no Piauí e 11,56% dos nascidos no Maranhão eram prematuros (menos de 37 semanas de gestação), segundo boletim do Ministério da Saúde com dados do SINASC.\n\nOs dois estados ficaram ligeiramente abaixo da média do Brasil (11,85%) e do Nordeste (11,84%).\n\nA prevalência de prematuridade oscila pouco na série 2012-2022: entre 10% e 12% nos dois estados em todos os anos.\n\nFonte: Ministério da Saúde, Boletim Epidemiológico vol. 55, nº 13 (2024), Tabela 1.\n\nO que o pré-natal pode fazer para reduzir esse número?\n\n#IPPI #DadoDoDia #Piauí #Maranhão #Prematuridade #SINASC",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-01",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "5,0",
+  "manchete": "Ideb do ensino médio do Piauí chega a 5,0 em 2025",
+  "contexto": "O índice subiu de 4,5 (2023) para 5,0 (2025), maior valor da série iniciada em 2005. A média do Brasil na etapa é 4,5.",
+  "comparacao": {
+   "rotulo": "Brasil (ensino médio)",
+   "valor": "4,5"
+  },
+  "fonte": "Inep/MEC, Ideb 2025 (divulgado em 05/08/2026)",
+  "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-piaui",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Ideb do ensino médio do Piauí alcançou 5,0 em 2025. Em 2023, era 4,5.\n\nÉ o maior valor da série histórica do estado, iniciada em 2005, e fica acima da média nacional da etapa, que é 4,5.\n\nO Ideb combina o desempenho dos estudantes no Saeb com as taxas de aprovação do Censo Escolar.\n\nFonte: Inep/MEC, Ideb 2025.\n\nO que explica o avanço do ensino médio piauiense? Comente.\n\n#IPPI #DadoDoDia #Ideb #Piauí #EnsinoMédio #Educação",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-02",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · TERESINA",
+  "numero": "6,9",
+  "manchete": "Teresina tem o maior Ideb dos anos iniciais entre as capitais",
+  "contexto": "A rede municipal de Teresina marcou 6,9 nos anos iniciais (empatada com Curitiba) e 5,9 nos anos finais, 1º lugar entre as 26 capitais no Ideb 2025.",
+  "comparacao": {
+   "rotulo": "Anos finais (1º entre capitais)",
+   "valor": "5,9"
+  },
+  "fonte": "MEC/Inep, Ideb 2025, via Portal de Prefeitura",
+  "fonte_url": "https://portaldeprefeitura.com.br/pernambuco/ideb-2025-recife-fica-atras-de-teresina-fortaleza-sao-luis-e/629015/",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Teresina lidera o Ideb 2025 entre as capitais brasileiras: 6,9 nos anos iniciais do ensino fundamental (empatada com Curitiba) e 5,9 nos anos finais, 1º lugar isolado.\n\nEntre as capitais do Nordeste, a segunda colocada nos anos iniciais é Fortaleza, com 6,1.\n\nO resultado se refere à rede municipal, responsável pela maior parte das matrículas do fundamental na capital.\n\nFonte: MEC/Inep, Ideb 2025 (via Portal de Prefeitura).\n\nVocê conhece o trabalho das escolas municipais de Teresina? Conta pra gente.\n\n#IPPI #DadoDoDia #Ideb #Teresina #EducaçãoMunicipal #Piauí",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-03",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "4,9",
+  "manchete": "Rede pública do Piauí tem Ideb 4,9 no ensino médio",
+  "contexto": "O Ideb da rede pública piauiense no ensino médio subiu de 4,3 (2023) para 4,9 (2025). A rede pública brasileira ficou em 4,3.",
+  "comparacao": {
+   "rotulo": "Rede pública do Brasil",
+   "valor": "4,3"
+  },
+  "fonte": "Inep/MEC, Ideb 2025, rede pública",
+  "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-piaui",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "No ensino médio da rede pública, o Piauí alcançou Ideb 4,9 em 2025. Dois anos antes, o índice era 4,3.\n\nA rede pública do Brasil, no mesmo recorte, chegou a 4,3. O Piauí está entre os três melhores resultados estaduais do país nessa etapa.\n\nNos anos iniciais, a rede pública piauiense marcou 6,1; nos anos finais, 5,2.\n\nFonte: Inep/MEC, Ideb 2025.\n\nQual indicador você acompanha para avaliar a escola pública? Comente.\n\n#IPPI #DadoDoDia #Ideb #Piauí #EscolaPública #EnsinoMédio",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-04",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "75,1%",
+  "manchete": "Piauí lidera o país em ensino médio público em tempo integral",
+  "contexto": "No Censo Escolar 2025, 85.780 das 114.193 matrículas do ensino médio público do Piauí (75,12%) eram em tempo integral, maior proporção do Brasil.",
+  "comparacao": {
+   "rotulo": "2º lugar: Pernambuco",
+   "valor": "60,35%"
+  },
+  "fonte": "Inep/MEC, Censo Escolar 2025, via Diário do Nordeste",
+  "fonte_url": "https://diariodonordeste.verdesmares.com.br/ceara/estados-do-nordeste-lideram-oferta-de-ensino-medio-integral-na-rede-publica-ce-e-3-em-matriculas-1.3745970",
+  "data_referencia": "2025-05",
+  "verificado_em": "2026-10-08",
+  "legenda": "Três em cada quatro estudantes do ensino médio público do Piauí estudam em tempo integral: 85.780 das 114.193 matrículas, ou 75,12%.\n\nÉ a maior proporção do Brasil. Em seguida vêm Pernambuco (60,35%) e Ceará (57,89%).\n\nO tempo integral amplia a jornada diária na escola e é um dos fatores associados à melhora de aprendizagem e permanência.\n\nFonte: Inep/MEC, Censo Escolar 2025 (via Diário do Nordeste).\n\nVocê estudou ou estuda em escola de tempo integral? Como foi?\n\n#IPPI #DadoDoDia #CensoEscolar #Piauí #TempoIntegral #EnsinoMédio",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-05",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "0,4%",
+  "manchete": "Piauí tem 2ª menor taxa de abandono no ensino médio: 0,4%",
+  "contexto": "Pelo Censo Escolar 2025, só Mato Grosso (0,1%) teve taxa de abandono menor no ensino médio. A média nacional é 2,2% e a do Nordeste, 1,9%.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "2,2%"
+  },
+  "fonte": "Inep/MEC, Censo Escolar 2025, via Diário do Nordeste",
+  "fonte_url": "https://diariodonordeste.verdesmares.com.br/ceara/abandono-escolar-no-ensino-medio-do-ce-chega-ao-menor-indice-dos-ultimos-10-anos-1.3772998",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "A taxa de abandono no ensino médio do Piauí foi de 0,4% em 2025, a segunda menor do Brasil. Apenas Mato Grosso (0,1%) registrou índice inferior.\n\nNo país, o abandono na etapa ficou em 2,2%; no Nordeste, em 1,9%.\n\nA taxa mede os estudantes que deixaram a escola ao longo do ano letivo sem concluir a série.\n\nFonte: Inep/MEC, Censo Escolar 2025 (via Diário do Nordeste).\n\nO que mais pesa para um jovem continuar na escola? Comente.\n\n#IPPI #DadoDoDia #CensoEscolar #Piauí #EnsinoMédio #Permanência",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-06",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "114",
+  "manchete": "Escolas públicas do Piauí conquistaram 114 medalhas na OBMEP 2025",
+  "contexto": "Na 20ª OBMEP, estudantes de escolas públicas piauienses receberam 11 medalhas de ouro, 27 de prata e 76 de bronze. Em 2024, foram 124 (12 ouros).",
+  "comparacao": {
+   "rotulo": "Ouros em 2025",
+   "valor": "11"
+  },
+  "fonte": "OBMEP/IMPA, premiação da 20ª OBMEP (2025)",
+  "fonte_url": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosOuro.do.htm",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Estudantes de escolas públicas do Piauí conquistaram 114 medalhas na 20ª Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP 2025): 11 de ouro, 27 de prata e 76 de bronze.\n\nNa edição anterior (2024), foram 124 medalhas, sendo 12 de ouro.\n\nSomando as escolas privadas, o estado chegou a 147 medalhas em 2025.\n\nFonte: OBMEP/IMPA, listas oficiais de premiados da 20ª OBMEP (contagem por UF).\n\nVocê conhece algum medalhista da OBMEP? Marque aqui.\n\n#IPPI #DadoDoDia #OBMEP #Piauí #Matemática #EscolaPública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-07",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "120 mil",
+  "manchete": "Piauí teve 120.040 inscrições confirmadas no Enem 2025",
+  "contexto": "Entre os inscritos piauienses, 59,3% são mulheres (71.179) e 31.417 são concluintes do ensino médio da rede pública. O Brasil somou 4.811.338.",
+  "comparacao": {
+   "rotulo": "Mulheres",
+   "valor": "59,3%"
+  },
+  "fonte": "Inep/MEC, Painel do Enem 2025, via MEC/Notícia Marajó",
+  "fonte_url": "https://noticiamarajo.com.br/educacao/enem-2025-mais-de-31-mil-inscritos-do-piaui-sao-concluintes-do-ensino-medio-publico/",
+  "data_referencia": "2025-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Piauí registrou 120.040 inscrições confirmadas no Enem 2025.\n\nAs mulheres são maioria: 71.179 inscritas (59,3%). Entre os candidatos, 31.417 eram concluintes do ensino médio da rede pública, público prioritário do exame.\n\nA faixa mais numerosa é a de 17 anos (24.480), seguida pelos jovens de 18 anos (24.158).\n\nFonte: Inep/MEC, Painel do Enem 2025.\n\nVocê fez o Enem este ano? Qual foi o maior desafio?\n\n#IPPI #DadoDoDia #Enem2025 #Piauí #Vestibular #Juventude",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-08",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "17,2%",
+  "manchete": "Piauí tem 17,2% de analfabetos entre pessoas de 15 anos ou mais",
+  "contexto": "No Censo 2022, a taxa de alfabetização do Piauí foi 82,77%, a segunda menor do país (atrás só de Alagoas). A taxa de analfabetismo do Brasil é 7,0%.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "7,0%"
+  },
+  "fonte": "IBGE, Censo Demográfico 2022, alfabetização",
+  "fonte_url": "https://servicodados.ibge.gov.br/api/v1/pesquisas/10101/indicadores/126661/resultados/21|22|0",
+  "data_referencia": "2022-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "No Censo 2022, 82,77% dos piauienses de 15 anos ou mais eram alfabetizados. Isso significa uma taxa de analfabetismo de 17,2%, a segunda maior do Brasil, atrás apenas de Alagoas.\n\nA média nacional de analfabetismo é 7,0%; no Nordeste, 14,2%.\n\nO analfabetismo se concentra nas faixas etárias mais velhas e na zona rural, o que torna a redução um processo lento.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nVocê conhece iniciativas de alfabetização de adultos na sua cidade?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #Alfabetização #IBGE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-09",
+  "pilar": "educacao",
+  "uf": "PI",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "+16,6",
+  "manchete": "Matemática no 3º ano do EM piauiense sobe 16,6 pontos no Saeb",
+  "contexto": "No Saeb, a média de matemática do 3º ano do ensino médio piauiense passou de 275,37 (2023) para 291,97 (2025). Em português, foi de 274,57 para 284,98.",
+  "comparacao": {
+   "rotulo": "Português (2023 → 2025)",
+   "valor": "274,57 → 284,98"
+  },
+  "fonte": "Inep/MEC, Saeb 2025 (escala 0 a 500)",
+  "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-piaui",
+  "data_referencia": "2025-11",
+  "verificado_em": "2026-10-08",
+  "legenda": "Os estudantes do 3º ano do ensino médio do Piauí avançaram 16,6 pontos em matemática no Saeb: de 275,37 (2023) para 291,97 (2025), na escala de 0 a 500.\n\nEm língua portuguesa, a média subiu de 274,57 para 284,98 (+10,4 pontos).\n\nO Saeb é a avaliação nacional que, junto com as taxas de aprovação, compõe o Ideb.\n\nFonte: Inep/MEC, Saeb 2025.\n\nNa sua opinião, o que mais ajuda a aprender matemática no ensino médio?\n\n#IPPI #DadoDoDia #Saeb #Piauí #Matemática #EnsinoMédio",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-10",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "5,7",
+  "manchete": "Ideb dos anos iniciais do Maranhão sobe para 5,7, recorde do estado",
+  "contexto": "O índice dos anos iniciais do fundamental passou de 5,4 (2023) para 5,7 (2025). A rede pública maranhense foi de 5,1 para 5,5. Média do Brasil: 6,3.",
+  "comparacao": {
+   "rotulo": "Brasil (anos iniciais)",
+   "valor": "6,3"
+  },
+  "fonte": "Inep/MEC, Ideb 2025 (divulgado em 05/08/2026)",
+  "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-maranhao",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Ideb dos anos iniciais do ensino fundamental no Maranhão chegou a 5,7 em 2025, contra 5,4 em 2023. É o maior valor da série histórica do estado.\n\nNa rede pública, o índice passou de 5,1 para 5,5.\n\nA média nacional da etapa é 6,3, então a distância para o Brasil segue em 0,6 ponto.\n\nFonte: Inep/MEC, Ideb 2025.\n\nO que você acha que mais contribui para o avanço nos anos iniciais?\n\n#IPPI #DadoDoDia #Ideb #Maranhão #EnsinoFundamental #Educação",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-11",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "3,9",
+  "manchete": "Ensino médio do Maranhão atinge Ideb 3,9, melhor marca da série",
+  "contexto": "O Ideb do ensino médio maranhense foi de 3,8 (2023) para 3,9 (2025), o maior desde 2005. Ainda fica 0,6 ponto abaixo da média do Brasil (4,5).",
+  "comparacao": {
+   "rotulo": "Brasil (ensino médio)",
+   "valor": "4,5"
+  },
+  "fonte": "Inep/MEC, Ideb 2025",
+  "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-maranhao",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Ideb do ensino médio do Maranhão alcançou 3,9 em 2025, ante 3,8 em 2023. É o maior valor da série histórica do estado, iniciada em 2005.\n\nA média do Brasil na etapa é 4,5. Na rede pública maranhense, o índice foi de 3,7 para 3,8.\n\nNos anos finais do fundamental, o Maranhão marcou 4,7 (Brasil: 5,3).\n\nFonte: Inep/MEC, Ideb 2025.\n\nQual etapa da educação básica merece mais atenção hoje? Comente.\n\n#IPPI #DadoDoDia #Ideb #Maranhão #EnsinoMédio #Educação",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-12",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · SÃO LUÍS",
+  "numero": "6,0",
+  "manchete": "São Luís marca 6,0 nos anos iniciais no Ideb 2025",
+  "contexto": "A capital maranhense ficou em 14º entre as 26 capitais nos anos iniciais (6,0) e em 4,4 nos anos finais. No Nordeste, só Teresina (6,9) e Fortaleza (6,1) estão à frente.",
+  "comparacao": {
+   "rotulo": "Anos finais",
+   "valor": "4,4"
+  },
+  "fonte": "MEC/Inep, Ideb 2025, via Portal de Prefeitura",
+  "fonte_url": "https://portaldeprefeitura.com.br/pernambuco/ideb-2025-recife-fica-atras-de-teresina-fortaleza-sao-luis-e/629015/",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "No Ideb 2025, São Luís marcou 6,0 nos anos iniciais do ensino fundamental, a 14ª nota entre as 26 capitais do país.\n\nEntre as capitais do Nordeste, São Luís é a terceira: atrás de Teresina (6,9) e Fortaleza (6,1), e à frente de Aracaju e Recife (5,8).\n\nNos anos finais, a capital maranhense ficou com 4,4.\n\nFonte: MEC/Inep, Ideb 2025 (via Portal de Prefeitura).\n\nO que você espera da escola pública de São Luís nos próximos anos?\n\n#IPPI #DadoDoDia #Ideb #SãoLuís #Maranhão #EducaçãoMunicipal",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-13",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "69%",
+  "manchete": "69% das crianças do Maranhão estão alfabetizadas ao fim do 2º ano",
+  "contexto": "Pelo Indicador Criança Alfabetizada 2025, o Maranhão passou de 60% (2024) para 69%, acima da média do Brasil (66%) e 10º entre os estados.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "66%"
+  },
+  "fonte": "MEC/Inep, Criança Alfabetizada 2025, via O Imparcial",
+  "fonte_url": "https://oimparcial.com.br/noticias/2026/03/maranhao-supera-meta-de-alfabetizacao-e-ja-ultrapassa-indice-previsto-para-2026/",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "No Maranhão, 69% das crianças chegaram ao fim do 2º ano do ensino fundamental alfabetizadas em 2025, segundo o Indicador Criança Alfabetizada.\n\nEm 2024, o percentual era 60%. A média nacional em 2025 ficou em 66%.\n\nCom o resultado, o estado ocupa a 10ª posição no ranking nacional e a 4ª no Nordeste.\n\nFonte: MEC/Inep, Indicador Criança Alfabetizada 2025 (via O Imparcial).\n\nAlfabetizar até os 7 anos: qual o papel da família nesse processo?\n\n#IPPI #DadoDoDia #Alfabetização #Maranhão #CriançaAlfabetizada #Educação",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-14",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "84,8%",
+  "manchete": "84,8% das escolas públicas do Maranhão têm internet",
+  "contexto": "Em 2015, só 21,6% das escolas públicas maranhenses tinham acesso à internet. Em 2025, 84,8% (97,5% na zona urbana e 78,9% na rural). Média nacional: 93,1%.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "93,1%"
+  },
+  "fonte": "Inep/MEC, Censo Escolar 2025, via O Imparcial",
+  "fonte_url": "https://oimparcial.com.br/brasil/2026/03/maranhao-amplia-acesso-a-internet-em-escolas-publicas-e-alcanca-848-de-conectividade/",
+  "data_referencia": "2025-05",
+  "verificado_em": "2026-10-08",
+  "legenda": "Em dez anos, a parcela de escolas públicas do Maranhão com acesso à internet saltou de 21,6% (2015) para 84,8% (2025).\n\nNa zona urbana, a cobertura chega a 97,5%; na zona rural, a 78,9%. A média nacional é 93,1%.\n\nO uso pedagógico ainda é menor: 47,9% das escolas públicas maranhenses declararam internet para fins de ensino.\n\nFonte: Inep/MEC, Censo Escolar 2025 (via O Imparcial).\n\nInternet na escola muda o aprendizado? O que você observa?\n\n#IPPI #DadoDoDia #CensoEscolar #Maranhão #Conectividade #EscolaPública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-15",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "R$ 6 bi",
+  "manchete": "Maranhão recebe R$ 6,04 bilhões da União no Fundeb 2026",
+  "contexto": "A complementação VAAF prevista para o Maranhão em 2026 é a 2ª maior do país, atrás da Bahia (R$ 6,29 bi). Ela se soma aos R$ 8,59 bi arrecadados pelo estado e municípios.",
+  "comparacao": {
+   "rotulo": "Receita total do fundo (VAAF)",
+   "valor": "R$ 14,62 bi"
+  },
+  "fonte": "FNDE, Portaria Interm. MEC/MF nº 14/2025, Fundeb 2026",
+  "fonte_url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/financiamento/fundeb/Valoralunoanoereceitaanualprevista2026.pdf",
+  "data_referencia": "2026-01",
+  "verificado_em": "2026-10-08",
+  "legenda": "O Fundeb do Maranhão em 2026 deve somar R$ 14,62 bilhões: R$ 8,59 bilhões de contribuição do estado e dos municípios mais R$ 6,04 bilhões de complementação da União (modalidade VAAF).\n\nÉ a segunda maior complementação VAAF do país, atrás apenas da Bahia (R$ 6,29 bi).\n\nO Fundeb financia a educação básica pública e destina ao menos 70% dos recursos à remuneração dos profissionais da educação.\n\nFonte: FNDE, Portaria Interministerial MEC/MF nº 14/2025.\n\nVocê sabia que o Fundeb é a principal fonte de recursos da escola pública?\n\n#IPPI #DadoDoDia #Fundeb #Maranhão #FinanciamentoEducação #FNDE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-16",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "93",
+  "manchete": "Escolas públicas do Maranhão somaram 93 medalhas na OBMEP 2025",
+  "contexto": "Na 20ª OBMEP, estudantes de escolas públicas maranhenses receberam 6 ouros, 23 pratas e 64 bronzes. Em 2024, foram 103 medalhas (5 ouros).",
+  "comparacao": {
+   "rotulo": "Ouros em 2025",
+   "valor": "6"
+  },
+  "fonte": "OBMEP/IMPA, premiação da 20ª OBMEP (2025)",
+  "fonte_url": "https://premiacao.obmep.org.br/20obmep/verRelatorioPremiadosOuro.do.htm",
+  "data_referencia": "2025-12",
+  "verificado_em": "2026-10-08",
+  "legenda": "Estudantes de escolas públicas do Maranhão conquistaram 93 medalhas na 20ª OBMEP (2025): 6 de ouro, 23 de prata e 64 de bronze.\n\nO número de ouros cresceu em relação a 2024 (5), embora o total de medalhas tenha sido menor (103 na edição anterior).\n\nCom as escolas privadas, o estado chegou a 108 medalhas em 2025.\n\nFonte: OBMEP/IMPA, listas oficiais de premiados da 20ª OBMEP (contagem por UF).\n\nSua escola já teve medalhista da OBMEP? Conta pra gente.\n\n#IPPI #DadoDoDia #OBMEP #Maranhão #Matemática #EscolaPública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-17",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "15,05%",
+  "manchete": "Maranhão tem 15,05% de analfabetos entre pessoas de 15 anos ou mais",
+  "contexto": "No Censo 2022, 84,95% dos maranhenses de 15 anos ou mais eram alfabetizados. A taxa de analfabetismo (15,05%) é a 4ª maior do país; a do Brasil é 7,0%.",
+  "comparacao": {
+   "rotulo": "Brasil",
+   "valor": "7,0%"
+  },
+  "fonte": "IBGE, Censo Demográfico 2022, alfabetização",
+  "fonte_url": "https://servicodados.ibge.gov.br/api/v1/pesquisas/10101/indicadores/126661/resultados/21|22|0",
+  "data_referencia": "2022-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "No Censo 2022, a taxa de alfabetização do Maranhão entre pessoas de 15 anos ou mais foi 84,95%. Ou seja, 15,05% não sabiam ler e escrever.\n\nÉ a quarta maior taxa de analfabetismo do Brasil, atrás de Alagoas, Piauí e Paraíba. A média nacional é 7,0%.\n\nEm 2010, a taxa maranhense era 20,8%: uma queda de mais de 5 pontos em 12 anos.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nComo acelerar a alfabetização de jovens e adultos? Deixe sua opinião.\n\n#IPPI #DadoDoDia #Censo2022 #Maranhão #Alfabetização #IBGE",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-18",
+  "pilar": "educacao",
+  "uf": "MA",
+  "selo": "EDUCAÇÃO · MARANHÃO",
+  "numero": "19.357",
+  "manchete": "UFMA tem 19.357 estudantes matriculados na graduação",
+  "contexto": "No 1º semestre de 2025, a UFMA somava 19.357 alunos de graduação em 9 cidades, além de 1.295 mestrandos e 767 doutorandos. São 1.874 docentes.",
+  "comparacao": {
+   "rotulo": "Docentes",
+   "valor": "1.874"
+  },
+  "fonte": "UFMA, Memória de Cálculo dos Indicadores de Gestão 2025",
+  "fonte_url": "https://portalpadrao.ufma.br/transparencia/institucional/indicadores-de-gestao-ufma/memoria-de-calculo-indicadores-de-gestao-2025.pdf",
+  "data_referencia": "2025-06",
+  "verificado_em": "2026-10-08",
+  "legenda": "A Universidade Federal do Maranhão tinha 19.357 estudantes matriculados na graduação no primeiro semestre de 2025.\n\nOs cursos estão distribuídos por São Luís, Imperatriz, Pinheiro, Bacabal, Balsas, São Bernardo, Chapadinha, Codó e Grajaú.\n\nNa pós-graduação stricto sensu, eram 1.295 alunos de mestrado e 767 de doutorado. O corpo docente soma 1.874 professores.\n\nFonte: UFMA, Indicadores de Gestão 2025.\n\nVocê estudou em universidade pública? Qual curso?\n\n#IPPI #DadoDoDia #UFMA #Maranhão #EnsinoSuperior #UniversidadePública",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-19",
+  "pilar": "educacao",
+  "uf": "PI+MA",
+  "selo": "EDUCAÇÃO · PIAUÍ E MARANHÃO",
+  "numero": "331 mil",
+  "manchete": "Piauí e Maranhão somam 331.423 inscritos no Enem 2025",
+  "contexto": "O Maranhão teve 211.383 inscrições confirmadas (8º maior número do país) e o Piauí, 120.040. Juntos, os dois estados respondem por 6,9% dos 4.811.338 inscritos.",
+  "comparacao": {
+   "rotulo": "Maranhão / Piauí",
+   "valor": "211.383 / 120.040"
+  },
+  "fonte": "Inep/MEC, Painel do Enem 2025, via Agência Brasil",
+  "fonte_url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2025-08/nordeste-e-regiao-com-maior-numero-de-inscritos-no-enem-2025",
+  "data_referencia": "2025-08",
+  "verificado_em": "2026-10-08",
+  "legenda": "Piauí e Maranhão somaram 331.423 inscrições confirmadas no Enem 2025.\n\nO Maranhão registrou 211.383 inscritos, o 8º maior número entre os estados. O Piauí teve 120.040.\n\nO Brasil chegou a 4.811.338 inscrições, e o Nordeste é a região com mais candidatos: 1.737.789.\n\nFonte: Inep/MEC, Painel do Enem 2025 (via Agência Brasil).\n\nNa sua cidade, o Enem é a principal porta de entrada para a faculdade?\n\n#IPPI #DadoDoDia #Enem2025 #Piauí #Maranhão #Nordeste",
+  "usado": false,
+  "usado_em": null
+ },
+ {
+  "id": "edu-20",
+  "pilar": "educacao",
+  "uf": "PI+MA",
+  "selo": "EDUCAÇÃO · PIAUÍ E MARANHÃO",
+  "numero": "R$ 21,9b",
+  "manchete": "Fundeb 2026 soma R$ 21,9 bilhões para Maranhão e Piauí",
+  "contexto": "Nos dois estados, a União complementa com VAAF: R$ 6,04 bi no Maranhão e R$ 2,16 bi no Piauí. Essa complementação equivale a 70% (MA) e 43% (PI) do que os entes arrecadam.",
+  "comparacao": {
+   "rotulo": "Complementação VAAF (MA / PI)",
+   "valor": "R$ 6,04 bi / R$ 2,16 bi"
+  },
+  "fonte": "FNDE, Portaria Interm. MEC/MF nº 14/2025, Fundeb 2026",
+  "fonte_url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/financiamento/fundeb/Valoralunoanoereceitaanualprevista2026.pdf",
+  "data_referencia": "2026-01",
+  "verificado_em": "2026-10-08",
+  "legenda": "A estimativa do Fundeb 2026 prevê R$ 14,62 bilhões para o fundo do Maranhão e R$ 7,24 bilhões para o do Piauí (receita com complementação VAAF).\n\nA União complementa R$ 6,04 bilhões no Maranhão e R$ 2,16 bilhões no Piauí. Isso corresponde a cerca de 70% e 43%, respectivamente, do que estado e municípios arrecadam para o fundo.\n\nSó 10 estados recebem a complementação VAAF, destinada aos fundos com menor valor por aluno.\n\nFonte: FNDE, Portaria Interministerial MEC/MF nº 14/2025.\n\nO dinheiro da educação chega à sua escola? O que você observa?\n\n#IPPI #DadoDoDia #Fundeb #Piauí #Maranhão #FinanciamentoEducação",
+  "usado": false,
+  "usado_em": null
+ }
+]
