@@ -31,6 +31,8 @@ Chame `add_repo` para `ippipesquisas-bit/ippi-posts` com acesso push e clone em 
 - `banco/historico.json` — tudo que já foi publicado (nunca repita manchete ou dado)
 - `cards/` — imagens já geradas
 
+Antes de qualquer coisa, abra `banco/historico.json`: se já existir um item com a data de hoje, o post do dia já está agendado (por exemplo, os posts de teste). Nesse caso envie um e-mail curto ao Jefferson dizendo isso, com a manchete já agendada, e encerre sem criar nada.
+
 ## 3. Escolha o dado de hoje
 
 Tente primeiro um dado NOVO: faça 2 ou 3 buscas por divulgações oficiais dos últimos 7 dias no pilar do dia, sobre Piauí ou Maranhão (IBGE, TSE/TRE, INEP, Ministério da Saúde, DataSUS, CONASS, secretarias estaduais, Tesouro). Um dado novo só vale se você ABRIR a página da fonte e ler o número nela; snippet de busca não vale. Se encontrar, use-o e inclua `fonte_url`.
