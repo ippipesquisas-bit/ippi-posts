@@ -38,5 +38,17 @@
   "fonte": "IBGE, Censo Demográfico 2022",
   "imagem": "cards/teste/5_curiosidade_censo_pi_ma.jpg",
   "status": "rascunho_metricool"
+ },
+ {
+  "data": "2026-10-09",
+  "pilar": "institucional",
+  "uf": "PI+MA",
+  "manchete": "O que significa a margem de erro de uma pesquisa",
+  "numero": "±3 p.p.",
+  "fonte": "IPPI Pesquisas, metodologia",
+  "fonte_url": null,
+  "imagem": "cards/2026/10/2026-10-09_institucional.jpg",
+  "metricool_id": 391862728,
+  "status": "rascunho_metricool"
  }
 ]
