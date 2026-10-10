@@ -50,5 +50,17 @@
   "imagem": "cards/2026/10/2026-10-09_institucional.jpg",
   "metricool_id": 391862728,
   "status": "rascunho_metricool"
+ },
+ {
+  "data": "2026-10-10",
+  "pilar": "curiosidade",
+  "uf": "PI",
+  "manchete": "Piauí é o estado com menor proporção de moradores em áreas urbanas",
+  "numero": "69,4%",
+  "fonte": "IBGE, Censo 2022 (SIDRA, tabela 10211)",
+  "fonte_url": "https://apisidra.ibge.gov.br/values/t/10211/n3/all/n1/all/v/allxp/p/2022/c1/all",
+  "imagem": "cards/2026/10/2026-10-10_curiosidade.jpg",
+  "metricool_id": 392629398,
+  "status": "rascunho_metricool"
  }
 ]
