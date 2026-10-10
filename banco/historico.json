@@ -5,7 +5,8 @@
   "manchete": "Piauí chega a 2,7 milhões de eleitores aptos em 2026",
   "fonte": "TSE / TRE-PI, cadastro eleitoral — Eleições 2026",
   "imagem": "cards/teste/1_politica_eleitorado_pi.jpg",
-  "status": "rascunho_metricool"
+  "status": "agendado_metricool",
+  "metricool_id": 392680892
  },
  {
   "data": "2026-10-14",
@@ -13,7 +14,8 @@
   "manchete": "Maranhão supera a meta de vacinação da Pneumo 10 em bebês",
   "fonte": "Ministério da Saúde (RNDS), jan–abr/2025, via CONASS",
   "imagem": "cards/teste/2_saude_vacinacao_ma.jpg",
-  "status": "rascunho_metricool"
+  "status": "agendado_metricool",
+  "metricool_id": 392681068
  },
  {
   "data": "2026-10-15",
@@ -21,7 +23,8 @@
   "manchete": "Piauí tem a 2ª melhor nota do país no Ideb do ensino médio",
   "fonte": "INEP, Ideb 2025 (divulgado em 05/08/2026)",
   "imagem": "cards/teste/3_educacao_ideb_pi.jpg",
-  "status": "rascunho_metricool"
+  "status": "agendado_metricool",
+  "metricool_id": 392681237
  },
  {
   "data": "2026-10-16",
@@ -29,14 +32,15 @@
   "manchete": "Quatro informações que toda pesquisa eleitoral séria mostra",
   "fonte": "Lei 9.504/1997, art. 33, e Resolução TSE 23.600/2019",
   "imagem": "cards/teste/4_institucional_pesquisa_registrada.jpg",
-  "status": "rascunho_metricool"
+  "status": "agendado_metricool",
+  "metricool_id": 392681480
  },
  {
   "data": "2026-10-17",
   "pilar": "institucional",
   "manchete": "Piauí e Maranhão somam 10 milhões de habitantes",
   "fonte": "IBGE, Censo Demográfico 2022",
-  "imagem": "cards/teste/5_curiosidade_censo_pi_ma.jpg",
+  "imagem": "cards/2026/10/2026-10-17_curiosidade.jpg",
   "status": "rascunho_metricool"
  },
  {
