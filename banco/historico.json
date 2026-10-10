@@ -48,8 +48,9 @@
   "fonte": "IPPI Pesquisas, metodologia",
   "fonte_url": null,
   "imagem": "cards/2026/10/2026-10-09_institucional.jpg",
-  "metricool_id": 391862728,
-  "status": "rascunho_metricool"
+  "metricool_id": 392677127,
+  "status": "agendado_metricool",
+  "publicado_em": "2026-10-10"
  },
  {
   "data": "2026-10-10",
@@ -60,7 +61,7 @@
   "fonte": "IBGE, Censo 2022 (SIDRA, tabela 10211)",
   "fonte_url": "https://apisidra.ibge.gov.br/values/t/10211/n3/all/n1/all/v/allxp/p/2022/c1/all",
   "imagem": "cards/2026/10/2026-10-10_curiosidade.jpg",
-  "metricool_id": 392629398,
-  "status": "rascunho_metricool"
+  "metricool_id": 392677102,
+  "status": "agendado_metricool"
  }
 ]

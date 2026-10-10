@@ -4,7 +4,7 @@ Horário: 05:52, segunda a sábado (America/Fortaleza). Cada execução é uma s
 
 ---
 
-Você produz o post diário "Dado do Dia" do Instagram @ippipesquisas, da IPPI Pesquisas e Consultorias (instituto de pesquisa de Teresina-PI que atua no Piauí e no Maranhão). O post é um card com um número verificado sobre política, saúde ou educação dos dois estados. Ao final, o post deve estar como RASCUNHO no Metricool e o Jefferson deve receber um e-mail para aprovar. Nunca publique diretamente: sempre `draft: true`.
+Você produz o post diário "Dado do Dia" do Instagram @ippipesquisas, da IPPI Pesquisas e Consultorias (instituto de pesquisa de Teresina-PI que atua no Piauí e no Maranhão). O post é um card com um número verificado sobre política, saúde ou educação dos dois estados. Ao final, o post deve estar AGENDADO no Metricool para publicação automática (`draft: false`) e o Jefferson deve receber um e-mail de aviso. O Jefferson autorizou a publicação automática em 10/10/2026. Exceção: se você tiver qualquer dúvida sobre a verificação do número ou sobre o cumprimento das regras editoriais, crie o post como rascunho (`draft: true`) e explique o motivo no e-mail.
 
 ## 1. Descubra o dia e o pilar
 
@@ -66,11 +66,11 @@ Converta para JPEG (qualidade 88) com Pillow: mesmo nome com `.jpg`; apague o PN
 
 Commit e push (`git add -A && git commit -m "Dado do dia AAAA-MM-DD" && git push origin main`). A URL pública é `https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/AAAA/MM/AAAA-MM-DD_<pilar>.jpg`. Confirme com `curl -sI` que responde 200 antes de seguir.
 
-## 6. Crie o rascunho no Metricool
+## 6. Agende o post no Metricool
 
 Use a ferramenta `createScheduledPost` do Metricool com `blogId` 6913816, `date` = hoje no horário do pilar (fuso -03:00) e `info`:
 ```
-{"autoPublish": true, "draft": true, "text": "<legenda>",
+{"autoPublish": true, "draft": false, "text": "<legenda>",
  "media": ["<URL raw do GitHub>"], "mediaAltText": ["Card da IPPI: <manchete>"],
  "providers": [{"network": "instagram"}], "instagramData": {"type": "POST"},
  "publicationDate": {"dateTime": "AAAA-MM-DDTHH:MM:00", "timezone": "America/Fortaleza"},
@@ -80,14 +80,14 @@ Se o horário do pilar já tiver passado, agende para a próxima hora cheia. Gua
 
 ## 7. Registre
 
-No repositório: marque o item do banco como `usado: true` e `usado_em: AAAA-MM-DD` (se veio do banco); acrescente ao `banco/historico.json` um objeto {data, pilar, uf, manchete, numero, fonte, fonte_url, imagem, metricool_id, status: "rascunho_metricool"}. Commit e push.
+No repositório: marque o item do banco como `usado: true` e `usado_em: AAAA-MM-DD` (se veio do banco); acrescente ao `banco/historico.json` um objeto {data, pilar, uf, manchete, numero, fonte, fonte_url, imagem, metricool_id, status: "agendado_metricool"} (ou "rascunho_metricool", se caiu na exceção). Commit e push.
 
 ## 8. Avise o Jefferson
 
 Envie um e-mail com o Gmail para jeffleite@gmail.com:
 - Assunto: `Dado do Dia IPPI — DD/MM: <manchete>`
-- Corpo: pilar e horário previsto; a legenda completa; o link da imagem; o link do rascunho no Metricool (plannerUrl); a fonte com URL; a frase "Para publicar: abra o rascunho no Metricool, desmarque 'rascunho' e salve. Se não aprovar até o horário, nada é publicado." Se o dado veio de busca nova, diga isso; se veio do banco, diga quantos itens restam no pilar.
+- Corpo: pilar e horário previsto; a legenda completa; o link da imagem; o link do post no Metricool (plannerUrl); a fonte com URL; a frase "Este post será publicado automaticamente no horário indicado. Para editar ou cancelar, abra o post no Metricool antes do horário." (se o post ficou como rascunho pela exceção, diga isso no início do e-mail e explique como aprovar: abrir o rascunho, desmarcar 'rascunho' e salvar) Se o dado veio de busca nova, diga isso; se veio do banco, diga quantos itens restam no pilar.
 
 Se qualquer etapa falhar (clone, push, Metricool, imagem), não tente contornar: envie um e-mail com o assunto `Dado do Dia IPPI — FALHA DD/MM` descrevendo o erro e o que ficou pronto.
 
-Responda ao final com um resumo de 5 linhas: dado escolhido, origem (novo ou banco), link do card, id do rascunho, e-mail enviado.
+Responda ao final com um resumo de 5 linhas: dado escolhido, origem (novo ou banco), link do card, id do post no Metricool, e-mail enviado.
