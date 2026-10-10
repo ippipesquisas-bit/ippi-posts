@@ -41,7 +41,8 @@
   "manchete": "Piauí e Maranhão somam 10 milhões de habitantes",
   "fonte": "IBGE, Censo Demográfico 2022",
   "imagem": "cards/2026/10/2026-10-17_curiosidade.jpg",
-  "status": "rascunho_metricool"
+  "status": "agendado_metricool",
+  "metricool_id": 392682293
  },
  {
   "data": "2026-10-09",
