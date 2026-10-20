@@ -476,8 +476,8 @@
     "data_referencia": "2024-07",
     "verificado_em": "2026-10-08",
     "legenda": "Quem nasce no Piauí em 2024 tem esperança de vida ao nascer de 77,0 anos, segundo as Projeções da População do IBGE (Revisão 2024).\n\nO número supera a média brasileira (76,6 anos) e é o terceiro maior do Nordeste, atrás do Rio Grande do Norte (77,8) e do Ceará (77,3). Em 2000, o indicador piauiense era de 70,8 anos: ganho de mais de seis anos em duas décadas.\n\nEntre as mulheres piauienses, a expectativa chega a 80,8 anos; entre os homens, 73,3.\n\nFonte: IBGE, Projeções da População (Revisão 2024), tabela de indicadores implícitos.\n\nO que explica o Piauí viver mais que a média do país?\n\n#IPPI #DadoDoDia #Piauí #ExpectativaDeVida #IBGE #SaúdePública",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-10-20"
   },
   {
     "id": "sau-02",

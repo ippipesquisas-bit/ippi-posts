@@ -80,5 +80,17 @@
     "imagem": "cards/2026/10/2026-10-19_politica.jpg",
     "metricool_id": 399791620,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-10-20",
+    "pilar": "saude",
+    "uf": "PI",
+    "manchete": "Piauiense nascido em 2024 tem expectativa de vida de 77,0 anos",
+    "numero": "77 anos",
+    "fonte": "IBGE, Projeções da População, Revisão 2024 (indicadores implícitos, ano 2024)",
+    "fonte_url": "https://ftp.ibge.gov.br/Projecao_da_Populacao/Projecao_da_Populacao_2024/projecoes_2024_tab4_indicadores.xlsx",
+    "imagem": "cards/2026/10/2026-10-20_saude.jpg",
+    "metricool_id": 400873031,
+    "status": "agendado_metricool"
   }
 ]
