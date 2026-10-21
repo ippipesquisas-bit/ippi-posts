@@ -92,5 +92,17 @@
     "imagem": "cards/2026/10/2026-10-20_saude.jpg",
     "metricool_id": 400873031,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-10-21",
+    "pilar": "educacao",
+    "uf": "MA",
+    "manchete": "Ideb dos anos iniciais do Maranhão sobe para 5,7, recorde do estado",
+    "numero": "5,7",
+    "fonte": "Inep/MEC, Ideb 2025 (divulgado em 05/08/2026)",
+    "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/ideb/ideb-avanca-em-todas-as-etapas-da-educacao-basica-no-maranhao",
+    "imagem": "cards/2026/10/2026-10-21_educacao.jpg",
+    "metricool_id": 401913921,
+    "status": "agendado_metricool"
   }
 ]
