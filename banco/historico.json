@@ -104,5 +104,17 @@
     "imagem": "cards/2026/10/2026-10-21_educacao.jpg",
     "metricool_id": 401913921,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-10-22",
+    "pilar": "comparativo",
+    "uf": "PI+MA",
+    "manchete": "Censo 2022: idade mediana de 34 anos no Piauí e 30 no Maranhão",
+    "numero": "34 x 30",
+    "fonte": "IBGE, Censo Demográfico 2022 (SIDRA, tabela 10097)",
+    "fonte_url": "https://apisidra.ibge.gov.br/values/t/10097/n3/22,21/n1/all/v/allxp/p/2022/c1/6795",
+    "imagem": "cards/2026/10/2026-10-22_comparativo.jpg",
+    "metricool_id": 402930549,
+    "status": "agendado_metricool"
   }
 ]

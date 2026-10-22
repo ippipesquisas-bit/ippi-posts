@@ -456,8 +456,8 @@
     "data_referencia": "2022-08",
     "verificado_em": "2026-10-08",
     "legenda": "O Piauí envelhece mais rápido que o Maranhão. A idade mediana piauiense é de 34 anos, quase igual à brasileira (35). No Maranhão, metade da população tem menos de 30 anos.\n\nO índice de envelhecimento, que mede quantos idosos (60+) existem para cada 100 jovens (0 a 14), é de 72,43 no Piauí e 49,95 no Maranhão. No Brasil, 80,03.\n\nSão perfis demográficos distintos, com impactos diferentes em saúde, educação e previdência.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nComo o perfil etário muda as prioridades de um governo?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #Maranhão #IBGE",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-10-22"
   },
   {
     "id": "sau-01",
