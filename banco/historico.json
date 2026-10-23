@@ -116,5 +116,17 @@
     "imagem": "cards/2026/10/2026-10-22_comparativo.jpg",
     "metricool_id": 402930549,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-10-23",
+    "pilar": "institucional",
+    "uf": null,
+    "manchete": "O que é o nível de confiança de 95%",
+    "numero": "95%",
+    "fonte": "IPPI Pesquisas, metodologia",
+    "fonte_url": null,
+    "imagem": "cards/2026/10/2026-10-23_institucional.jpg",
+    "metricool_id": 403942154,
+    "status": "agendado_metricool"
   }
 ]
