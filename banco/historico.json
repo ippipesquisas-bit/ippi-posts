@@ -128,5 +128,17 @@
     "imagem": "cards/2026/10/2026-10-23_institucional.jpg",
     "metricool_id": 403942154,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-10-24",
+    "pilar": "curiosidade",
+    "uf": "MA",
+    "manchete": "Maranhão tem a 5ª maior população rural do Brasil",
+    "numero": "1,97 mi",
+    "fonte": "IBGE, Censo Demográfico 2022, população por situação do domicílio (SIDRA, tabela 10211)",
+    "fonte_url": "https://apisidra.ibge.gov.br/values/t/10211/n3/all/n1/all/v/allxp/p/2022/c1/all",
+    "imagem": "cards/2026/10/2026-10-24_curiosidade.jpg",
+    "metricool_id": 404862589,
+    "status": "agendado_metricool"
   }
 ]
