@@ -152,5 +152,18 @@
     "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/10/2026-10-26_politica.jpg",
     "metricool_id": 406358632,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-10-27",
+    "pilar": "saude",
+    "uf": "MA",
+    "manchete": "Maranhão tem 1,27 médico por mil habitantes, menor razão do país",
+    "numero": "1,27",
+    "fonte": "Demografia Médica no Brasil 2025 (FMUSP/AMB/MS), projeção 2025",
+    "fonte_url": "https://med.estrategia.com/portal/noticias/brasil-tera-635-mil-medicos-ate-o-fim-do-ano-confira-os-principais-dados-da-demografia-medica-2025/",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/10/2026-10-27_saude.jpg",
+    "metricool_id": 407572043,
+    "status": "agendado_metricool",
+    "banco_id": "sau-10"
   }
 ]
