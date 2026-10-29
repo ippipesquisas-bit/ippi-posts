@@ -165,5 +165,18 @@
     "metricool_id": 407572043,
     "status": "agendado_metricool",
     "banco_id": "sau-10"
+  },
+  {
+    "data": "2026-10-29",
+    "pilar": "comparativo",
+    "uf": "PI+MA",
+    "manchete": "Fundeb 2026 soma R$ 21,9 bilhões para Maranhão e Piauí",
+    "numero": "21,9 bi",
+    "fonte": "FNDE, Portaria Interm. MEC/MF nº 14/2025, Fundeb 2026",
+    "fonte_url": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/financiamento/fundeb/Valoralunoanoereceitaanualprevista2026.pdf",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/10/2026-10-29_comparativo.jpg",
+    "metricool_id": 409823978,
+    "banco_id": "edu-20",
+    "status": "agendado_metricool"
   }
 ]
