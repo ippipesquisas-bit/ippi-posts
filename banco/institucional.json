@@ -34,8 +34,9 @@
     "contexto": "Na espontânea, o entrevistado diz um nome sem ver lista. Na estimulada, escolhe entre os candidatos apresentados. Os resultados são diferentes e ambos importam.",
     "comparacao": null,
     "fonte": "IPPI Pesquisas, metodologia",
-    "usado": false,
-    "legenda": "Uma pesquisa eleitoral séria faz a pergunta de intenção de voto de dois jeitos.\n\nESPONTÂNEA: \"Em quem você votaria para prefeito?\" — sem mostrar nenhuma lista. Mede lembrança e enraizamento do nome.\n\nESTIMULADA: a mesma pergunta, mas com a lista dos candidatos. Mede a escolha quando o eleitor vê todas as opções, como na urna.\n\nA diferença entre as duas diz muito: um candidato forte na estimulada e fraco na espontânea ainda depende de campanha para fixar o nome.\n\nOs relatórios da IPPI sempre trazem as duas.\n\nQual das duas você acha que prevê melhor o resultado?\n\n#IPPI #Metodologia #PesquisaEleitoral #IntençãoDeVoto #Eleições2026"
+    "usado": true,
+    "legenda": "Uma pesquisa eleitoral séria faz a pergunta de intenção de voto de dois jeitos.\n\nESPONTÂNEA: \"Em quem você votaria para prefeito?\" — sem mostrar nenhuma lista. Mede lembrança e enraizamento do nome.\n\nESTIMULADA: a mesma pergunta, mas com a lista dos candidatos. Mede a escolha quando o eleitor vê todas as opções, como na urna.\n\nA diferença entre as duas diz muito: um candidato forte na estimulada e fraco na espontânea ainda depende de campanha para fixar o nome.\n\nOs relatórios da IPPI sempre trazem as duas.\n\nQual das duas você acha que prevê melhor o resultado?\n\n#IPPI #Metodologia #PesquisaEleitoral #IntençãoDeVoto #Eleições2026",
+    "usado_em": "2026-10-30"
   },
   {
     "id": "ins-04",

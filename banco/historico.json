@@ -178,5 +178,18 @@
     "metricool_id": 409823978,
     "banco_id": "edu-20",
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-10-30",
+    "pilar": "institucional",
+    "uf": null,
+    "manchete": "Espontânea e estimulada: as duas perguntas de intenção de voto",
+    "numero": "2",
+    "fonte": "IPPI Pesquisas, metodologia",
+    "fonte_url": null,
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/10/2026-10-30_institucional.jpg",
+    "metricool_id": 410953480,
+    "banco_id": "ins-03",
+    "status": "agendado_metricool"
   }
 ]
