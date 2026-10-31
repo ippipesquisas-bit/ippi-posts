@@ -1,9 +1,12 @@
 {
   "pilar": "institucional",
-  "selo": "IPPI · METODOLOGIA",
-  "numero": "2",
-  "manchete": "Espontânea e estimulada: as duas perguntas de intenção de voto",
-  "contexto": "Na espontânea, o entrevistado diz um nome sem ver lista. Na estimulada, escolhe entre os candidatos apresentados. Os resultados são diferentes e ambos importam.",
-  "comparacao": null,
-  "fonte": "IPPI Pesquisas, metodologia"
+  "selo": "VOCÊ SABIA? · PIAUÍ",
+  "numero": "3,27 mi",
+  "manchete": "Piauí tem 3.271.199 habitantes em 224 municípios",
+  "contexto": "Censo 2022: a população cresceu 4,9% em relação a 2010 (3.118.360). Com 251.755 km², o estado tem cerca de 13 habitantes por km².",
+  "comparacao": {
+    "rotulo": "Censo 2010",
+    "valor": "3.118.360"
+  },
+  "fonte": "IBGE, Censo Demográfico 2022"
 }
