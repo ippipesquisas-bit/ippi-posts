@@ -191,5 +191,18 @@
     "metricool_id": 410953480,
     "banco_id": "ins-03",
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-10-31",
+    "pilar": "curiosidade",
+    "uf": "PI",
+    "manchete": "Piauí tem 3.271.199 habitantes em 224 municípios",
+    "numero": "3,27 mi",
+    "fonte": "IBGE, Censo Demográfico 2022 (SIDRA, tabela 4714)",
+    "fonte_url": "https://apisidra.ibge.gov.br/values/t/4714/n3/22,21/n1/all/v/93,6318/p/2022",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/10/2026-10-31_curiosidade.jpg",
+    "metricool_id": 412010278,
+    "banco_id": "pol-10",
+    "status": "agendado_metricool"
   }
 ]

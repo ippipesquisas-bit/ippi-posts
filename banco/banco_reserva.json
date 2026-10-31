@@ -196,8 +196,8 @@
     "data_referencia": "2022-08",
     "verificado_em": "2026-10-08",
     "legenda": "O Censo 2022 contou 3.271.199 moradores no Piauí, distribuídos em 224 municípios.\n\nO crescimento foi de 4,9% em relação a 2010, quando o estado tinha 3.118.360 habitantes. No Brasil, a população chegou a 203.080.756 pessoas.\n\nCom 251.755 km² de área, o Piauí tem cerca de 13 habitantes por quilômetro quadrado.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nQuanto a sua cidade cresceu entre os dois Censos?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #IBGE #População",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-10-31"
   },
   {
     "id": "pol-11",
