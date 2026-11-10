@@ -496,8 +496,8 @@
     "data_referencia": "2024-07",
     "verificado_em": "2026-10-08",
     "legenda": "A taxa de mortalidade infantil do Piauí é estimada em 14,6 óbitos de menores de 1 ano por mil nascidos vivos em 2024, segundo o IBGE.\n\nEm 2000, a taxa era de 40,4 por mil. A queda em 24 anos passa de 60%. Ainda assim, o estado segue acima da média nacional, que é de 12,2 por mil.\n\nA mortalidade infantil é um dos indicadores mais sensíveis à qualidade do pré-natal, do parto e da atenção básica.\n\nFonte: IBGE, Projeções da População (Revisão 2024).\n\nO que ainda falta para o Piauí alcançar a média do país?\n\n#IPPI #DadoDoDia #Piauí #MortalidadeInfantil #IBGE #SaúdePública",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-11-10"
   },
   {
     "id": "sau-03",

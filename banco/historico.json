@@ -204,5 +204,18 @@
     "metricool_id": 412010278,
     "banco_id": "pol-10",
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-11-10",
+    "pilar": "saude",
+    "uf": "PI",
+    "manchete": "Mortalidade infantil no Piauí caiu de 40,4 para 14,6 por mil",
+    "numero": "14,6",
+    "fonte": "IBGE, Projeções da População, Revisão 2024 (tab. 4, indicadores implícitos)",
+    "fonte_url": "https://ftp.ibge.gov.br/Projecao_da_Populacao/Projecao_da_Populacao_2024/projecoes_2024_tab4_indicadores.xlsx",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-10_saude.jpg",
+    "metricool_id": 422876126,
+    "banco_id": "sau-02",
+    "status": "agendado_metricool"
   }
 ]
