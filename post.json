@@ -1,12 +1,12 @@
 {
-  "pilar": "institucional",
-  "selo": "VOCÊ SABIA? · PIAUÍ",
-  "numero": "3,27 mi",
-  "manchete": "Piauí tem 3.271.199 habitantes em 224 municípios",
-  "contexto": "Censo 2022: a população cresceu 4,9% em relação a 2010 (3.118.360). Com 251.755 km², o estado tem cerca de 13 habitantes por km².",
+  "pilar": "saude",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "14,6",
+  "manchete": "Mortalidade infantil no Piauí caiu de 40,4 para 14,6 por mil",
+  "contexto": "Taxa estimada para 2024, por mil nascidos vivos. Em 2000, era 40,4. Média do Brasil em 2024: 12,2 por mil.",
   "comparacao": {
-    "rotulo": "Censo 2010",
-    "valor": "3.118.360"
+    "rotulo": "Piauí 2000",
+    "valor": "40,4"
   },
-  "fonte": "IBGE, Censo Demográfico 2022"
+  "fonte": "IBGE, Projeções da População, Revisão 2024"
 }
