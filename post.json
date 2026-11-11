@@ -1,12 +1,9 @@
 {
-  "pilar": "saude",
-  "selo": "SAÚDE · PIAUÍ",
-  "numero": "14,6",
-  "manchete": "Mortalidade infantil no Piauí caiu de 40,4 para 14,6 por mil",
-  "contexto": "Taxa estimada para 2024, por mil nascidos vivos. Em 2000, era 40,4. Média do Brasil em 2024: 12,2 por mil.",
-  "comparacao": {
-    "rotulo": "Piauí 2000",
-    "valor": "40,4"
-  },
-  "fonte": "IBGE, Projeções da População, Revisão 2024"
+  "pilar": "educacao",
+  "selo": "EDUCAÇÃO · PIAUÍ",
+  "numero": "120,8 mil",
+  "manchete": "Piauí tem 120,8 mil inscritos no Enem 2026, 77% com isenção",
+  "contexto": "Das inscrições confirmadas no estado, 92,9 mil são gratuitas e 27,8 mil, pagas. Provas em 8 e 15 de novembro. No Brasil, cerca de 68% dos 5,05 milhões de inscritos têm isenção.",
+  "comparacao": {"rotulo": "Isenção no Brasil", "valor": "cerca de 68%"},
+  "fonte": "Inep/MEC, inscrições confirmadas no Enem 2026 (out/2026)"
 }
