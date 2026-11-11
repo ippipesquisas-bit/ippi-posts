@@ -217,5 +217,18 @@
     "metricool_id": 422876126,
     "banco_id": "sau-02",
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-11-11",
+    "pilar": "educacao",
+    "uf": "PI",
+    "manchete": "Piauí tem 120,8 mil inscritos no Enem 2026, 77% com isenção",
+    "numero": "120,8 mil",
+    "fonte": "Inep/MEC, inscrições confirmadas no Enem 2026 (divulgação de 13/10/2026)",
+    "fonte_url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/piaui-tem-120-8-mil-inscritos-na-edicao-de-2026-do-enem",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-11_educacao.jpg",
+    "metricool_id": 424154509,
+    "origem": "busca_nova",
+    "status": "agendado_metricool"
   }
 ]
