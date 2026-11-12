@@ -1,9 +1,9 @@
 {
-  "pilar": "educacao",
-  "selo": "EDUCAÇÃO · PIAUÍ",
-  "numero": "120,8 mil",
-  "manchete": "Piauí tem 120,8 mil inscritos no Enem 2026, 77% com isenção",
-  "contexto": "Das inscrições confirmadas no estado, 92,9 mil são gratuitas e 27,8 mil, pagas. Provas em 8 e 15 de novembro. No Brasil, cerca de 68% dos 5,05 milhões de inscritos têm isenção.",
-  "comparacao": {"rotulo": "Isenção no Brasil", "valor": "cerca de 68%"},
-  "fonte": "Inep/MEC, inscrições confirmadas no Enem 2026 (out/2026)"
+  "pilar": "politica",
+  "selo": "PIAUÍ × MARANHÃO",
+  "numero": "7,89 mi",
+  "manchete": "Piauí e Maranhão somam 7,89 milhões de eleitores, 5% do Brasil",
+  "contexto": "No 1º turno de 2026, foram 2.704.758 aptos no Piauí e 5.183.115 no Maranhão, 4,97% dos 158.745.502 eleitores do país.",
+  "comparacao": {"rotulo": "Brasil", "valor": "158,7 mi"},
+  "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)"
 }
