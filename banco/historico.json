@@ -230,5 +230,17 @@
     "metricool_id": 424154509,
     "origem": "busca_nova",
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-11-12",
+    "pilar": "comparativo",
+    "uf": "PI+MA",
+    "manchete": "Piauí e Maranhão somam 7,89 milhões de eleitores, 5% do Brasil",
+    "numero": "7,89 mi",
+    "fonte": "TSE, Resultados Eleições 2026, 1º turno (04/10/2026)",
+    "fonte_url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.json",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-12_comparativo.jpg",
+    "metricool_id": 425417908,
+    "status": "agendado_metricool"
   }
 ]
