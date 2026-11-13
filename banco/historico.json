@@ -242,5 +242,18 @@
     "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-12_comparativo.jpg",
     "metricool_id": 425417908,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-11-13",
+    "pilar": "institucional",
+    "uf": null,
+    "manchete": "Toda pesquisa eleitoral precisa ser registrada 5 dias antes",
+    "numero": "5 dias",
+    "fonte": "Lei 9.504/1997, art. 33; Res. TSE 23.600/2019",
+    "fonte_url": null,
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-13_institucional.jpg",
+    "metricool_id": 426690486,
+    "banco_id": "ins-04",
+    "status": "agendado_metricool"
   }
 ]

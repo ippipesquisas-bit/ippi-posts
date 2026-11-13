@@ -47,8 +47,9 @@
     "contexto": "A Lei 9.504/1997 exige o registro na Justiça Eleitoral com pelo menos cinco dias de antecedência da divulgação. O registro é público no PesqEle.",
     "comparacao": null,
     "fonte": "Lei 9.504/1997, art. 33; Res. TSE 23.600/2019",
-    "usado": false,
-    "legenda": "Antes de uma pesquisa eleitoral chegar ao público, ela precisa ser registrada na Justiça Eleitoral com pelo menos cinco dias de antecedência.\n\nO registro informa quem contratou, quanto custou, qual a amostra, a margem de erro, o período de coleta e o questionário completo. Tudo fica público no PesqEle, o sistema do TSE que qualquer pessoa pode consultar.\n\nDivulgar pesquisa sem registro é infração eleitoral, com multa de R$ 53 mil a R$ 106 mil.\n\nTodas as pesquisas da IPPI são registradas e o número de registro aparece em cada card e relatório.\n\nVocê já consultou o PesqEle? O link fica em divulgacandcontas.tse.jus.br.\n\n#IPPI #PesquisaEleitoral #PesqEle #Transparência #Eleições2026"
+    "usado": true,
+    "legenda": "Antes de uma pesquisa eleitoral chegar ao público, ela precisa ser registrada na Justiça Eleitoral com pelo menos cinco dias de antecedência.\n\nO registro informa quem contratou, quanto custou, qual a amostra, a margem de erro, o período de coleta e o questionário completo. Tudo fica público no PesqEle, o sistema do TSE que qualquer pessoa pode consultar.\n\nDivulgar pesquisa sem registro é infração eleitoral, com multa de R$ 53 mil a R$ 106 mil.\n\nTodas as pesquisas da IPPI são registradas e o número de registro aparece em cada card e relatório.\n\nVocê já consultou o PesqEle? O link fica em divulgacandcontas.tse.jus.br.\n\n#IPPI #PesquisaEleitoral #PesqEle #Transparência #Eleições2026",
+    "usado_em": "2026-11-13"
   },
   {
     "id": "ins-05",
