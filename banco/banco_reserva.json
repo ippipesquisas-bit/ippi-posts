@@ -396,8 +396,8 @@
     "data_referencia": "2022-08",
     "verificado_em": "2026-10-08",
     "legenda": "O Censo 2022 contou 6.776.699 pessoas no Maranhão, crescimento de 3,1% em relação a 2010 (6.574.789).\n\nO estado tem uma das populações mais jovens do país: idade mediana de 30 anos, contra 34 no Piauí e 35 no Brasil. O índice de envelhecimento (idosos por 100 jovens) é de 49,95, bem abaixo dos 80,03 nacionais.\n\nSão 217 municípios em 329.651 km².\n\nFonte: IBGE, Censo Demográfico 2022.\n\nUma população jovem é oportunidade ou desafio para a gestão pública?\n\n#IPPI #DadoDoDia #Censo2022 #Maranhão #IBGE #População",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-11-14"
   },
   {
     "id": "pol-21",

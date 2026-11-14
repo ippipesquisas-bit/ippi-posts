@@ -255,5 +255,17 @@
     "metricool_id": 426690486,
     "banco_id": "ins-04",
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-11-14",
+    "pilar": "curiosidade",
+    "uf": "MA",
+    "manchete": "Maranhão tem 6.776.699 habitantes, 3,1% a mais que em 2010",
+    "numero": "6,78 mi",
+    "fonte": "IBGE, Censo Demográfico 2022",
+    "fonte_url": "https://apisidra.ibge.gov.br/values/t/10097/n3/22,21/n1/all/v/allxp/p/2022/c1/6795",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-14_curiosidade.jpg",
+    "metricool_id": 427843759,
+    "status": "agendado_metricool"
   }
 ]
