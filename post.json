@@ -1,9 +1,12 @@
 {
   "pilar": "institucional",
-  "selo": "IPPI · METODOLOGIA",
-  "numero": "5 dias",
-  "manchete": "Toda pesquisa eleitoral precisa ser registrada 5 dias antes",
-  "contexto": "A Lei 9.504/1997 exige o registro na Justiça Eleitoral com pelo menos cinco dias de antecedência da divulgação. O registro é público no PesqEle.",
-  "comparacao": null,
-  "fonte": "Lei 9.504/1997, art. 33; Res. TSE 23.600/2019"
+  "selo": "VOCÊ SABIA? · MARANHÃO",
+  "numero": "6,78 mi",
+  "manchete": "Maranhão tem 6.776.699 habitantes, 3,1% a mais que em 2010",
+  "contexto": "Censo 2022: em 2010, eram 6.574.789 moradores. São 217 municípios em 329.651 km², cerca de 21 habitantes por km².",
+  "comparacao": {
+    "rotulo": "Censo 2010",
+    "valor": "6.574.789"
+  },
+  "fonte": "IBGE, Censo Demográfico 2022"
 }
