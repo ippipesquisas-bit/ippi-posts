@@ -1,12 +1,12 @@
 {
-  "pilar": "institucional",
-  "selo": "VOCÊ SABIA? · MARANHÃO",
-  "numero": "6,78 mi",
-  "manchete": "Maranhão tem 6.776.699 habitantes, 3,1% a mais que em 2010",
-  "contexto": "Censo 2022: em 2010, eram 6.574.789 moradores. São 217 municípios em 329.651 km², cerca de 21 habitantes por km².",
+  "pilar": "politica",
+  "selo": "POLÍTICA · MARANHÃO",
+  "numero": "95,22%",
+  "manchete": "Maranhão tem 95,22% dos eleitores com biometria cadastrada",
+  "contexto": "Nas Eleições 2026, 4.938.634 eleitores maranhenses tinham digitais coletadas e 247.928 (4,78%) não. A cobertura supera a média nacional, de 89,01%.",
   "comparacao": {
-    "rotulo": "Censo 2010",
-    "valor": "6.574.789"
+    "rotulo": "Brasil",
+    "valor": "89,01%"
   },
-  "fonte": "IBGE, Censo Demográfico 2022"
+  "fonte": "TRE-MA, balanço Eleições 2026 (30/09/2026); TSE"
 }
