@@ -276,8 +276,8 @@
     "data_referencia": "2026-09",
     "verificado_em": "2026-10-08",
     "legenda": "No Maranhão, 4.938.634 eleitores (95,22%) já têm biometria cadastrada na Justiça Eleitoral. Outros 247.928 (4,78%) ainda não passaram pela coleta.\n\nA cobertura maranhense supera a média brasileira, de 89,01%, segundo o TSE.\n\nA biometria é usada para identificar o eleitor na seção e evitar duplicidade de títulos.\n\nFonte: TRE-MA, balanço de 30/09/2026; TSE.\n\nVocê já votou com a digital na urna?\n\n#IPPI #DadoDoDia #Biometria #Maranhão #TREMA #JustiçaEleitoral",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-11-16"
   },
   {
     "id": "pol-15",

@@ -267,5 +267,18 @@
     "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-14_curiosidade.jpg",
     "metricool_id": 427843759,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-11-16",
+    "pilar": "politica",
+    "uf": "MA",
+    "manchete": "Maranhão tem 95,22% dos eleitores com biometria cadastrada",
+    "numero": "95,22%",
+    "fonte": "TRE-MA, balanço das Eleições 2026 (30/09/2026); TSE, cadastro eleitoral (set/2026)",
+    "fonte_url": "https://www.tre-ma.jus.br/comunicacao/noticias/2026/Setembro/numeros-estrutura-e-orientacoes-para-o-dia-da-votacao",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-16_politica.jpg",
+    "metricool_id": 429763490,
+    "banco_id": "pol-14",
+    "status": "agendado_metricool"
   }
 ]
