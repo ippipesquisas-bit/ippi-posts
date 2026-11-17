@@ -1,12 +1,12 @@
 {
-  "pilar": "politica",
-  "selo": "POLÍTICA · MARANHÃO",
-  "numero": "95,22%",
-  "manchete": "Maranhão tem 95,22% dos eleitores com biometria cadastrada",
-  "contexto": "Nas Eleições 2026, 4.938.634 eleitores maranhenses tinham digitais coletadas e 247.928 (4,78%) não. A cobertura supera a média nacional, de 89,01%.",
+  "pilar": "saude",
+  "selo": "SAÚDE · MARANHÃO",
+  "numero": "14,6",
+  "manchete": "Mortalidade infantil no Maranhão: de 41,8 para 14,6 por mil",
+  "contexto": "Taxa estimada para 2024, em óbitos de menores de 1 ano por mil nascidos vivos. Em 2000, era de 41,8. A média brasileira em 2024 é de 12,2.",
   "comparacao": {
-    "rotulo": "Brasil",
-    "valor": "89,01%"
+    "rotulo": "Maranhão 2000",
+    "valor": "41,8"
   },
-  "fonte": "TRE-MA, balanço Eleições 2026 (30/09/2026); TSE"
+  "fonte": "IBGE, Projeções da População, Revisão 2024 (ano 2024)"
 }
