@@ -676,8 +676,8 @@
     "data_referencia": "2024-07",
     "verificado_em": "2026-10-08",
     "legenda": "A taxa de mortalidade infantil do Maranhão é estimada em 14,6 óbitos de menores de 1 ano por mil nascidos vivos em 2024, segundo as Projeções da População do IBGE.\n\nEm 2000, o estado registrava 41,8 por mil. A redução supera 65% em pouco mais de duas décadas, mas o Maranhão ainda está acima da média nacional (12,2).\n\nA projeção do IBGE aponta 6,0 por mil para 2070.\n\nFonte: IBGE, Projeções da População (Revisão 2024).\n\nO que mudou na saúde materno-infantil maranhense nesses 24 anos?\n\n#IPPI #DadoDoDia #Maranhão #MortalidadeInfantil #IBGE #SaúdePública",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-11-17"
   },
   {
     "id": "sau-12",
