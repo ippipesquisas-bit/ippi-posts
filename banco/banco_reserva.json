@@ -1076,8 +1076,8 @@
     "data_referencia": "2025-12",
     "verificado_em": "2026-10-08",
     "legenda": "O Ideb do ensino médio do Maranhão alcançou 3,9 em 2025, ante 3,8 em 2023. É o maior valor da série histórica do estado, iniciada em 2005.\n\nA média do Brasil na etapa é 4,5. Na rede pública maranhense, o índice foi de 3,7 para 3,8.\n\nNos anos finais do fundamental, o Maranhão marcou 4,7 (Brasil: 5,3).\n\nFonte: Inep/MEC, Ideb 2025.\n\nQual etapa da educação básica merece mais atenção hoje? Comente.\n\n#IPPI #DadoDoDia #Ideb #Maranhão #EnsinoMédio #Educação",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-11-18"
   },
   {
     "id": "edu-12",
