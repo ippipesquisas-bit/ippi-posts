@@ -856,8 +856,8 @@
     "data_referencia": "2022-12",
     "verificado_em": "2026-10-08",
     "legenda": "Em 2022, 11,46% dos bebês nascidos no Piauí e 11,56% dos nascidos no Maranhão eram prematuros (menos de 37 semanas de gestação), segundo boletim do Ministério da Saúde com dados do SINASC.\n\nOs dois estados ficaram ligeiramente abaixo da média do Brasil (11,85%) e do Nordeste (11,84%).\n\nA prevalência de prematuridade oscila pouco na série 2012-2022: entre 10% e 12% nos dois estados em todos os anos.\n\nFonte: Ministério da Saúde, Boletim Epidemiológico vol. 55, nº 13 (2024), Tabela 1.\n\nO que o pré-natal pode fazer para reduzir esse número?\n\n#IPPI #DadoDoDia #Piauí #Maranhão #Prematuridade #SINASC",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-11-19"
   },
   {
     "id": "edu-01",
