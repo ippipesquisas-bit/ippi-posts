@@ -1016,8 +1016,8 @@
     "data_referencia": "2022-08",
     "verificado_em": "2026-10-08",
     "legenda": "No Censo 2022, 82,77% dos piauienses de 15 anos ou mais eram alfabetizados. Isso significa uma taxa de analfabetismo de 17,2%, a segunda maior do Brasil, atrás apenas de Alagoas.\n\nA média nacional de analfabetismo é 7,0%; no Nordeste, 14,2%.\n\nO analfabetismo se concentra nas faixas etárias mais velhas e na zona rural, o que torna a redução um processo lento.\n\nFonte: IBGE, Censo Demográfico 2022.\n\nVocê conhece iniciativas de alfabetização de adultos na sua cidade?\n\n#IPPI #DadoDoDia #Censo2022 #Piauí #Alfabetização #IBGE",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-11-21"
   },
   {
     "id": "edu-09",

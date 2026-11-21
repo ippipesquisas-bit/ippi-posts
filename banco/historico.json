@@ -319,5 +319,17 @@
     "metricool_id": 433931685,
     "banco_id": "sau-20",
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-11-21",
+    "pilar": "curiosidade",
+    "uf": "PI",
+    "manchete": "Piauí tem 17,2% de analfabetos entre pessoas de 15 anos ou mais",
+    "numero": "17,2%",
+    "fonte": "IBGE, Censo Demográfico 2022, alfabetização",
+    "fonte_url": "https://servicodados.ibge.gov.br/api/v1/pesquisas/10101/indicadores/126661/resultados/21|22|0",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-21_curiosidade.jpg",
+    "metricool_id": 436498541,
+    "status": "agendado_metricool"
   }
 ]
