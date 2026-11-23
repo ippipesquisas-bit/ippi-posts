@@ -331,5 +331,17 @@
     "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-21_curiosidade.jpg",
     "metricool_id": 436498541,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-11-23",
+    "pilar": "politica",
+    "uf": "PI",
+    "manchete": "Piauí tem 97,56% do eleitorado com biometria cadastrada",
+    "numero": "97,56%",
+    "fonte": "TSE, Dados Abertos – Eleitorado Atual (01/10/2026)",
+    "fonte_url": "https://dadosabertos.tse.jus.br/dataset/eleitorado-atual",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-23_politica.jpg",
+    "metricool_id": 438462345,
+    "status": "agendado_metricool"
   }
 ]

@@ -56,8 +56,8 @@
     "data_referencia": "2026-10",
     "verificado_em": "2026-10-08",
     "legenda": "O Piauí é um dos estados com maior cobertura biométrica do país: 97,56% dos eleitores têm as digitais cadastradas na Justiça Eleitoral.\n\nSão 2.642.571 pessoas com biometria em um cadastro de 2.708.756 eleitores, na posição de 1º de outubro de 2026.\n\nNo Brasil, o índice é de 89,01%, segundo o TSE. Em 2022, era de 75,51%.\n\nFonte: TSE, Portal de Dados Abertos (Eleitorado Atual) e balanço nacional do TSE.\n\nA biometria já é regra na sua seção eleitoral?\n\n#IPPI #DadoDoDia #Biometria #Piauí #TSE #JustiçaEleitoral",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-11-23"
   },
   {
     "id": "pol-04",
