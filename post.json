@@ -1,9 +1,9 @@
 {
-  "pilar": "politica",
-  "selo": "POLÍTICA · PIAUÍ",
-  "numero": "97,56%",
-  "manchete": "Piauí tem 97,56% do eleitorado com biometria cadastrada",
-  "contexto": "São 2.642.571 eleitores com digitais coletadas em um cadastro de 2.708.756 (posição de 01/10/2026). No Brasil, a cobertura biométrica é de 89,01%.",
-  "comparacao": {"rotulo": "Brasil", "valor": "89,01%"},
-  "fonte": "TSE, Dados Abertos – Eleitorado Atual (01/10/2026)"
+  "pilar": "saude",
+  "selo": "SAÚDE · PIAUÍ",
+  "numero": "64,7%",
+  "manchete": "Quase 65% dos partos no Piauí foram cesáreas em 2024",
+  "contexto": "Foram 25.691 cesáreas entre 39.697 nascidos vivos de mães residentes no estado. No Brasil, a proporção foi de 60,6%.",
+  "comparacao": {"rotulo": "Brasil 2024", "valor": "60,6%"},
+  "fonte": "MS/SINASC, nascidos vivos por tipo de parto, 2024"
 }
