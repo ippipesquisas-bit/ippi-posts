@@ -343,5 +343,17 @@
     "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-23_politica.jpg",
     "metricool_id": 438462345,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-11-24",
+    "pilar": "saude",
+    "uf": "PI",
+    "manchete": "Quase 65% dos partos no Piauí foram cesáreas em 2024",
+    "numero": "64,7%",
+    "fonte": "MS/SINASC, nascidos vivos por tipo de parto, 2024",
+    "fonte_url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvuf.def",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-24_saude.jpg",
+    "metricool_id": 439969168,
+    "status": "agendado_metricool"
   }
 ]

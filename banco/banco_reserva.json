@@ -516,8 +516,8 @@
     "data_referencia": "2024-12",
     "verificado_em": "2026-10-08",
     "legenda": "Em 2024, 64,7% dos nascidos vivos de mães residentes no Piauí vieram ao mundo por cesariana: 25.691 de um total de 39.697 nascimentos, segundo o SINASC.\n\nA proporção piauiense supera a média brasileira (60,6%) e fica muito acima do patamar de 10% a 15% que a OMS considera justificável por razões médicas.\n\nOs dados são finais, extraídos pelo DATASUS em dezembro de 2025.\n\nFonte: Ministério da Saúde, SINASC/DATASUS (TabNet), 2024.\n\nPor que a cesárea virou regra, e não exceção?\n\n#IPPI #DadoDoDia #Piauí #Cesárea #SINASC #SaúdeMaterna",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-11-24"
   },
   {
     "id": "sau-04",
