@@ -355,5 +355,17 @@
     "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-24_saude.jpg",
     "metricool_id": 439969168,
     "status": "agendado_metricool"
+  },
+  {
+    "data": "2026-11-25",
+    "pilar": "educacao",
+    "uf": "PI",
+    "manchete": "Teresina tem o maior Ideb dos anos iniciais entre as capitais",
+    "numero": "6,9",
+    "fonte": "MEC/Inep, Ideb 2025, rede municipal (via Portal de Prefeitura)",
+    "fonte_url": "https://portaldeprefeitura.com.br/pernambuco/ideb-2025-recife-fica-atras-de-teresina-fortaleza-sao-luis-e/629015/",
+    "imagem": "cards/2026/11/2026-11-25_educacao.jpg",
+    "metricool_id": 441427340,
+    "status": "rascunho_metricool"
   }
 ]
