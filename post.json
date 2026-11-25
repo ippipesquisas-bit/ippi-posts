@@ -1,9 +1,9 @@
 {
-  "pilar": "saude",
-  "selo": "SAÚDE · PIAUÍ",
-  "numero": "64,7%",
-  "manchete": "Quase 65% dos partos no Piauí foram cesáreas em 2024",
-  "contexto": "Foram 25.691 cesáreas entre 39.697 nascidos vivos de mães residentes no estado. No Brasil, a proporção foi de 60,6%.",
-  "comparacao": {"rotulo": "Brasil 2024", "valor": "60,6%"},
-  "fonte": "MS/SINASC, nascidos vivos por tipo de parto, 2024"
+  "pilar": "educacao",
+  "selo": "EDUCAÇÃO · TERESINA",
+  "numero": "6,9",
+  "manchete": "Teresina tem o maior Ideb dos anos iniciais entre as capitais",
+  "contexto": "A rede municipal de Teresina marcou 6,9 nos anos iniciais (empatada com Curitiba) e 5,9 nos anos finais, 1º lugar entre as 26 capitais no Ideb 2025.",
+  "comparacao": {"rotulo": "Anos finais (1º entre capitais)", "valor": "5,9"},
+  "fonte": "MEC/Inep, Ideb 2025, rede municipal (via Portal de Prefeitura)"
 }
