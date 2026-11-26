@@ -1,9 +1,9 @@
 {
-  "pilar": "educacao",
-  "selo": "EDUCAÇÃO · TERESINA",
-  "numero": "6,9",
-  "manchete": "Teresina tem o maior Ideb dos anos iniciais entre as capitais",
-  "contexto": "A rede municipal de Teresina marcou 6,9 nos anos iniciais (empatada com Curitiba) e 5,9 nos anos finais, 1º lugar entre as 26 capitais no Ideb 2025.",
-  "comparacao": {"rotulo": "Anos finais (1º entre capitais)", "valor": "5,9"},
-  "fonte": "MEC/Inep, Ideb 2025, rede municipal (via Portal de Prefeitura)"
+  "pilar": "saude",
+  "selo": "PIAUÍ × MARANHÃO",
+  "numero": "160 × 69",
+  "manchete": "Dengue em 2025: Piauí teve 160 casos por 100 mil; Maranhão, 69",
+  "contexto": "Incidência de casos prováveis por 100 mil habitantes nas 22 primeiras semanas de 2025 (até 31/05). Piauí: 5.235 casos; Maranhão: 4.675. Brasil: 713,1 por 100 mil.",
+  "comparacao": {"rotulo": "Brasil", "valor": "713,1"},
+  "fonte": "MS, Informe Semanal Arboviroses nº 16/2025 (SE 1-22)"
 }
