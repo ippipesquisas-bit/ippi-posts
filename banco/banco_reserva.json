@@ -836,8 +836,8 @@
     "data_referencia": "2025-05",
     "verificado_em": "2026-10-08",
     "legenda": "Nas 22 primeiras semanas de 2025, o Brasil registrou 713,1 casos prováveis de dengue por 100 mil habitantes. No Piauí, a incidência foi de 160,1; no Maranhão, de 69,0.\n\nEm números absolutos: 1.447.993 casos no país, 5.235 no Piauí e 4.675 no Maranhão, segundo o Sinan.\n\nOs dois estados ficaram muito abaixo da média nacional no período. Mas a dengue é cíclica, e anos de baixa costumam preceder anos de alta.\n\nFonte: Ministério da Saúde, Informe Semanal de Arboviroses nº 16/2025 (SE 1 a 22, dados de 02/06/2025).\n\nPor que o Nordeste ocidental teve menos dengue que o Sudeste em 2025?\n\n#IPPI #DadoDoDia #Piauí #Maranhão #Dengue #Arboviroses",
-    "usado": false,
-    "usado_em": null
+    "usado": true,
+    "usado_em": "2026-11-26"
   },
   {
     "id": "sau-20",

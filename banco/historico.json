@@ -367,5 +367,17 @@
     "imagem": "cards/2026/11/2026-11-25_educacao.jpg",
     "metricool_id": 441427340,
     "status": "rascunho_metricool"
+  },
+  {
+    "data": "2026-11-26",
+    "pilar": "comparativo",
+    "uf": "PI+MA",
+    "manchete": "Dengue em 2025: Piauí teve 160 casos por 100 mil; Maranhão, 69",
+    "numero": "160 × 69",
+    "fonte": "MS, Informe Semanal Arboviroses nº 16/2025 (SE 1-22)",
+    "fonte_url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/arboviroses/informe-semanal/2025/informe-semanal-no-16",
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-26_comparativo.jpg",
+    "metricool_id": 442823780,
+    "status": "rascunho_metricool"
   }
 ]
