@@ -379,5 +379,17 @@
     "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-26_comparativo.jpg",
     "metricool_id": 442823780,
     "status": "rascunho_metricool"
+  },
+  {
+    "data": "2026-11-27",
+    "pilar": "institucional",
+    "uf": "IPPI",
+    "manchete": "Por que duas pesquisas no mesmo lugar dão resultados diferentes",
+    "numero": "4",
+    "fonte": "IPPI Pesquisas, metodologia",
+    "fonte_url": null,
+    "imagem": "https://raw.githubusercontent.com/ippipesquisas-bit/ippi-posts/main/cards/2026/11/2026-11-27_institucional.jpg",
+    "metricool_id": 444081698,
+    "status": "agendado_metricool"
   }
 ]

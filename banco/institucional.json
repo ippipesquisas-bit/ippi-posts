@@ -60,8 +60,9 @@
     "contexto": "Período de coleta, método (presencial ou telefone), desenho da amostra e ordem das perguntas mudam o resultado — sem que nenhuma esteja \"errada\".",
     "comparacao": null,
     "fonte": "IPPI Pesquisas, metodologia",
-    "usado": false,
-    "legenda": "Dois institutos pesquisam a mesma cidade na mesma semana e os números não batem. Pesquisa errada? Nem sempre. Quatro fatores explicam a maior parte das diferenças:\n\n1. Período de coleta — três dias de diferença podem pegar um fato novo.\n2. Método — entrevista presencial, telefone e online alcançam públicos diferentes.\n3. Desenho da amostra — cotas por sexo, idade, renda e região precisam refletir o eleitorado real.\n4. Ordem e redação das perguntas.\n\nO que não pode: amostra sem cotas, pesquisa sem registro e resultado sem margem de erro.\n\nA IPPI publica todos esses parâmetros em cada relatório.\n\nQual desses fatores você acha que mais pesa?\n\n#IPPI #Metodologia #PesquisaEleitoral #Estatística #Eleições2026"
+    "usado": true,
+    "legenda": "Dois institutos pesquisam a mesma cidade na mesma semana e os números não batem. Pesquisa errada? Nem sempre. Quatro fatores explicam a maior parte das diferenças:\n\n1. Período de coleta — três dias de diferença podem pegar um fato novo.\n2. Método — entrevista presencial, telefone e online alcançam públicos diferentes.\n3. Desenho da amostra — cotas por sexo, idade, renda e região precisam refletir o eleitorado real.\n4. Ordem e redação das perguntas.\n\nO que não pode: amostra sem cotas, pesquisa sem registro e resultado sem margem de erro.\n\nA IPPI publica todos esses parâmetros em cada relatório.\n\nQual desses fatores você acha que mais pesa?\n\n#IPPI #Metodologia #PesquisaEleitoral #Estatística #Eleições2026",
+    "usado_em": "2026-11-27"
   },
   {
     "id": "ins-06",
