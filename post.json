@@ -1,9 +1,9 @@
 {
-  "pilar": "saude",
-  "selo": "PIAUÍ × MARANHÃO",
-  "numero": "160 × 69",
-  "manchete": "Dengue em 2025: Piauí teve 160 casos por 100 mil; Maranhão, 69",
-  "contexto": "Incidência de casos prováveis por 100 mil habitantes nas 22 primeiras semanas de 2025 (até 31/05). Piauí: 5.235 casos; Maranhão: 4.675. Brasil: 713,1 por 100 mil.",
-  "comparacao": {"rotulo": "Brasil", "valor": "713,1"},
-  "fonte": "MS, Informe Semanal Arboviroses nº 16/2025 (SE 1-22)"
+  "pilar": "institucional",
+  "selo": "IPPI · METODOLOGIA",
+  "numero": "4",
+  "manchete": "Por que duas pesquisas no mesmo lugar dão resultados diferentes",
+  "contexto": "Período de coleta, método (presencial ou telefone), desenho da amostra e ordem das perguntas mudam o resultado — sem que nenhuma esteja \"errada\".",
+  "comparacao": null,
+  "fonte": "IPPI Pesquisas, metodologia"
 }
