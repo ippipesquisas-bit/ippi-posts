@@ -1,9 +1,9 @@
 {
   "pilar": "institucional",
-  "selo": "IPPI · METODOLOGIA",
-  "numero": "4",
-  "manchete": "Por que duas pesquisas no mesmo lugar dão resultados diferentes",
-  "contexto": "Período de coleta, método (presencial ou telefone), desenho da amostra e ordem das perguntas mudam o resultado — sem que nenhuma esteja \"errada\".",
-  "comparacao": null,
-  "fonte": "IPPI Pesquisas, metodologia"
+  "selo": "VOCÊ SABIA? · MARANHÃO",
+  "numero": "3,1",
+  "manchete": "Família maranhense tem 3,1 pessoas em média, a maior do Nordeste",
+  "contexto": "POF 2024-2025: a família média do Maranhão tem 3,10 pessoas, acima do Piauí (2,93), do Nordeste (2,75) e do Brasil (2,67). É o 5º maior tamanho entre os 27 estados.",
+  "comparacao": {"rotulo": "Brasil, POF 2024-2025", "valor": "2,67"},
+  "fonte": "IBGE, POF 2024-2025, primeiros resultados, tab. 1.3.21.1"
 }
